@@ -1,0 +1,2 @@
+# -Document_Slice_Contextual_Retrieval_Public
+Public version of the Document_Slice_Contextual_Retrieval repository with prohibitively lincensed documents removed.
