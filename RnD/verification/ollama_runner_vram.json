@@ -1,0 +1,26 @@
+{
+ "16384": {
+  "idle_mib": 15,
+  "peak_mib": 4663,
+  "after_mib": 4663,
+  "ps_size_gib": 3.31029296759516,
+  "ps_size_vram_gib": 3.31029296759516,
+  "prompt_eval_count": 11773,
+  "seconds": 8.304343938827515,
+  "load_s": 4.050104281,
+  "prompt_eval_s": 3.098516
+ },
+ "30000": {
+  "idle_mib": 15,
+  "peak_mib": 4947,
+  "after_mib": 4947,
+  "ps_size_gib": 3.32347656134516,
+  "ps_size_vram_gib": 3.32347656134516,
+  "prompt_eval_count": 11773,
+  "seconds": 6.236036062240601,
+  "load_s": 2.000657308,
+  "prompt_eval_s": 3.095473
+ },
+ "version": "0.35.1",
+ "probe": "longest k=3 prompt of the corpus: s41598-020-77823-3.pdf.json chunk 0, 51300 characters, prompt_eval_count 11773; measured 2026-10-05"
+}

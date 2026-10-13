@@ -1,0 +1,69 @@
+{
+ "tag": "tables1_run2",
+ "generation_summary": [
+  "Suggested radius distribution: {0: 111, 1: 96, 2: 157, 3: 18}  (k=0 chunks skipped the summariser: True)",
+  "Summariser calls that (re)loaded the model: 0  (expected 0: the predictor loads the shared runner once; anything else means a model swap)",
+  "codecarbon: 0.002716 kg CO2eq, 0.012728 kWh over 509 s -> ./emissions_data/emissions.csv"
+ ],
+ "metrics": {
+  "5": {
+   "RECALL": {
+    "own": 0.749,
+    "baseline": 0.73733
+   },
+   "MRR": {
+    "own": 0.81936,
+    "baseline": 0.82897
+   },
+   "MAR": {
+    "own": 2.12837,
+    "baseline": 2.09299
+   }
+  },
+  "10": {
+   "RECALL": {
+    "own": 0.85833,
+    "baseline": 0.865
+   },
+   "MRR": {
+    "own": 0.79408,
+    "baseline": 0.79792
+   },
+   "MAR": {
+    "own": 2.79542,
+    "baseline": 2.92247
+   }
+  },
+  "15": {
+   "RECALL": {
+    "own": 0.91933,
+    "baseline": 0.93333
+   },
+   "MRR": {
+    "own": 0.79113,
+    "baseline": 0.78635
+   },
+   "MAR": {
+    "own": 3.4534,
+    "baseline": 3.65995
+   }
+  },
+  "20": {
+   "RECALL": {
+    "own": 0.942,
+    "baseline": 0.954
+   },
+   "MRR": {
+    "own": 0.78815,
+    "baseline": 0.78635
+   },
+   "MAR": {
+    "own": 3.82554,
+    "baseline": 3.93548
+   }
+  }
+ },
+ "gen_minutes": 9.1,
+ "bench_minutes": 5.7,
+ "module_sha": "2008392fbf036722d17fca8f602c0dd920345d0f498c3594f690a45265a27099"
+}

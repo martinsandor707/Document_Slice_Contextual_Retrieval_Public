@@ -1,0 +1,5140 @@
+[
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 0,
+  "id": "0cf3ba2977c608428dc3049ab7baa19a26e3afac77659cd7b1ff6d1af425c704",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.994,
+   0.001,
+   0.001,
+   0.004
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 1,
+  "id": "18d60b82daee2894a31097cbcee6654ca0973b4449e75e73305e314c9953b373",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.007,
+   0.968,
+   0.02,
+   0.005
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 2,
+  "id": "4a1cc0d3184c87ff15b84d60b5228bc49a37db3117f584e5707369bd2bc915a0",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.0,
+   0.0,
+   0.999
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 3,
+  "id": "5f452aa54b19fc9c92f1fc32916612cf02eabcc69215d57af43f66942d8ccaa7",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.076,
+   0.003,
+   0.002,
+   0.919
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 4,
+  "id": "c4e3a7ccf11c781eaff131bae71e86cf1a530dd16b610d1593eb1bea2f8aa4ca",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.911,
+   0.077,
+   0.005,
+   0.007
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 5,
+  "id": "7485776787809d3c30757a9988b6b7f3acdfcf071f2db42c35ff1b15875c50a8",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.007,
+   0.051,
+   0.934,
+   0.007
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 6,
+  "id": "84d4d0a0c7dd3ca4e7f45795b8196e3d2026a44ec337dc23a6f60c4027d18137",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.056,
+   0.801,
+   0.107,
+   0.036
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 7,
+  "id": "2a0175332c45a13cfa875336eb4996ed01bc6d94292616ac512e4b69e41b2427",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.255,
+   0.234,
+   0.105,
+   0.406
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 8,
+  "id": "699ac3b4c5eca26ab9873060bc2879f47afd690d28c3747aa6aba4bd931a4c83",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.037,
+   0.795,
+   0.109,
+   0.059
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 9,
+  "id": "c6b98a5b5d56b17f86fb12b5414aff50ad246175342c050dffc0197a6a8add9b",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.088,
+   0.768,
+   0.122,
+   0.023
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 10,
+  "id": "e45de937396e2485140d34ced084312e75d0ede0fafb2d0fc2cf5d1abff07577",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.016,
+   0.064,
+   0.21,
+   0.709
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 11,
+  "id": "9b11cfbcb656a5a45ac5870a26301315dde05db2a397690abbdb12c289f21edb",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.019,
+   0.69,
+   0.142,
+   0.149
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 12,
+  "id": "5fe973cad82c579c4c022c445d1548343ebf66d9d279c73e7f43c56ed1bed0ff",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.007,
+   0.015,
+   0.857,
+   0.121
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 13,
+  "id": "4300581ac2a6c61396e0ec87f80a8104ba4deb2d996b51106ef57dc511d1ef7d",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.041,
+   0.018,
+   0.011,
+   0.929
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 14,
+  "id": "2d472baed18db1e1db6793270653b04a574fdd3f071c782fae6bd78b0241f89c",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'Table 1: Data and artifacts made open from the Gan'",
+  "p": null
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 15,
+  "id": "24819910ba8712ebd113856f6b29de125368d8ea40d3b4935fbad891e5ef788e",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.221,
+   0.011,
+   0.041,
+   0.728
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 16,
+  "id": "6eeabf194b8c4a2893b27cb725541e05c7f5d165723d351d7feebab586e0bfe0",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.892,
+   0.063,
+   0.017,
+   0.028
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 17,
+  "id": "84a0ccb912e41aed931c63ac561570f8f3a7fe5063b6ecc0e5ac837cc4826cd0",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.995,
+   0.001,
+   0.001,
+   0.003
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 18,
+  "id": "68761c7ba0a30e9e55ccfc5f8609cf29c0990b3c31d37c855a593cd5f21e8ad9",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.989,
+   0.002,
+   0.001,
+   0.008
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 19,
+  "id": "a618911ebc6208492ffa6256c1e40fef5eb24320c1c9037b7b9c63afb85ef4d4",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.992,
+   0.003,
+   0.002,
+   0.003
+  ]
+ },
+ {
+  "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+  "chunk_index": 20,
+  "id": "30cf62d0a327ac2530e2df66416e92452fc178d0f09c95b458c3f62957ee8a2a",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.967,
+   0.011,
+   0.018,
+   0.005
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 0,
+  "id": "eef640352621390927f15e0344fc031b0d8eaf10d5d13cafa32dac406b49703c",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.994,
+   0.002,
+   0.001,
+   0.003
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 1,
+  "id": "3a20bec0f0c0a43137a4edcdf0312d663f5f24b9040f95b11d5c4a76f39dac71",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.043,
+   0.951,
+   0.002
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 2,
+  "id": "57d2720cfd1b80e36eb5ede1aa5f2016b951d05a4c3423cd9ea426e7ed1e6cac",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.029,
+   0.86,
+   0.104,
+   0.007
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 3,
+  "id": "fd6a3fa010405c0ef17f8e884eeaa0a7d2225b407673fe0605d22dfbe91e4401",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.008,
+   0.991,
+   0.001
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 4,
+  "id": "17c8cdee8474906adcc1fc36d75362f1bf58e89c46de53e5233e1cbe7306af8c",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.003,
+   0.99,
+   0.002
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 5,
+  "id": "e0ccb61d92da0c93645e597bea34c68f02b954cbfff1675c4e336d05db1294ee",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.033,
+   0.349,
+   0.608,
+   0.009
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 6,
+  "id": "86055ab056b47a33e8badcdb3e3f17a11a774aab744f64316c4277828d244376",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.017,
+   0.733,
+   0.216,
+   0.035
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 7,
+  "id": "4504d1b07c3b94f06bd5f783370d2f239b2bd8ad7fe98d20fd55297badebb9a8",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.005,
+   0.003,
+   0.486,
+   0.506
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 8,
+  "id": "44a1097de93f96d31fbb349e8974f7662d854f3f43a2189b477c4adf329aebb3",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.008,
+   0.002,
+   0.988,
+   0.002
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 9,
+  "id": "33f6e16f0dd01f603c4c35fadab13cb7d34047e8eecba40fab852577b77d9de4",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 10,
+  "id": "46cc18d0fddfa8d1888e76d0442c88e7ce51d14a44d8ceaab34b61c6029a1cc6",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 11,
+  "id": "4e1c60ae351aea95d72b48cffe5614b403536c02f2eaff323385a9495bf5e211",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.998,
+   0.001
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 12,
+  "id": "c692d2409119c8cfa90f190b170bf4e62cc901ce2edc02432df5992a5aca3ae7",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 13,
+  "id": "43cb228980e28ab7fa936d3ed19b5cef8541a9763e26f7c113e20dbfcc14f369",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.997,
+   0.001
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 14,
+  "id": "28d263abe193d001cdcc1bb3c45c1ba0c213c48199be31515d797bda4f2be284",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 1. Performance of several training-free indi'",
+  "p": null
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 15,
+  "id": "2a0165a2a3aaa6d62e3fd315101d8e2eea31bb5747d36937586887d56f3d194e",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 2. Performance of several training-free indi'",
+  "p": null
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 16,
+  "id": "fceabdefb5548ecb215a2e03d2581a9689472226f748e9e3ab1770589dcfad9f",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 3. Performance of FI 4 on NAS-Bench-201, mea'",
+  "p": null
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 17,
+  "id": "42727955d1ac6f37c331024abe82ee090bc504b0a27ab55cb80aff99c55662f0",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.002,
+   0.994,
+   0.002
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 18,
+  "id": "9ddc8b72473ad24147642d6495d392b254a079c69b557a3861590ab537bfb63c",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.029,
+   0.016,
+   0.946,
+   0.009
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 19,
+  "id": "8c2ab019548833124e6b86c4671090fd547cf4c239561027ab13a9918f55cc11",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 4. KROCC of indicators with different weight'",
+  "p": null
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 20,
+  "id": "d42f8336a49eaf8d7d0634bf686ffb2a26214feb4a708e6c3af60943fcbc5534",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 5. Comparison with different combination of '",
+  "p": null
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 21,
+  "id": "a4de586ab7e0ebefe179cfc9aa7fd2d8cd4432e25be12b8cc4aff1a170cde144",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 6. The results from Shapiro-Wilk tests on CI'",
+  "p": null
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 22,
+  "id": "fe5207211383b3333adb2a41e8f489d3fc080a9e8a46cf53449feff449f26bb6",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.065,
+   0.067,
+   0.864,
+   0.004
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 23,
+  "id": "9baff0c67f69639b19f1e6b6fad665e0e21686f8ecac9f19099f2c535bd8b63a",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.187,
+   0.329,
+   0.463,
+   0.021
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 24,
+  "id": "5799d8649edfe3219919099d5b288c6be3781663b0c654a104a4032853f2ed07",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.986,
+   0.005,
+   0.007,
+   0.002
+  ]
+ },
+ {
+  "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+  "chunk_index": 25,
+  "id": "c71ffd430ac993f6ee836862cd0725f08ea008c04cc6c31ef803ae61000bf376",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.993,
+   0.005,
+   0.001,
+   0.001
+  ]
+ },
+ {
+  "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+  "chunk_index": 0,
+  "id": "95c9c5cc4a08bf7cbfb06ae644547a5ee4d953c0729eb4b4bcfc79a2e96622c0",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.977,
+   0.005,
+   0.013,
+   0.004
+  ]
+ },
+ {
+  "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+  "chunk_index": 1,
+  "id": "53d9884230df76f031443d1e69929c1ae3a7108e786e985d56c3a63304fd19ad",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.264,
+   0.005,
+   0.727,
+   0.004
+  ]
+ },
+ {
+  "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+  "chunk_index": 2,
+  "id": "c41d64ca686313077df261af3b8668dd771aa3b0392fbe521708d9a6c36e3c78",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.007,
+   0.99,
+   0.001
+  ]
+ },
+ {
+  "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+  "chunk_index": 3,
+  "id": "70cd40d43461b6c3628100b26257f9807642a5134874c9779abae1eac409dad3",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.006,
+   0.031,
+   0.96,
+   0.003
+  ]
+ },
+ {
+  "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+  "chunk_index": 4,
+  "id": "5eae6f653ef942e6d8350fa7684d1ab047f0ecb16a16ad6f59bf55e097a304cc",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.177,
+   0.816,
+   0.003
+  ]
+ },
+ {
+  "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+  "chunk_index": 5,
+  "id": "f5bc3efc084edd5e7f70cc2f2e5481cb7190ca7d42cacd156c2bc269c75c520b",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.002,
+   0.994,
+   0.001
+  ]
+ },
+ {
+  "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+  "chunk_index": 6,
+  "id": "2342b78717dbd5003ea60dd2263f9650d17a6a95a6d628f468d6839ea0d2a516",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.009,
+   0.005,
+   0.983,
+   0.003
+  ]
+ },
+ {
+  "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+  "chunk_index": 7,
+  "id": "a6317ec53c6bcb169e68ed93a4b4b1336beb398a0a242b3a3b371a93dc564cdb",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+  "chunk_index": 8,
+  "id": "0b5ad2fedd5a2228d299860b6f31034ea3d09ab985b6c157f8b88af79611ae72",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+  "chunk_index": 9,
+  "id": "7d87c624c373aac3ae7ec885243685b8017fc8ca21faa6f84e5d22498cf404f4",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.009,
+   0.008,
+   0.978,
+   0.005
+  ]
+ },
+ {
+  "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+  "chunk_index": 10,
+  "id": "5ec191def5ee5f64478896bc1a91b93aa2c0b5156889553208df4c174155d80c",
+  "k": 3,
+  "tier": "table",
+  "evidence": "36 serialised cells on one line: 'A, Section/Scenario. = S1. A, Vergence [8].mm = 33.678. A, V'",
+  "p": null
+ },
+ {
+  "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+  "chunk_index": 11,
+  "id": "d5948d204d107a412b6ec54bab23b45770f82d12d2d8473c92c3510d3582fd18",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.001,
+   0.993,
+   0.002
+  ]
+ },
+ {
+  "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+  "chunk_index": 12,
+  "id": "861372246dc73e55716b93740dff088eed9b6d9349f16e2d7e692ff988f24ef5",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.009,
+   0.005,
+   0.984,
+   0.001
+  ]
+ },
+ {
+  "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+  "chunk_index": 13,
+  "id": "16346c14ededefef2fc73f5767a29c1a6464bd25b93fb05a03bda4faf3d2646a",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.997,
+   0.001,
+   0.001,
+   0.001
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 0,
+  "id": "06660b4f59094e9bccd86f11ac4654aadb9b137697af5c4c5abffdbf9e7a2659",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.997,
+   0.001,
+   0.001,
+   0.002
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 1,
+  "id": "267eba1200173fbc0bf2a11dcf56d5b9425739b5cb16ca3ab7a63b2a0ea693b1",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.986,
+   0.009,
+   0.003,
+   0.001
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 2,
+  "id": "06655edbbfd91f61791b74897d6919a43f632b94d61b97ebac8a0bcfb18fd03a",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.021,
+   0.894,
+   0.081,
+   0.004
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 3,
+  "id": "dc3b06a81174ed4365d3a79e01fa4a3863d0be4d0ff2d92bdbf526e36b63b0cc",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.005,
+   0.02,
+   0.971,
+   0.004
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 4,
+  "id": "fe7a4d413a2c6ba8fc641563154b231ac89e7f70bbe53fae1a550bf4c370a534",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.021,
+   0.812,
+   0.15,
+   0.017
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 5,
+  "id": "39c9d8b65658d620c6eef25bebe364bdb99a3735461e6daff8fed21a14c0a12a",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.009,
+   0.004,
+   0.982,
+   0.005
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 6,
+  "id": "5b373cbd590f59e2ce8dee118bbdce5941cdd1b5605d42f785e7df131bfd844d",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.007,
+   0.991,
+   0.001
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 7,
+  "id": "58551f7f79449db2d25ace9cb8f312722132e4b3b10cb4616032c461994a1e5d",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.005,
+   0.991,
+   0.002
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 8,
+  "id": "39a11cf74cd9616e8e1db01bbf6291c57e672b0f53b7112bfa5486786b7a0c72",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.01,
+   0.016,
+   0.966,
+   0.008
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 9,
+  "id": "0f223b7d8be580f4f7c417d073dde63c1160e84e64d3371f6c457bfc55068d84",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.003,
+   0.012,
+   0.979,
+   0.007
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 10,
+  "id": "b008d65f2eb868624488ddf9f540d838a0c5fa1feda23ce4600808c3ff2e172c",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 1. Description of the symbols.'",
+  "p": null
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 11,
+  "id": "fdf2541ec87513ee893d24921e900ad98ba8b2052ef10a87ad1d1b629dd74b83",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.003,
+   0.001,
+   0.995,
+   0.001
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 12,
+  "id": "0699892e5c75d7c048a3b9564d03ef29c89311ac222398817c338ab61c7ef0ce",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.001,
+   0.002,
+   0.993
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 13,
+  "id": "00e4b5853c2692886fd94325f13941f8f1b68d04e68422f78cac133c0b884273",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.997,
+   0.001
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 14,
+  "id": "370d559156b8e3e4ea7c5398b8a9872bb9682995b4c0b664da5ff774bb1e71b2",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.997,
+   0.001
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 15,
+  "id": "17d285ecaa73e7e507292ac1558b28c3ed6b702c991fb7405d9d4e6e896c2384",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.222,
+   0.277,
+   0.453,
+   0.047
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 16,
+  "id": "bb4fccf9c5e198f040c6d592efc110baefcc7748d231483c9763ef94ca1bfd0c",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.995,
+   0.001,
+   0.001,
+   0.002
+  ]
+ },
+ {
+  "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+  "chunk_index": 17,
+  "id": "9003f1fa4ab4dc44fd0fe78f9853c8b559e0b70ca7de02d59759fc2378aacafa",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.988,
+   0.007,
+   0.003,
+   0.003
+  ]
+ },
+ {
+  "document": "Electron_Paramagnetic_Resonance_Study_on_28Si_Single_Crystal_for_the_Future_Realization_of_the_Kilogram.pdf",
+  "chunk_index": 0,
+  "id": "eea82ad100ad4d66ff6008d891e6de1bbe955be35a1a27c1a14ffb144e56123b",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.002,
+   0.994,
+   0.001
+  ]
+ },
+ {
+  "document": "Electron_Paramagnetic_Resonance_Study_on_28Si_Single_Crystal_for_the_Future_Realization_of_the_Kilogram.pdf",
+  "chunk_index": 1,
+  "id": "de9b74b4e20224349cc0eb7c783d7dafd91b39d39b1b6b2a84989e2d47e25e39",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.984,
+   0.007,
+   0.007,
+   0.002
+  ]
+ },
+ {
+  "document": "Electron_Paramagnetic_Resonance_Study_on_28Si_Single_Crystal_for_the_Future_Realization_of_the_Kilogram.pdf",
+  "chunk_index": 2,
+  "id": "d68c2f6465e0b615c620f88d8a27139572e3ce1986fe44756d793b79a2e8ec34",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.001,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "Electron_Paramagnetic_Resonance_Study_on_28Si_Single_Crystal_for_the_Future_Realization_of_the_Kilogram.pdf",
+  "chunk_index": 3,
+  "id": "3fa4e15e0fe3bbf97148faaee6218b47955b6843d407ea878d1827f3df694fb9",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.001
+  ]
+ },
+ {
+  "document": "Electron_Paramagnetic_Resonance_Study_on_28Si_Single_Crystal_for_the_Future_Realization_of_the_Kilogram.pdf",
+  "chunk_index": 4,
+  "id": "956f86d2e6d9073dc91b9f31e44257dd1d6a779b49581cc7c0c3c95049f2ea56",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.004,
+   0.989,
+   0.003
+  ]
+ },
+ {
+  "document": "Electron_Paramagnetic_Resonance_Study_on_28Si_Single_Crystal_for_the_Future_Realization_of_the_Kilogram.pdf",
+  "chunk_index": 5,
+  "id": "224d4996815c882557860e1f026263b7d03db73dea3810369df76c5fb76c349e",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "Electron_Paramagnetic_Resonance_Study_on_28Si_Single_Crystal_for_the_Future_Realization_of_the_Kilogram.pdf",
+  "chunk_index": 6,
+  "id": "b8a046d8277d07d4420e247594c931b0a2a1b324712146593d6c8e2ef4035a2b",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE I'",
+  "p": null
+ },
+ {
+  "document": "Electron_Paramagnetic_Resonance_Study_on_28Si_Single_Crystal_for_the_Future_Realization_of_the_Kilogram.pdf",
+  "chunk_index": 7,
+  "id": "0171f158e5998ba88bcad8b02630e933ff8f82bbc34f82b99f54215a42f7b2ae",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.003,
+   0.99,
+   0.002
+  ]
+ },
+ {
+  "document": "Electron_Paramagnetic_Resonance_Study_on_28Si_Single_Crystal_for_the_Future_Realization_of_the_Kilogram.pdf",
+  "chunk_index": 8,
+  "id": "998431a844c076cf215365434a903cefbd13beeb0ca90117653b63d407231fbb",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.996,
+   0.002
+  ]
+ },
+ {
+  "document": "Electron_Paramagnetic_Resonance_Study_on_28Si_Single_Crystal_for_the_Future_Realization_of_the_Kilogram.pdf",
+  "chunk_index": 9,
+  "id": "3f68bc061a2f296b13cf8af22417f0ad9df5807bdfbedcc2af186b0c58e8f4a7",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.132,
+   0.095,
+   0.118,
+   0.655
+  ]
+ },
+ {
+  "document": "Electron_Paramagnetic_Resonance_Study_on_28Si_Single_Crystal_for_the_Future_Realization_of_the_Kilogram.pdf",
+  "chunk_index": 10,
+  "id": "67f8c50efd61fa7e9e78e48e9ee26c79fbdbd4d4a6eecc6add4f247b5650d89c",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.995,
+   0.002,
+   0.002,
+   0.001
+  ]
+ },
+ {
+  "document": "Electron_Paramagnetic_Resonance_Study_on_28Si_Single_Crystal_for_the_Future_Realization_of_the_Kilogram.pdf",
+  "chunk_index": 11,
+  "id": "9abdf948f467dc121b12d52f6ee51e2aa1ac0e37fe985449b533006241129d7e",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.994,
+   0.002,
+   0.001,
+   0.003
+  ]
+ },
+ {
+  "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+  "chunk_index": 0,
+  "id": "13edd023ab6e240494f754af75c8884c586b1b4c9469f03c99a3a9a6939ba1b6",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.997,
+   0.001,
+   0.0,
+   0.002
+  ]
+ },
+ {
+  "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+  "chunk_index": 1,
+  "id": "67ee8ff59e145ba0f792599de7302dd62ece3933ee9becd56d809fc78b410611",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.998,
+   0.0
+  ]
+ },
+ {
+  "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+  "chunk_index": 2,
+  "id": "67cc20048dc953ca4401bea493596bb83b8a68e769d8f220e5c6b739a717009b",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+  "chunk_index": 3,
+  "id": "ba77fab3e371f17c8d4404f048c643f41e908f572dac971dcfcd1e0016e09b90",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 1. Nominal device parameters of FinFET [8].'",
+  "p": null
+ },
+ {
+  "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+  "chunk_index": 4,
+  "id": "ebd31e6ca79e50e00bd8ac62e6e03f71b4d485ce9b7a2d16c9c21eb800778c85",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.997,
+   0.001
+  ]
+ },
+ {
+  "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+  "chunk_index": 5,
+  "id": "061a8d07cee4b5796e315775572201e0a08ef619d49126f342a9283bcfbd91ea",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.001,
+   0.993,
+   0.003
+  ]
+ },
+ {
+  "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+  "chunk_index": 6,
+  "id": "162dab2f62129f1b2441783099b32df98f5b8926a1457eb43ad2f723462cd3f3",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.001,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+  "chunk_index": 7,
+  "id": "0683b94871fa28ca24ee920927d7e7580363e697b18b1ef0198bf02ea2bd7c9c",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 3. Time spent to train ANN model.'",
+  "p": null
+ },
+ {
+  "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+  "chunk_index": 8,
+  "id": "cee1f43f262f5b67a8a64cb41b5a475b435d0a7ce1cd04b532a8618ab6a6131a",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.0,
+   0.998,
+   0.001
+  ]
+ },
+ {
+  "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+  "chunk_index": 9,
+  "id": "d5f0ec052fdd40c9f5c8a0e7e5ed2fa80518ec3d41592c76c7d3c079e744d28f",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 4. Comparison of EMD score between this work'",
+  "p": null
+ },
+ {
+  "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+  "chunk_index": 10,
+  "id": "e5641ee5926b64216a040b28fefa9fc5eab8f7053062fe751b20c411f0aee4cf",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+  "chunk_index": 11,
+  "id": "8e527ea97e0d87289b7b8525dfb4f6fc1bbb0a48744f093c80e090402abf1f52",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.993,
+   0.003,
+   0.001,
+   0.003
+  ]
+ },
+ {
+  "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+  "chunk_index": 12,
+  "id": "2b7d8670415464bdf257d5c221314de4374991de560e9fe9aee483222951ecd2",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.971,
+   0.004,
+   0.021,
+   0.004
+  ]
+ },
+ {
+  "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+  "chunk_index": 13,
+  "id": "45beae817a02ee8e490f9a85fc71649360380151026655acda52f6ddf6fc0da2",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.991,
+   0.005,
+   0.002,
+   0.002
+  ]
+ },
+ {
+  "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+  "chunk_index": 0,
+  "id": "ced7da322a4c089bc6e250f16b3cce510dc9cafef75170bb71275124b8a4ec10",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.995,
+   0.002,
+   0.001,
+   0.002
+  ]
+ },
+ {
+  "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+  "chunk_index": 1,
+  "id": "e9078adc0f19121c9bdf19b95484326ad38c44565abca94f0181966dca6de015",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.017,
+   0.002,
+   0.979,
+   0.001
+  ]
+ },
+ {
+  "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+  "chunk_index": 2,
+  "id": "975d97ababdbc33169d57b2a71bc113ba3f2811d21281758d0961d84c45ea489",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+  "chunk_index": 3,
+  "id": "48dad3f022235b00c7e6e3980ea3e5af9bc9b1bcdb345fc023f80f9f8a477a8c",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 1. Device parameters used in this work.'",
+  "p": null
+ },
+ {
+  "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+  "chunk_index": 4,
+  "id": "aad5d978d36fc9f91ba5ca5bf315bf6e3d4b31aa73ac15df9c8fb7c64dd98ca0",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.001,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+  "chunk_index": 5,
+  "id": "907ee6bd1249aa8cfc54c14f66a6290d0804ea2687ca417b39b85f6825d3e492",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 2. MAPE and RMSE values of each model.'",
+  "p": null
+ },
+ {
+  "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+  "chunk_index": 6,
+  "id": "a46e0e09053ca021f82200a107eaef751089702af5e42cd98622737900981c6e",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.998,
+   0.001
+  ]
+ },
+ {
+  "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+  "chunk_index": 7,
+  "id": "d61b1e84bbd10628d8e07a14b2a5ed79e36bb9d3f10d736ee162b5c23697f66b",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.993,
+   0.003,
+   0.001,
+   0.003
+  ]
+ },
+ {
+  "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+  "chunk_index": 8,
+  "id": "bb12d010210110042d07877954fddc21c85dcbc9145af6a0edc2c6a844c89b57",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.988,
+   0.003,
+   0.002,
+   0.007
+  ]
+ },
+ {
+  "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+  "chunk_index": 0,
+  "id": "63777b37e617586ef9d52d500cfdeb31e9848c49e2d05c71b7575d88c9cfa1f6",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.003,
+   0.003,
+   0.993,
+   0.001
+  ]
+ },
+ {
+  "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+  "chunk_index": 1,
+  "id": "cb0875da1ec9fd377394121816575ba16440c9112dcf4230bd93bdd6843d3c82",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.006,
+   0.008,
+   0.985,
+   0.001
+  ]
+ },
+ {
+  "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+  "chunk_index": 2,
+  "id": "c58b461d7c6ded379c9fb6949c1c87bbe3448d101839ac8f81693d2bc1d57283",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.997,
+   0.001
+  ]
+ },
+ {
+  "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+  "chunk_index": 3,
+  "id": "67546389718579c3ef8fbdc40cd35da1bf387ce7fff2debf05439f7a1bcaf331",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.001,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+  "chunk_index": 4,
+  "id": "e244832c8f39c3334ec82db30594f0598aea8b6d2a1384723411a04d47f097ef",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.997,
+   0.001
+  ]
+ },
+ {
+  "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+  "chunk_index": 5,
+  "id": "01926c4059eb6fc480fa4bf53529bf3c4fedab137a09fcb92ea7698847ff8e7e",
+  "k": 3,
+  "tier": "table",
+  "evidence": "4 serialised cells on one line: 'Frequency shift coefficicnt, Barometric pressure = IPa 10-15'",
+  "p": null
+ },
+ {
+  "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+  "chunk_index": 6,
+  "id": "3e31c901c68de7f54cdd93ec867807abd5bede9dfb934e911c18b2c18e502397",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.998,
+   0.001
+  ]
+ },
+ {
+  "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+  "chunk_index": 7,
+  "id": "9cdc80ac2b54afd6e34f9f1da1934e6bbdd2a065001291fc8ba0b4586e2c0d5e",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+  "chunk_index": 8,
+  "id": "e5497479674f002b9f37f85298f4e2936435a80f853aa8ce9cdebe8442803ca0",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.998,
+   0.0,
+   0.0,
+   0.002
+  ]
+ },
+ {
+  "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+  "chunk_index": 9,
+  "id": "b880932af7a2a8e075c6ed78f729ced4e434b4ed4ac426e03c39ded24dc1b63f",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.987,
+   0.008,
+   0.003,
+   0.002
+  ]
+ },
+ {
+  "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+  "chunk_index": 10,
+  "id": "fffe781ecf0def62c6a3b3f7b33f8846b5c6a1bff9f91a62e101d2f48fb9225c",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.993,
+   0.003,
+   0.001,
+   0.003
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 0,
+  "id": "549a022816caabb6ce69bfb8fd22635e67f0eff447d1e5e2ce0d923347a691f1",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.998,
+   0.001,
+   0.0,
+   0.002
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 1,
+  "id": "b0a9d71205dcdd4cbabf1a8542ffb0b4f5c590fd758112a4c108d931f365e2b1",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.262,
+   0.708,
+   0.027,
+   0.004
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 2,
+  "id": "b1b11acb568acc776258fe5de99a1576d7de84b145b1675bc3ff5f6d04c9e799",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.047,
+   0.928,
+   0.023,
+   0.002
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 3,
+  "id": "f8274817a7f578ab86e134f832b6e6083b8125a79ef5390877a8de7a975d2fa8",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.005,
+   0.984,
+   0.008
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 4,
+  "id": "a828295e05adb81c4fff2f5e36468a2ca64fa3d92f61a305de9bab4dedb7c3ca",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.007,
+   0.775,
+   0.211,
+   0.007
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 5,
+  "id": "1176b2299c2711b1bad7436b21e44dccee014de0c0d860a000a6c6b0dda1f9f0",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.01,
+   0.987,
+   0.002
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 6,
+  "id": "05127258b3cbe6c89fc8aec4154949bc81ece0943c07a33f3cb9472fbe7bbfce",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.003,
+   0.016,
+   0.979,
+   0.003
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 7,
+  "id": "368ce34089706851f334e4b8e727aac6b1cf630b06fa35fb8821b788f412045b",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.006,
+   0.988,
+   0.004
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 8,
+  "id": "05fff9ce2ca703392bb2eaf580dafaa72d14814ea64038b0be88a37dd3eda23e",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.079,
+   0.867,
+   0.036,
+   0.018
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 9,
+  "id": "1b75801720ad35de8d9ef6fd9ec31104317d73ea716a4a8387f557f7d35e1c1c",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: \"TABLE 1. St. Mary's gensets.\"",
+  "p": null
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 10,
+  "id": "1a0f5803e3240f9538a851644fff6607108ede69bee4925738bf7c8be089ee0d",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.004,
+   0.993,
+   0.002
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 11,
+  "id": "3fda79053d87c5eb265bfa2282b371eea64b1128e3e520d7a1d4222bd2631ce6",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 12,
+  "id": "9999a0ba7dd603beba1cad1d62ec225e7536148c5c753b65961eb869705fbf63",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.998,
+   0.001
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 13,
+  "id": "857842a177a8ea7162d106c3d4d562a8339207dcff726eec25e7ce6a981a2bbc",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.006,
+   0.004,
+   0.987,
+   0.003
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 14,
+  "id": "22a8217c790b081d22c67a9b62d6a51d314ffa43b6e25102b6cd841042de2692",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.002,
+   0.994,
+   0.002
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 15,
+  "id": "4e5d0a69a818b29d6b9573d65a66eb648709e9b5212833c5ccfdf1074b084ca7",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.003,
+   0.011,
+   0.985,
+   0.001
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 16,
+  "id": "9adc56af045ba37368a9e24eb8f2df6dbd465d1e877bfd2d0cb025352805bf63",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.988,
+   0.005,
+   0.004,
+   0.002
+  ]
+ },
+ {
+  "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+  "chunk_index": 17,
+  "id": "7f7427b911d6be6d3d55fcb0db91f2afa3224d87707b04c807e0b9e0653dd2f0",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.992,
+   0.004,
+   0.001,
+   0.003
+  ]
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 0,
+  "id": "990434da769b3b976cb9daaf6357417afdaad3ec0ad97db94bbba4a92877bdc2",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.996,
+   0.001,
+   0.001,
+   0.002
+  ]
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 1,
+  "id": "9ed6907515207f4a5e5cd48f826d4d5e8cc95ce11d0377e9b4f08ae801c7d000",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.859,
+   0.126,
+   0.011,
+   0.004
+  ]
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 2,
+  "id": "7ad78330122f8822c806a60689a342ee4a4dc34abf7a776d73dcd0f131fad1ed",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.01,
+   0.094,
+   0.878,
+   0.018
+  ]
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 3,
+  "id": "63466cd1c3215b2b14348f9a75e130ab740dfbf5849f70b156789da93e4a08bc",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.009,
+   0.849,
+   0.138,
+   0.004
+  ]
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 4,
+  "id": "0428f89847fd011bab3d275aa32980711a132649d362258d11276dd5b09751f7",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.001,
+   0.998,
+   0.0
+  ]
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 5,
+  "id": "af3c341f1413d2c6e010922625c3ede6cb8e26fd77851bd0b8e952a0d8c9cf5c",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 1. Notations in our model.'",
+  "p": null
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 6,
+  "id": "39c825d2635eebb324ba7686fde1bb602ed93eea99b7c365141b1c4f4dc38a2e",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.006,
+   0.985,
+   0.006
+  ]
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 7,
+  "id": "d3db3e341b9b3a661356b26b5a5314024e4eaf4f7ea86141844454c45c6ac721",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 8,
+  "id": "25f44ed84cbffde363f0517d1dc3d35384ab567270a351db961722e8f117c30c",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.001
+  ]
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 9,
+  "id": "9b7a7361b3ab2b0a7fc7db3c3365d0c49669f69970f8755dd2003bdbc78273b3",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.003,
+   0.985,
+   0.008
+  ]
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 10,
+  "id": "2bd4712fb09fd04f99fce4a6fb05d2cd0bcb34457c9d523bc46ea8ebe5d726f9",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.002,
+   0.995,
+   0.002
+  ]
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 11,
+  "id": "d4e215c5fadc5fac4d170615b4265dea2c1c5e1e8211ce725c91926dd7e520fa",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.002,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 12,
+  "id": "4cf733a743ce1b6eb4e3c41e23b999ed51cd3d280449efe83926e394f4def7ff",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.017,
+   0.067,
+   0.911,
+   0.006
+  ]
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 13,
+  "id": "ff9cb801e31206f89cbc95ddcb4acb14d47e25b9946d4baa2d9717a801a11b50",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 2. Prediction Results (history day=1, lead d'",
+  "p": null
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 14,
+  "id": "7aac9256c0c8e83e2244347075e7e8b17eba7168f24a797bc72d92f03944e653",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 3. F-1 scores for M-MI and WoR-MI in 2015 an'",
+  "p": null
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 15,
+  "id": "583c07887826aa08be6742cde96fdbbb6535a18f014a75598ef8db6dc09ab916",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.943,
+   0.04,
+   0.014,
+   0.003
+  ]
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 16,
+  "id": "b8924c479fd4638dd76359ff91183307ed7f1d5947938673a5c3298a89152683",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.996,
+   0.001,
+   0.001,
+   0.002
+  ]
+ },
+ {
+  "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+  "chunk_index": 17,
+  "id": "eef4cdb3ae7db3a8433e04cb2678050d9bc1d66ad48ee7d7d1387f909c3127ee",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.995,
+   0.002,
+   0.001,
+   0.002
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 0,
+  "id": "2337b45df9c57b706586a7e0e4a53c2b136a1f7c3d327ac14ddb58bdde91e028",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.996,
+   0.001,
+   0.001,
+   0.003
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 1,
+  "id": "f8fc15acc241b7287153b461ea5e85f6c032a55a5b0d65be46bfe06873b6bb53",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.996,
+   0.002,
+   0.0,
+   0.001
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 2,
+  "id": "531bcc198b1c7e747ede272da846fff9e2daae703d080466354b5bb690b35853",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.023,
+   0.955,
+   0.017,
+   0.005
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 3,
+  "id": "9a91c5c96b489330f0892124d5de0a2a5b8515d0f6c08fcf684612316abad513",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.009,
+   0.971,
+   0.013,
+   0.007
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 4,
+  "id": "9f17f357e053729ce8f979ff41af5a1a1983650dedd007277db4fde3509b7524",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.979,
+   0.017,
+   0.001
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 5,
+  "id": "7640bbd52b851ac25f23e20eb5ea81e12b950b63451f5a93648d99319089c8e4",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.006,
+   0.009,
+   0.982,
+   0.003
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 6,
+  "id": "4319f5214e1f5aa7845f1a0923f0e04537a1758d732c23deb28e412d123d8c29",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 7,
+  "id": "ff9bb92e86794a455023f7fdc531a3afc57ca795753f705566bb46f5124329dd",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.017,
+   0.018,
+   0.952,
+   0.013
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 8,
+  "id": "731a59d25342d218fbeea082043532daa68a9a8a64133f04e20c6fdd5d680896",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.2,
+   0.522,
+   0.216,
+   0.063
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 9,
+  "id": "160f75f0e8f4e5bb89f3facc1fea4033c7949f89aa48a592aab853dfb5912d27",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.012,
+   0.944,
+   0.022,
+   0.021
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 10,
+  "id": "f74489f9d24f2f6c5c0bd43a198fe60f95b6a06b19ef73ef49463ae4afac7bb0",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.0,
+   0.998,
+   0.001
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 11,
+  "id": "bc512021a804c206efe81b0f99fadb0c1fbd768b67fde23138523cad7c58decd",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 1. The ecological risk analysis results of e'",
+  "p": null
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 12,
+  "id": "43b6bdbc2c4ab9c2ed436a86bd11ad5cb973d2603f78c5eec40ec9d828694930",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.013,
+   0.009,
+   0.973,
+   0.005
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 13,
+  "id": "945e62f7dc8eaa06cb18cadf36997409840d82d972e96f017b10891ba148744b",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.027,
+   0.841,
+   0.129,
+   0.003
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 14,
+  "id": "4d8bfefb76544266b8745f9785fbf7f52dba3cf234283bac0e0b88d7030ba50b",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.996,
+   0.002,
+   0.001,
+   0.002
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 15,
+  "id": "d0160e91a197c5745c90b63b84b7b40b3f4f1348660d98f5645868be6f706682",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.994,
+   0.001,
+   0.002,
+   0.003
+  ]
+ },
+ {
+  "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+  "chunk_index": 16,
+  "id": "f331d347959c144a76f778231beeac138a3d2d0ae7dad028f7c6460e81a798cc",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.997,
+   0.001,
+   0.001,
+   0.001
+  ]
+ },
+ {
+  "document": "The_Graph_Database_Jack_of_All_Trades_or_Just_Not_SQL.pdf",
+  "chunk_index": 0,
+  "id": "75ef04aed18898525686ac163ca79a9ab31d0d1d648fed5a16891a970402cdf4",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.009,
+   0.81,
+   0.175,
+   0.006
+  ]
+ },
+ {
+  "document": "The_Graph_Database_Jack_of_All_Trades_or_Just_Not_SQL.pdf",
+  "chunk_index": 1,
+  "id": "11de78e06a4540cbe7f0c9645238c08eef2047bb2feed7448d89702cea09203e",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.028,
+   0.925,
+   0.019,
+   0.028
+  ]
+ },
+ {
+  "document": "The_Graph_Database_Jack_of_All_Trades_or_Just_Not_SQL.pdf",
+  "chunk_index": 2,
+  "id": "8ca0ee22220d91da84b8e869597adf1ee5abd11c915c486bda17d873d3226707",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.006,
+   0.14,
+   0.851,
+   0.003
+  ]
+ },
+ {
+  "document": "The_Graph_Database_Jack_of_All_Trades_or_Just_Not_SQL.pdf",
+  "chunk_index": 3,
+  "id": "f68856c841f48a36d49112c95215782730d100fe6fa94b462116550133bac183",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.005,
+   0.766,
+   0.215,
+   0.013
+  ]
+ },
+ {
+  "document": "The_Graph_Database_Jack_of_All_Trades_or_Just_Not_SQL.pdf",
+  "chunk_index": 4,
+  "id": "62a1ae1fe25f4a328304989cfe29b97922cc44006ea9ce4095c57e9e70962540",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.051,
+   0.935,
+   0.009
+  ]
+ },
+ {
+  "document": "The_Graph_Database_Jack_of_All_Trades_or_Just_Not_SQL.pdf",
+  "chunk_index": 5,
+  "id": "1e52a82b98166e6f2862333291452706c087e079e90f81c85ec291c081b99b90",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.015,
+   0.448,
+   0.515,
+   0.022
+  ]
+ },
+ {
+  "document": "The_Graph_Database_Jack_of_All_Trades_or_Just_Not_SQL.pdf",
+  "chunk_index": 6,
+  "id": "84c4a1e2bbdea4dc83cbabf88592d6e408ce5aba9f7348a2f9baaa3447930569",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.012,
+   0.984,
+   0.003
+  ]
+ },
+ {
+  "document": "The_Graph_Database_Jack_of_All_Trades_or_Just_Not_SQL.pdf",
+  "chunk_index": 7,
+  "id": "03c4cf704a3ee643c12a93a6ad74b43b86c28c7ad02c21fcaff3ade0796ad5e8",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.019,
+   0.975,
+   0.005,
+   0.001
+  ]
+ },
+ {
+  "document": "The_Graph_Database_Jack_of_All_Trades_or_Just_Not_SQL.pdf",
+  "chunk_index": 8,
+  "id": "56e477c81cd111bb9a4e74aa93a23fdeb5a06439bb863ea39777f6ff29f62ed0",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.996,
+   0.001,
+   0.001,
+   0.002
+  ]
+ },
+ {
+  "document": "The_Graph_Database_Jack_of_All_Trades_or_Just_Not_SQL.pdf",
+  "chunk_index": 9,
+  "id": "13a0edf0a592a25dd0d9968eb0cba7f21cb6ab6b54bf9d673d3818e565954e7e",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.996,
+   0.001,
+   0.0,
+   0.002
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 0,
+  "id": "ab4d5fba38ad254d217b3e512747dde4d081cde6f619bd2c8611cdb6c8410f43",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.003,
+   0.963,
+   0.033,
+   0.001
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 1,
+  "id": "9cff8584ae2ee0c3f5673b39ea480b936c0e3acd3402394675b13f0ead7a51cb",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.815,
+   0.175,
+   0.008,
+   0.002
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 2,
+  "id": "fc2bc85b93f8899f2b30c383c10ed16e810a09b2cc714d1e25351a36588d0f6e",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.722,
+   0.146,
+   0.039,
+   0.094
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 3,
+  "id": "7debdbc079b0feaf1da2361f47cc3f5bc034d32e9b65709e11bc7db1c0451ca2",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.003,
+   0.993,
+   0.002
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 4,
+  "id": "b9b3f42e6ba24ca61b2c64b86c2b1289ba70259065326d66bc0cfe75c018a98f",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 5,
+  "id": "1e1bc5053be84fabd2db13c410ee62b43ffc4441a5d15718eb317edd37dbe344",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.0,
+   0.998,
+   0.001
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 6,
+  "id": "769cfcdcd17e38893288d737e26b6643d9019bdc9c97a210b72176e998942fda",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.0,
+   0.998,
+   0.001
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 7,
+  "id": "90e28c32e7aff851be4f579eadf7af0e393782b0c4366a51f24c8ddc26acc1ae",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.002,
+   0.994,
+   0.001
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 8,
+  "id": "a6d0c232a7e3f0f5f364c62c344302ea8717b2c2fd75e551bc49dec17c08e061",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.008,
+   0.105,
+   0.873,
+   0.014
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 9,
+  "id": "aa1ff91c685e37d8550557fa26a40041171db0e6676440734e4510200e413fea",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 10,
+  "id": "faaa0fa79ac294640f6608b17992c0c3ba424492d214406e5aa253a1d8d1f747",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.008,
+   0.005,
+   0.983,
+   0.004
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 11,
+  "id": "a61297a0cd5e35081d0e5dfab4084827179c9c68f0106c9a180288c988fd2a72",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.009,
+   0.987,
+   0.002
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 12,
+  "id": "dad45fc9bb263378fd2195fcd3a7b6ec8e29d8254c2211d50049183318032414",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE I SAMPLE BINS CHARACTERISTICS'",
+  "p": null
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 13,
+  "id": "00ea0a1a0712d6b0933195d0bcc2ef523471cea60d23d75869c666186fe38a4f",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE II DESCRIPTION OF THE MEC EXPERIMENTS'",
+  "p": null
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 14,
+  "id": "146232a28b6c52474dc368dee9bb68d5c9631f35a6ee52140882943cf7419cd9",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.002,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 15,
+  "id": "489d3d380b8b559abbf63281ba1cf35ab2706a67ec9a2ceb6f3c443f4805d044",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE III SURFACE TEMPERATURES AND HEAT FLUXES OF TH'",
+  "p": null
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 16,
+  "id": "ac40a6887750b81a3f25711dc8a00c0b72237a82aeea4683d2d029b9299f3951",
+  "k": 3,
+  "tier": "table",
+  "evidence": "7 serialised cells on one line: ', 1 = . , 2 = 0/ .2. , 3 = . , 4 = 490. , 5 = 421. Sandy, 1 '",
+  "p": null
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 17,
+  "id": "ccdba912954638af6bdb4de197ce9f123a3b187713e0363ea03dbb69e024a070",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.052,
+   0.029,
+   0.207,
+   0.711
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 18,
+  "id": "37c744196dba9ef6291037693e96d45e955619fbd279a3a30c7131f1cdf0c02f",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.031,
+   0.387,
+   0.574,
+   0.008
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 19,
+  "id": "e7522bbdfa594bd6a83ec0b2344076b8beeb9710fa568476912e2387616fd2c3",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.985,
+   0.004,
+   0.006,
+   0.005
+  ]
+ },
+ {
+  "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+  "chunk_index": 20,
+  "id": "e91bffc703ab73a510bbae3fb7185cfb5ec160e2460993562db9839b21dd701b",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.996,
+   0.002,
+   0.001,
+   0.001
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 0,
+  "id": "8a95b9951edb4fadfa691dd448ba0164867ec693e842d3e52c37ef242dcd62d8",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.998,
+   0.001,
+   0.0,
+   0.002
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 1,
+  "id": "e48cea70177b6e462537498a97a4f63745db576d881284fe22cb5a1f7aeb5815",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.003,
+   0.003,
+   0.992,
+   0.001
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 2,
+  "id": "9af4ca68d2a7af19771c7857a1d2a536d09fdac354acc2005e4b4b3354785181",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 3,
+  "id": "0c33a10f3144f7d81394a5d861d7c37943e24f9e62bf73be57f536e0e140bc41",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.006,
+   0.99,
+   0.002
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 4,
+  "id": "8412b8c408d036af00a80def43cbc48e74cabc894234da49bdc924f902cee7dd",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.002,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 5,
+  "id": "4a5cab8b87efe1ae58e0ae6e270551604be45019f31cf289d3709867f5afcc9a",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.997,
+   0.001
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 6,
+  "id": "98ef740ce6a0ea099f42e369f568298bba0b935dd31045ef14496c77d77c9a0c",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.998,
+   0.001
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 7,
+  "id": "e473d704fd3f305edc8be733a6418f2acc3ab0dd7ae8cc7d20a6a947ca7c68be",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 8,
+  "id": "5af1b979401dce08bea1c289fa93b9ce0c0c34adbd78c050d2bc01dfa47edc8e",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 9,
+  "id": "b7043fe9d636a147413ffa99723c6cc58e39d76fe6924560d1cb8d2206781bef",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 10,
+  "id": "cc76a4baade3dbd9df09debf62c0bad7df09f12d10c1ffa7c8ac66858786ce11",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 11,
+  "id": "00c79b643eb8046e6f72a9958c56c406901c14c40df1cde35c960dc4f4e2bef2",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.997,
+   0.001
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 12,
+  "id": "4c75524b7630f60d6eec171cd1306599bed278b713001658dd306f2fe4fa6113",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.011,
+   0.007,
+   0.979,
+   0.003
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 13,
+  "id": "33456d172209fdb82cdd35e5857d51a327b14ebb670d68fc25f3c43e07fe4de2",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 1. The comparison of the proposed SVP with G'",
+  "p": null
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 14,
+  "id": "4b1097296e4f342c435ec2f7e4ac692fedb233cfec826260aa3bf380d0cb1371",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 3. Experimental result on white-box adversar'",
+  "p": null
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 15,
+  "id": "4ad93a66dfa9bc84888159ae9a90b07e99098a28137029112b4eda0dd9f3805e",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'TABLE 5. Performance of KD-SVP according to the nu'",
+  "p": null
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 16,
+  "id": "7f8eccd03d9917c715b580e59a70274cf9cf3c98461677fe6fd0aa6074778a08",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.0,
+   0.999,
+   0.001
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 17,
+  "id": "c935dde40e31dd09914acd77f8120dacf1ebdd556e807b16008ccd49b22cc8bd",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.997,
+   0.001
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 18,
+  "id": "273675854b71eb18e7ee710ed2c3006c09a73416d18c5410cc47473b7721e415",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.002,
+   0.994,
+   0.002
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 19,
+  "id": "76747e2d591af96a865b45c30b8daf936399ffbb34c26a6eaa493fae91f880be",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.983,
+   0.004,
+   0.009,
+   0.004
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 20,
+  "id": "3ccffb27b8dd9889859681163668aa92efd04db9ac5df2a0c8a274b01e5d1782",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.971,
+   0.005,
+   0.018,
+   0.006
+  ]
+ },
+ {
+  "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+  "chunk_index": 21,
+  "id": "734330b411b838aa0cb5aac0c31af453ec3fb2d68998ac6227069762cdb9d4a0",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.988,
+   0.005,
+   0.003,
+   0.003
+  ]
+ },
+ {
+  "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+  "chunk_index": 0,
+  "id": "4ea2f6384dd79e950f4f62a1dd74f65ac9807fad9e8607a908444bbba6eec2eb",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.003,
+   0.995,
+   0.001
+  ]
+ },
+ {
+  "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+  "chunk_index": 1,
+  "id": "5f96211bae321b0f4fceaf85252f4c8c6f38e8926f034351e46c99b22121ff00",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.01,
+   0.005,
+   0.984,
+   0.001
+  ]
+ },
+ {
+  "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+  "chunk_index": 2,
+  "id": "cf9c4932434016213bdc8d8bcb5ea35d96ebf5fdef8bf065a4f5a41733cab90c",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.02,
+   0.019,
+   0.958,
+   0.003
+  ]
+ },
+ {
+  "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+  "chunk_index": 3,
+  "id": "15b1bae1f79839dad95fb6f3e1ec83694bced71c46e7ee2597f48321b93b4d38",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ]
+ },
+ {
+  "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+  "chunk_index": 4,
+  "id": "d3c74186766da8fc2f192329f10adfad3900c8f52ab3085782f6d19a2bfaa15e",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+  "chunk_index": 5,
+  "id": "c37432cb7ec48ac732498b94125ef511665e7c9c2f641d955e48ca15a5f60eb3",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.077,
+   0.019,
+   0.895,
+   0.009
+  ]
+ },
+ {
+  "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+  "chunk_index": 6,
+  "id": "30ef4eb27ca6c626de28ee911e759ccea6584e7e97ee7b34d54ef2072b94b02c",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.996,
+   0.002
+  ]
+ },
+ {
+  "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+  "chunk_index": 7,
+  "id": "84309a28efbe4a24cc08b12ceff3fd4ca0939a5e3cfd896d1850b36e57153299",
+  "k": 3,
+  "tier": "table",
+  "evidence": "15 serialised cells on one line: '100, Measured sensitivity [dB.Camera #1 = 139. 100, Measured'",
+  "p": null
+ },
+ {
+  "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+  "chunk_index": 8,
+  "id": "6acb69997389560461da28fd39232c6956f758e178e706e7bb02227859a71381",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.001
+  ]
+ },
+ {
+  "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+  "chunk_index": 9,
+  "id": "f695d58e8d83f480c85d2595ff9f7ba52e168f2dda303cd6f08f5cdf197be6eb",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.997,
+   0.001
+  ]
+ },
+ {
+  "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+  "chunk_index": 10,
+  "id": "1698910a20c6de3626ade4bc5134e2509393b6534482b8b3eaa71924680f3903",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.997,
+   0.001
+  ]
+ },
+ {
+  "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+  "chunk_index": 11,
+  "id": "38c1cbf40f1d489bf1709d1e392afd48a87ecc8c0bf48a846342625479517e40",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.988,
+   0.003,
+   0.006,
+   0.003
+  ]
+ },
+ {
+  "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+  "chunk_index": 12,
+  "id": "7c76d1d0daab13a0dfc3dee3b3ee08bc7270633448afa5c55fd51e697a16e4e0",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.991,
+   0.006,
+   0.001,
+   0.002
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 0,
+  "id": "46a2bc46175cdc109a96d97b08f8146e1c0c18c8da9462c0a5f6c0851427f11c",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.0,
+   0.0,
+   0.999
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 1,
+  "id": "6e10953f3e4ca159285c03a116d60c5086727c958dc25b31c39848ffea1dcdfe",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.961,
+   0.007,
+   0.004,
+   0.028
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 2,
+  "id": "d6b9aed64c2fee405918a4b754fe94efa58204e39f2e1b3bb714277654153aa0",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.006,
+   0.061,
+   0.929,
+   0.003
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 3,
+  "id": "90e893fea07e47b45edd23db4bf43f1c8da47db3d97c7dd12228369b697f7e10",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.011,
+   0.004,
+   0.961,
+   0.023
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 4,
+  "id": "cc2ee39298dbe0071528f0606346397cae6f8d901adc4aea8329d5872ac53053",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.006,
+   0.988,
+   0.003
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 5,
+  "id": "b2c5e4fa343cb150c160cf5b480ebbfa5ec35ec75f8caa00b487917ffeae8813",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'Table 1 Pro /uniFB01 ts and Losses (P&L) performan'",
+  "p": null
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 6,
+  "id": "7cde64e58a49dd6f5a4d1b6abbd0bee2195dccc62f23d5067545f10038260212",
+  "k": 3,
+  "tier": "table",
+  "evidence": "132 serialised cells on one line: 'MV = 10; PRCTILE = 90, 2006 = 3.15. MV = 10; PRCTILE = 90, 2'",
+  "p": null
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 7,
+  "id": "83e7fa20d1a0fbbbba62ba8daee4cd78d2c826e9e29bc2a5a21f0ade62a67337",
+  "k": 3,
+  "tier": "table",
+  "evidence": "36 serialised cells on one line: 'PRCTILE = 95, 2008 = 7.07. MV = 25; PRCTILE = 95, 2009 = 30.'",
+  "p": null
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 8,
+  "id": "3308eef978b0d93b2af3ed8ce2bdf24ad745e39d2fab39fdc03e4d61cb429c53",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.135,
+   0.067,
+   0.721,
+   0.077
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 9,
+  "id": "8cd8fb78981684a2e8a9c6e35dd3ebacc16799d49cec0827c723868a918c7234",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.997,
+   0.001
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 10,
+  "id": "4f4c18025b9d0e1ec311748e776c2269c2ca3f38cc647ffd38b5ea51e3899e1e",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.001
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 11,
+  "id": "72a02b5e5252b7f2c4c03913d0e3c279573dff53fe875b06760b25f41bd605fe",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.992,
+   0.002,
+   0.001,
+   0.005
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 12,
+  "id": "6877e6e87cb0917de060b1d2dd3fe9b5ec9f19a365608d42fbc02270f59fda36",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.989,
+   0.002,
+   0.001,
+   0.009
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 13,
+  "id": "8fb4deeddd0e9e7abe92a99e5bec49f8b4032f4102155c79d60216b80d458025",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.989,
+   0.007,
+   0.002,
+   0.002
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 14,
+  "id": "cc9841087239e077815fabcf3a962e27e980cbf8cc7b957bbabb64a08552c72e",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.493,
+   0.021,
+   0.48,
+   0.007
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 15,
+  "id": "c89afa650501d6b6b88b4d04714319fa343cbda7c9a8bb78f89e77ee399b75ed",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.996,
+   0.001,
+   0.0,
+   0.003
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 16,
+  "id": "a3851cb4e25b2d2ea5e6b84684b6499e471a94cbd9d0eeaffe924e3990aca05c",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.934,
+   0.018,
+   0.034,
+   0.015
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 17,
+  "id": "9ba9761df944344679e71f50f98a25479ec835067d14e2f3d453b7d21c5f9a4f",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.991,
+   0.002,
+   0.002,
+   0.005
+  ]
+ },
+ {
+  "document": "s41467-020-15356-z.pdf",
+  "chunk_index": 18,
+  "id": "0edd94c4515672d9ede9799326fa5978b8f17ff7ecca98e2a31c737afe4ccc66",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.997,
+   0.0,
+   0.0,
+   0.003
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 0,
+  "id": "70e5ba779e5a4b3f27d883b43f0f4f0392cc4c9284888da44233c8a0c8c74bd2",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.98,
+   0.017,
+   0.002,
+   0.001
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 1,
+  "id": "4fc86e205c9178b2cf81a6cf081f32a2b78d58943834289c942ca97dfd8d4cd1",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.012,
+   0.983,
+   0.004,
+   0.001
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 2,
+  "id": "3c44ec8e44070990908d92a328e32a7d92365159ac9e913e32701dbb35aa46a1",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.003,
+   0.964,
+   0.032,
+   0.001
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 3,
+  "id": "b00d1550e12b9a6feb305ce67e7ee31192f6248bca8b9446464b951c9704d85e",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.055,
+   0.941,
+   0.002
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 4,
+  "id": "8618125173212c82adbee6078b24c3bfc4d708d772c89cbd96569ef8ba957dc2",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.978,
+   0.015,
+   0.003
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 5,
+  "id": "969e3efa676e4b12d8accf9ab879d00968636023220574efe89c63052c8833e7",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.005,
+   0.65,
+   0.338,
+   0.008
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 6,
+  "id": "2f02a5aeeebf0ec3eba84c52543c870674ed67e4eb9834d5d1bb40c38503e51c",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 7,
+  "id": "d67a70fe0d3fd22b51f17fa60bc89302ac13d84bd750e8dc1a50c471f4e74d01",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 8,
+  "id": "e4630f342f2cbc15f02dfa11a9e6483e72c55f55c2c3f0a757f0e97c255d2845",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.0,
+   0.999
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 9,
+  "id": "910b8909f6f0f13cc69b488bddb8a121b929ac8af98c6ede45271158935b89f7",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 10,
+  "id": "c5af2277ec9255a25643b3d6f77e15334ebd713eeb24082462ab2376cd60df12",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 11,
+  "id": "08a55b65e4ce036598d60383c82a4a4e27ac50c200653af0d433c06eceb65f8f",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 12,
+  "id": "59f3e95de81e3ed5265b7d2b30c7086246ec0ddf547185a25cefd723c78f2ac0",
+  "k": 3,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 13,
+  "id": "fae6ae5ac0c8906dcff2be1ff98869e2f7fc0e076ecb675d92b8f526b7a97662",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.693,
+   0.296,
+   0.007
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 14,
+  "id": "30bcba478d5d0601e83e58ff99545669d3715c4479c83cfe62cb217fb73be9f1",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.005,
+   0.972,
+   0.019,
+   0.003
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 15,
+  "id": "2b90a9450cb39b9135c93054141019e1db5064c724ef2aa5120d67adbe169d7d",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.003,
+   0.142,
+   0.846,
+   0.009
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 16,
+  "id": "6637d7b0e37b9e771d4ade6b15b431eee74bc80a8d6f551614f797f83344e44a",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.003,
+   0.888,
+   0.096,
+   0.012
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 17,
+  "id": "73f5c8543503092eef78b9aa271536b3107cc5758ed53c8a4e22c1f39e2aa289",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.014,
+   0.828,
+   0.087,
+   0.072
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 18,
+  "id": "9ed0d11c01ab74078f197278e2c9e793a880476b433a3f96663e3bcd0d732607",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.007,
+   0.607,
+   0.367,
+   0.019
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 19,
+  "id": "f747235dfa63ce934997cde0632e7fe980c24114803c6efabf3b4b23fce3afa6",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.007,
+   0.858,
+   0.127,
+   0.008
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 20,
+  "id": "323c84265b83ba13bdae4c2774dd17d0398f581bc6ea69980fc9bb61313d8986",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.009,
+   0.821,
+   0.154,
+   0.016
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 21,
+  "id": "02ef26edc8157450d14ad5eb0878eb30b53dc6a948f40945579bcde4190517f6",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.568,
+   0.428,
+   0.003
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 22,
+  "id": "00060f9f1c945501c0671b8c08279464161911f2fc4c54efa541bfb382e92453",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.013,
+   0.976,
+   0.006,
+   0.006
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 23,
+  "id": "bbf52f16f22bf667653d6c36d8f58bf999abb071ae749262138f5d44aa594720",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.978,
+   0.013,
+   0.006
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 24,
+  "id": "4880d6a7cce22b77e13000036e1e594baea9d4b988517723d885068af4697d8a",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.003,
+   0.786,
+   0.208,
+   0.004
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 25,
+  "id": "e21d6716ad250a0de8b4d7a70ad1c7892eed23da3835643dd3bd4ee5b045bc38",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.01,
+   0.945,
+   0.036,
+   0.009
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 26,
+  "id": "015527ea52e7c087fc5e2aae8c86b6d2e4129342a92572ee3280f55991141c0b",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.082,
+   0.835,
+   0.06,
+   0.023
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 27,
+  "id": "31befc0c83531733de2a5f263e78a75f666cc4697c03f9b7da3ecb923dd544de",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.995,
+   0.002,
+   0.002,
+   0.001
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 28,
+  "id": "9ea120e950d19b85fab1bb7456ab3831d9ec30d5a7c05b0a63e1af2fd2701030",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.997,
+   0.001,
+   0.0,
+   0.002
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 29,
+  "id": "9cafa34a6146cd22b267da2a6494e32e3d0944e36a3fe22e63addbae4b640cb4",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.959,
+   0.008,
+   0.025,
+   0.008
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 30,
+  "id": "a3b0ce0641bced183a0585ba0b518ff195a14ba0b140131fdeac9a29a74e7f41",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.985,
+   0.005,
+   0.004,
+   0.007
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 31,
+  "id": "ecc8b0c7289966c5b4e8fe9ed1608118827da2c58f29faef549404abacf80d96",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.997,
+   0.001,
+   0.001,
+   0.001
+  ]
+ },
+ {
+  "document": "s41586-019-1138-y.pdf",
+  "chunk_index": 32,
+  "id": "d6df2f2b22239fde17dad20f119b510cf33f05faeb2121adbb57fd7e6950e4cc",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.996,
+   0.001,
+   0.001,
+   0.002
+  ]
+ },
+ {
+  "document": "s41598-017-06108-z.pdf",
+  "chunk_index": 0,
+  "id": "a27c9e13a6d2fe7ca37267963f5665051932331d32e04c44cd4814e311f75743",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.046,
+   0.948,
+   0.005,
+   0.001
+  ]
+ },
+ {
+  "document": "s41598-017-06108-z.pdf",
+  "chunk_index": 1,
+  "id": "7a4a74110cba821e7d444a900e3d24e9a3c1f17649af566956f40d838a02615c",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.001,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "s41598-017-06108-z.pdf",
+  "chunk_index": 2,
+  "id": "d5fb0567f41d7776a8810982e02fc17d8b039ab0a3b75c6ff51250f8f0018bb0",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.002,
+   0.997,
+   0.001
+  ]
+ },
+ {
+  "document": "s41598-017-06108-z.pdf",
+  "chunk_index": 3,
+  "id": "dbc61c280b4afbb154c9ac620ef6c7eb762413c0e26d9ea3f21f0a1f55a7bbc6",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.021,
+   0.759,
+   0.212,
+   0.008
+  ]
+ },
+ {
+  "document": "s41598-017-06108-z.pdf",
+  "chunk_index": 4,
+  "id": "095f3123104b9f2b6a9ab4cd53f1e905395700b47f91d6222a4a143e4bf88f05",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.989,
+   0.005,
+   0.004,
+   0.003
+  ]
+ },
+ {
+  "document": "s41598-017-06108-z.pdf",
+  "chunk_index": 5,
+  "id": "07b81941e0df6e3491dd893be6c0b6be6276e91fe1fe64b66e0d91930eba8aac",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.991,
+   0.003,
+   0.001,
+   0.004
+  ]
+ },
+ {
+  "document": "s41598-017-06108-z.pdf",
+  "chunk_index": 6,
+  "id": "6f8a980f08ae5af32a69d7d1f76eee3685cb382cfdc7216b1b9f49cffef28178",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.973,
+   0.007,
+   0.015,
+   0.004
+  ]
+ },
+ {
+  "document": "s41598-017-06108-z.pdf",
+  "chunk_index": 7,
+  "id": "4a5bfe9e3b070baaddcf4ef0f6ca3c796ade4a5ca29a7e46ccafd2bff5845ef4",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.994,
+   0.001,
+   0.0,
+   0.004
+  ]
+ },
+ {
+  "document": "s41598-020-77823-3.pdf",
+  "chunk_index": 0,
+  "id": "4a33c4ebd2300e120d64a55cadfad804993c972dcd151fbd6b2effdc2137b163",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.175,
+   0.815,
+   0.008,
+   0.002
+  ]
+ },
+ {
+  "document": "s41598-020-77823-3.pdf",
+  "chunk_index": 1,
+  "id": "6158c83b53e05b63514c0125cbfbc3d644c1f4c7e97deb738eeb428ff046a11f",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.003,
+   0.003,
+   0.992,
+   0.002
+  ]
+ },
+ {
+  "document": "s41598-020-77823-3.pdf",
+  "chunk_index": 2,
+  "id": "4eecb9240c936f76259c30feaf4292800c84483b696ec2d6176d27420823b3b1",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.003,
+   0.995,
+   0.001
+  ]
+ },
+ {
+  "document": "s41598-020-77823-3.pdf",
+  "chunk_index": 3,
+  "id": "8f78270985e7b15c5d225e78e460a7e4f5e6cfb9c2b659ec5f2e60bbf830256e",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.018,
+   0.015,
+   0.954,
+   0.012
+  ]
+ },
+ {
+  "document": "s41598-020-77823-3.pdf",
+  "chunk_index": 4,
+  "id": "5b06f176d26beabd24cc4feae57803765adcfbb8298ff9eeb475d73c5d55caae",
+  "k": 3,
+  "tier": "table",
+  "evidence": "21 serialised cells on one line: 'k-core, 1 = 0. k-core, 2 = 1. k-core, 3 = 2. k-core, 4 = 3. '",
+  "p": null
+ },
+ {
+  "document": "s41598-020-77823-3.pdf",
+  "chunk_index": 5,
+  "id": "092e992fe517e1dc68fbebbec0c44803c01b478b065912390dcc54f5d9f69b53",
+  "k": 3,
+  "tier": "table",
+  "evidence": "92 serialised cells on one line: 'Fuzhou( \u798f\u5dde ), Coefficient.MCP_L = - 1.0156. Fuzhou( \u798f\u5dde ), Co'",
+  "p": null
+ },
+ {
+  "document": "s41598-020-77823-3.pdf",
+  "chunk_index": 6,
+  "id": "f1156cbab26f025e495c2c05ff89436098c0b94433211fbc5e7433c40c341d14",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.015,
+   0.018,
+   0.96,
+   0.007
+  ]
+ },
+ {
+  "document": "s41598-020-77823-3.pdf",
+  "chunk_index": 7,
+  "id": "83e84d7f44ec2f8f2913d02a1e2d3ec7da9a4f7fb7cacb32993b30b0c607e69c",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.989,
+   0.004,
+   0.004,
+   0.003
+  ]
+ },
+ {
+  "document": "s41598-020-77823-3.pdf",
+  "chunk_index": 8,
+  "id": "183a22783d8817a99c5965c945f71e22b7d39ee4a12da61ea103ef6658c6fbf8",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.99,
+   0.003,
+   0.004,
+   0.003
+  ]
+ },
+ {
+  "document": "s41598-020-77823-3.pdf",
+  "chunk_index": 9,
+  "id": "3eab2cd98dc0306d5693aaf18ebe513085a770618ad242fefbf635824589e7c9",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.985,
+   0.004,
+   0.006,
+   0.005
+  ]
+ },
+ {
+  "document": "s41598-020-77823-3.pdf",
+  "chunk_index": 10,
+  "id": "6c74598eb7f6c0bfa5f20004e50590c3c9386c2c22f166cb1013845c6c7c29a3",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.988,
+   0.005,
+   0.003,
+   0.004
+  ]
+ },
+ {
+  "document": "s41598-020-77823-3.pdf",
+  "chunk_index": 11,
+  "id": "9ba9761df944344679e71f50f98a25479ec835067d14e2f3d453b7d21c5f9a4f",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.991,
+   0.002,
+   0.002,
+   0.005
+  ]
+ },
+ {
+  "document": "s41598-020-77823-3.pdf",
+  "chunk_index": 12,
+  "id": "c19fbefc40b270acee47d26522fe45f913d993622c5be0db08d9198d21a0e4cc",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.993,
+   0.001,
+   0.0,
+   0.006
+  ]
+ },
+ {
+  "document": "s41598-021-90943-8.pdf",
+  "chunk_index": 0,
+  "id": "9508e04dcdac204129b03bc4f75f8abb35639ef51102d568119f6f033c400631",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.004,
+   0.993,
+   0.001
+  ]
+ },
+ {
+  "document": "s41598-021-90943-8.pdf",
+  "chunk_index": 1,
+  "id": "51ef4f543e5101a9900dc977206745673973498457397fdb2993f664c7195a5d",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.002,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "s41598-021-90943-8.pdf",
+  "chunk_index": 2,
+  "id": "3af991e179b18aee170828d4bab00f1602ab1bf3c3d38af9badbd6cc6f1ce1d6",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.003,
+   0.994,
+   0.001
+  ]
+ },
+ {
+  "document": "s41598-021-90943-8.pdf",
+  "chunk_index": 3,
+  "id": "5c63fcc92bd191787700a539f045c1c67017ecd27af933f8f67a8ca99b05b337",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.0
+  ]
+ },
+ {
+  "document": "s41598-021-90943-8.pdf",
+  "chunk_index": 4,
+  "id": "82a0268dc0ccbef91539326dd5dfddc074935f93f6293d78af8d69262e3e326b",
+  "k": 3,
+  "tier": "table",
+  "evidence": "31 serialised cells on one line: '0.900, Ground truth routes = 29. 0.900, Routes after pruning'",
+  "p": null
+ },
+ {
+  "document": "s41598-021-90943-8.pdf",
+  "chunk_index": 5,
+  "id": "8d930705d3762bf8f2e37d61932c53031fd005cfd81ef7ea8f9be0bc97e8ccb6",
+  "k": 3,
+  "tier": "table",
+  "evidence": "39 serialised cells on one line: '0.80, Ground truth routes = 146. 0.80, Routes after pruning '",
+  "p": null
+ },
+ {
+  "document": "s41598-021-90943-8.pdf",
+  "chunk_index": 6,
+  "id": "530df888b5981d171cbf8979de04b5ac16dceb47348bbedcf5fa93a91bc4ecb1",
+  "k": 3,
+  "tier": "table",
+  "evidence": "27 serialised cells on one line: 'South Sudan (all settlements), Number of locations = 1783. S'",
+  "p": null
+ },
+ {
+  "document": "s41598-021-90943-8.pdf",
+  "chunk_index": 7,
+  "id": "41bb75886dd57bb8af0401d44014ac56c273e4ff18c457598dd2817a77f7c698",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.0,
+   0.998,
+   0.001
+  ]
+ },
+ {
+  "document": "s41598-021-90943-8.pdf",
+  "chunk_index": 8,
+  "id": "c9ad65e7438eb154509b5b4056519fab1777e7f7a45244c1756e722f8b1bf77d",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.871,
+   0.01,
+   0.111,
+   0.008
+  ]
+ },
+ {
+  "document": "s41598-021-90943-8.pdf",
+  "chunk_index": 9,
+  "id": "0ac676c8594a288562e07af6cd808bd87437fb35a92a8942fbe075ae4e0bf602",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.953,
+   0.012,
+   0.024,
+   0.011
+  ]
+ },
+ {
+  "document": "s41598-021-90943-8.pdf",
+  "chunk_index": 10,
+  "id": "df1793d1e56f5ee9f6ed45f50a68374e41602f3ed6aa3de4032e463d45b7ae90",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.585,
+   0.046,
+   0.345,
+   0.024
+  ]
+ },
+ {
+  "document": "s41598-021-90943-8.pdf",
+  "chunk_index": 11,
+  "id": "9ba9761df944344679e71f50f98a25479ec835067d14e2f3d453b7d21c5f9a4f",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.992,
+   0.002,
+   0.001,
+   0.005
+  ]
+ },
+ {
+  "document": "s41598-021-90943-8.pdf",
+  "chunk_index": 12,
+  "id": "1301be1bfb8e971c5d22164cdbd2866d7b28de889db8a5820c077dd6107de700",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.991,
+   0.002,
+   0.001,
+   0.007
+  ]
+ },
+ {
+  "document": "srep01684.pdf",
+  "chunk_index": 0,
+  "id": "326e42cc95fc78ae06dc4023c715a91f02054804d2d49493534f2e79f13e8dec",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.05,
+   0.918,
+   0.025,
+   0.007
+  ]
+ },
+ {
+  "document": "srep01684.pdf",
+  "chunk_index": 1,
+  "id": "31c6e564a2d23c8266ccfc78cef7934798ef7025766d2ccd97812cca1ff3eff4",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.027,
+   0.665,
+   0.296,
+   0.012
+  ]
+ },
+ {
+  "document": "srep01684.pdf",
+  "chunk_index": 2,
+  "id": "8eec0a9d2ad059f275b47ac2043e29ecf363c5534cbb93b1d0c12e3ebf0a9b8a",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.005,
+   0.005,
+   0.989,
+   0.002
+  ]
+ },
+ {
+  "document": "srep01684.pdf",
+  "chunk_index": 3,
+  "id": "c80c4fb4f9449b543440f05257d57a5bee14a10d6f666ee0cae5b01b3b93c2b5",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.854,
+   0.127,
+   0.011,
+   0.008
+  ]
+ },
+ {
+  "document": "srep01684.pdf",
+  "chunk_index": 4,
+  "id": "e2706249ef84ec3b4953d05b424ceeab996bfbc04dc9127459c958742b3552dc",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.022,
+   0.054,
+   0.918,
+   0.006
+  ]
+ },
+ {
+  "document": "srep01684.pdf",
+  "chunk_index": 5,
+  "id": "b52c287ef40d307c266a0483196277a242c55c664a95c9c62eee67ac7f110ac7",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.984,
+   0.002,
+   0.004,
+   0.01
+  ]
+ },
+ {
+  "document": "srep01684.pdf",
+  "chunk_index": 6,
+  "id": "c4b61b5ff3013113ecc523228b31405d2e498bb72cab8ad0a02632e1f13f4102",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.9,
+   0.026,
+   0.057,
+   0.016
+  ]
+ },
+ {
+  "document": "srep01684.pdf",
+  "chunk_index": 7,
+  "id": "559ef0ef84249f4432e11552f25677361cf1d48cfffc3e58a8d7a630c2662720",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.991,
+   0.001,
+   0.001,
+   0.007
+  ]
+ },
+ {
+  "document": "srep03578.pdf",
+  "chunk_index": 0,
+  "id": "c39b1b779265011c97964b077d16b04cfea472f9e0df7236dc22d98762d28689",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.993,
+   0.002,
+   0.001,
+   0.004
+  ]
+ },
+ {
+  "document": "srep03578.pdf",
+  "chunk_index": 1,
+  "id": "207f22f77d5bd6b8e280d8df0ff17f0d31953e4c9587a97e28d3c6917e23321a",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.022,
+   0.795,
+   0.165,
+   0.018
+  ]
+ },
+ {
+  "document": "srep03578.pdf",
+  "chunk_index": 2,
+  "id": "5a98a61fec05e6697e20d245a1bb34a69610f817edcf458b3232892c13903838",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.018,
+   0.977,
+   0.001
+  ]
+ },
+ {
+  "document": "srep03578.pdf",
+  "chunk_index": 3,
+  "id": "123ddcf83ab03270fa993398fc3054f79db55d55ebea5930ce383190d447be9b",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.032,
+   0.078,
+   0.877,
+   0.012
+  ]
+ },
+ {
+  "document": "srep03578.pdf",
+  "chunk_index": 4,
+  "id": "44bc9ef119f95f8df2f7f6705553cf647a40c01370c32011d7ad1c30a77fe24f",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.006,
+   0.776,
+   0.212,
+   0.006
+  ]
+ },
+ {
+  "document": "srep03578.pdf",
+  "chunk_index": 5,
+  "id": "25993ff756ef245d2a8bee48ed32c074cb64bb79c3e07d2cb578beda64fbeff4",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.008,
+   0.085,
+   0.899,
+   0.007
+  ]
+ },
+ {
+  "document": "srep03578.pdf",
+  "chunk_index": 6,
+  "id": "4a5c88f851ca7454e402edbc74ac8d84e275f96df99fa2db6c34c67a755153aa",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.991,
+   0.004,
+   0.003,
+   0.002
+  ]
+ },
+ {
+  "document": "srep03578.pdf",
+  "chunk_index": 7,
+  "id": "8c93962ced7dff422e6b36e9063b8dfce7696f7a9e07f9bdfafbbb199d23fb22",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.917,
+   0.013,
+   0.033,
+   0.037
+  ]
+ },
+ {
+  "document": "srep03578.pdf",
+  "chunk_index": 8,
+  "id": "b26ed9f68c5f492a79867a76e87abf14f0e31d5d5ba9dd30725b222c5e384296",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.806,
+   0.026,
+   0.144,
+   0.024
+  ]
+ },
+ {
+  "document": "srep03578.pdf",
+  "chunk_index": 9,
+  "id": "d6986de90b49900dd8021960a9ed0b8924017019142aa30cc348cac3db313473",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.972,
+   0.004,
+   0.005,
+   0.018
+  ]
+ },
+ {
+  "document": "srep04487.pdf",
+  "chunk_index": 0,
+  "id": "deb5c98c3fe7c73683486aac8b6a2b88adaf5f50e5c6d006c181ae822c838785",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.995,
+   0.002,
+   0.001,
+   0.002
+  ]
+ },
+ {
+  "document": "srep04487.pdf",
+  "chunk_index": 1,
+  "id": "2c43f177bd10191f4566be743011edb03b8f705c320565bcd29db548a5aaee12",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.018,
+   0.898,
+   0.078,
+   0.007
+  ]
+ },
+ {
+  "document": "srep04487.pdf",
+  "chunk_index": 2,
+  "id": "8c2dda92bd15dc29196d8dd6b4a8dab81582ccc88def7b64aa66a191b875973a",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.101,
+   0.894,
+   0.003
+  ]
+ },
+ {
+  "document": "srep04487.pdf",
+  "chunk_index": 3,
+  "id": "0a0121958a11d76c53e56a224c3c984118b595ce9c8d255e961ead02ced19d98",
+  "k": 3,
+  "tier": "table",
+  "evidence": "7 serialised cells on one line: 'Stocks resistances, 1 sec. = , 0.001. Stocks resistances, 15'",
+  "p": null
+ },
+ {
+  "document": "srep04487.pdf",
+  "chunk_index": 4,
+  "id": "5f7e2668edcfe98e39e65e95895ef10916e1f9ad8f36b461f24f82ae640ec0af",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.01,
+   0.007,
+   0.976,
+   0.008
+  ]
+ },
+ {
+  "document": "srep04487.pdf",
+  "chunk_index": 5,
+  "id": "d976de69de08cb7c4fbd1161960eee6e7b3c8d244460319e2fc5467dfc83db40",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.001,
+   0.998,
+   0.001
+  ]
+ },
+ {
+  "document": "srep04487.pdf",
+  "chunk_index": 6,
+  "id": "11fbaf2f2df66246d61e6e7b26e0c4aab3182c76ca36aae71bb84660fc281989",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.988,
+   0.002,
+   0.004,
+   0.006
+  ]
+ },
+ {
+  "document": "srep04487.pdf",
+  "chunk_index": 7,
+  "id": "2b69a821fa366b7a164b576c571c862ea410428c9e5557c1d2ac1234e3820e3c",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.991,
+   0.002,
+   0.005,
+   0.002
+  ]
+ },
+ {
+  "document": "srep04487.pdf",
+  "chunk_index": 8,
+  "id": "126848f2292e4a8c2bf137df74ad5240d328585bacf25a10a04ae4d6daddd92e",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.997,
+   0.001,
+   0.0,
+   0.002
+  ]
+ },
+ {
+  "document": "srep04487.pdf",
+  "chunk_index": 9,
+  "id": "1fff241e63df7248329cfe749946a2bf8f5903badd6dc29761f928b01791e0ea",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.945,
+   0.012,
+   0.032,
+   0.011
+  ]
+ },
+ {
+  "document": "srep04487.pdf",
+  "chunk_index": 10,
+  "id": "97270a5fc8806d24c1408da8dcec3007f75affcc311d975192298d340e92d41d",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.971,
+   0.005,
+   0.008,
+   0.016
+  ]
+ },
+ {
+  "document": "srep05215.pdf",
+  "chunk_index": 0,
+  "id": "5259e018e89675fdc5b3c62998b0733fba761ccec06de2889561be73eb0eae98",
+  "k": 3,
+  "tier": "table",
+  "evidence": "pipe caption: 'Table 1 | Adapted from van den Bergh 40 '",
+  "p": null
+ },
+ {
+  "document": "srep05215.pdf",
+  "chunk_index": 1,
+  "id": "b03bf7d3ffe1b7cede3b53b3206b0450ce16e7067e4147e54a38c511e0a52585",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.988,
+   0.007,
+   0.003,
+   0.002
+  ]
+ },
+ {
+  "document": "srep05215.pdf",
+  "chunk_index": 2,
+  "id": "8079f9661efca3876afa056e5b97349ed8b7dec471cfec773323fe325fdae5e6",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.037,
+   0.748,
+   0.199,
+   0.016
+  ]
+ },
+ {
+  "document": "srep05215.pdf",
+  "chunk_index": 3,
+  "id": "9d11bad72e32c62fd71a4329c5fd04907b48fe3a1f5d974f72e6c7eed34e3362",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.041,
+   0.911,
+   0.021,
+   0.027
+  ]
+ },
+ {
+  "document": "srep05215.pdf",
+  "chunk_index": 4,
+  "id": "ff0f3028ba4b047b010d1f88433dd1e8a0568e9bed7f556f1faff86922015537",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.002,
+   0.995,
+   0.002
+  ]
+ },
+ {
+  "document": "srep05215.pdf",
+  "chunk_index": 5,
+  "id": "9b7934af40562290152d16cff725a45e3c5b04deff3c987b5770389e14169025",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.004,
+   0.001,
+   0.993,
+   0.002
+  ]
+ },
+ {
+  "document": "srep05215.pdf",
+  "chunk_index": 6,
+  "id": "2d282ac3bbd87c0f9ed01997b8b18c17b7b995e12dba55f1bae8fda20252d62c",
+  "k": 3,
+  "tier": "table",
+  "evidence": "11 serialised cells on one line: 'i,j,... a , b ,..., Definition = Indices for direct activiti'",
+  "p": null
+ },
+ {
+  "document": "srep05215.pdf",
+  "chunk_index": 7,
+  "id": "e9e9c05fe24d6f932428f286181713becd41ab2bbdf2d06516109205e89e8e3d",
+  "k": 3,
+  "tier": "table",
+  "evidence": "22 serialised cells on one line: 'US US US US US US, Level(s).Level(s) = single single. US US '",
+  "p": null
+ },
+ {
+  "document": "srep05215.pdf",
+  "chunk_index": 8,
+  "id": "0c6ce9940064f36379d33190947da453989ee6ce4cd914317b4202dbc7ebb3c9",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.012,
+   0.982,
+   0.003
+  ]
+ },
+ {
+  "document": "srep05215.pdf",
+  "chunk_index": 9,
+  "id": "894b4f5ff477a717381d5c8c400308cf20b2de38fe16ae53e56b9c83d576f8b6",
+  "k": 3,
+  "tier": "table",
+  "evidence": "caption: 'Table 4 | Response of the model to the theoretical '",
+  "p": null
+ },
+ {
+  "document": "srep05215.pdf",
+  "chunk_index": 10,
+  "id": "0153de0d600087f79abeec98e12703472d4525487ba23916a0b9bddc6e29cff8",
+  "k": 1,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.008,
+   0.696,
+   0.287,
+   0.009
+  ]
+ },
+ {
+  "document": "srep05215.pdf",
+  "chunk_index": 11,
+  "id": "da69854cf411401d821babffa408e3d404f77d2a981ba46b4f43dd11d92503d0",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.988,
+   0.004,
+   0.005,
+   0.003
+  ]
+ },
+ {
+  "document": "srep05215.pdf",
+  "chunk_index": 12,
+  "id": "e72eb74655f540410a4729c844615639e2d0a4c85e402be1330275925d25622a",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.995,
+   0.001,
+   0.001,
+   0.003
+  ]
+ },
+ {
+  "document": "srep05215.pdf",
+  "chunk_index": 13,
+  "id": "966f25fc1e064ec85e755e1b96d03311a6866567cc48f0af20334bcb058bca3a",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.996,
+   0.001,
+   0.0,
+   0.003
+  ]
+ },
+ {
+  "document": "srep05215.pdf",
+  "chunk_index": 14,
+  "id": "7e47ae59ccbbb8f53722791da1dad222fd3958d1c3179ba9f151046cf47236ff",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.986,
+   0.002,
+   0.002,
+   0.01
+  ]
+ },
+ {
+  "document": "srep45325.pdf",
+  "chunk_index": 0,
+  "id": "ea01f403a3b50d4e1fca1e4c694dcbac49ffd89d3a8b58598692174479d359e1",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.001,
+   0.003,
+   0.994,
+   0.001
+  ]
+ },
+ {
+  "document": "srep45325.pdf",
+  "chunk_index": 1,
+  "id": "d81ff35406925fc5cf14ef7da5a97e466182d55c23dfb420f4e56fd2f150c679",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.001,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "srep45325.pdf",
+  "chunk_index": 2,
+  "id": "4c5ac625fc4c6cde7d0da6e2a11bc9720d37162441dad01328f802e663431ebe",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.002,
+   0.001,
+   0.996,
+   0.001
+  ]
+ },
+ {
+  "document": "srep45325.pdf",
+  "chunk_index": 3,
+  "id": "f7af8940755d60114f7d53c93c3f632aee7bd4e3a25d30bee204c345a2e458f9",
+  "k": 2,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.0,
+   0.0,
+   0.999,
+   0.001
+  ]
+ },
+ {
+  "document": "srep45325.pdf",
+  "chunk_index": 4,
+  "id": "9a831cf287abfe6939530a083993ae7266bb58f940423dec8d49a0ad27d9dada",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.986,
+   0.004,
+   0.008,
+   0.002
+  ]
+ },
+ {
+  "document": "srep45325.pdf",
+  "chunk_index": 5,
+  "id": "7c5d84800170d9ad938208fc3652aad3761335322541fa0ddd5061bf6809ac44",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.99,
+   0.004,
+   0.003,
+   0.003
+  ]
+ },
+ {
+  "document": "srep45325.pdf",
+  "chunk_index": 6,
+  "id": "e066d39e14614d6b337501787c2b75fdf726ec99f0cde72c7c2f1930b1df16b3",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.769,
+   0.027,
+   0.19,
+   0.013
+  ]
+ },
+ {
+  "document": "srep45325.pdf",
+  "chunk_index": 7,
+  "id": "19704843383ef52265a64ef649692aa82e7c29c7e280d185dfca9d6250042202",
+  "k": 0,
+  "tier": "slm",
+  "evidence": null,
+  "p": [
+   0.993,
+   0.001,
+   0.001,
+   0.005
+  ]
+ }
+]

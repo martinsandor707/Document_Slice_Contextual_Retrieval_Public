@@ -1,0 +1,301 @@
+{
+  "run": "end_to_end_doc_slice_radius_dynamic",
+  "scope": "end-to-end preprocessing: Docling conversion + HybridChunker + cleaning, slice-radius routing, summarisation (no embedding)",
+  "documents": 25,
+  "chunks": 377,
+  "wall_clock_s": 629.6148285039999,
+  "stages_s": {
+    "parse_s": 100.55374635900807,
+    "route_s": 68.46752505100085,
+    "summarise_s": 459.3341143880025
+  },
+  "radius_distribution": {
+    "0": 127,
+    "2": 250
+  },
+  "summariser_reloads": 0,
+  "codecarbon": {
+    "timestamp": "2026-10-05T19:21:45",
+    "duration_s": 628.4549081389996,
+    "energy_kwh": 0.015241862012361582,
+    "emissions_kg": 0.003199416090321253
+  },
+  "ollama_version": "0.35.1",
+  "per_document": [
+    {
+      "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+      "chunks": 22,
+      "parse_s": 4.395409185999597,
+      "route_s": 7.841594597000949,
+      "summarise_s": 23.99055620299987,
+      "radii": {
+        "0": 8,
+        "2": 14
+      }
+    },
+    {
+      "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+      "chunks": 26,
+      "parse_s": 4.723175869999977,
+      "route_s": 3.8906958920015313,
+      "summarise_s": 29.13633723499879,
+      "radii": {
+        "0": 6,
+        "2": 20
+      }
+    },
+    {
+      "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+      "chunks": 14,
+      "parse_s": 6.050641043999349,
+      "route_s": 2.9527310299999954,
+      "summarise_s": 14.426293065000209,
+      "radii": {
+        "2": 10,
+        "0": 4
+      }
+    },
+    {
+      "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+      "chunks": 18,
+      "parse_s": 3.0605687800016312,
+      "route_s": 3.2283690639997076,
+      "summarise_s": 23.38433524100037,
+      "radii": {
+        "0": 5,
+        "2": 13
+      }
+    },
+    {
+      "document": "Electron_Paramagnetic_Resonance_Study_on_28Si_Single_Crystal_for_the_Future_Realization_of_the_Kilogram.pdf",
+      "chunks": 12,
+      "parse_s": 2.882277108998096,
+      "route_s": 2.5888270210016344,
+      "summarise_s": 14.783646649997536,
+      "radii": {
+        "0": 5,
+        "2": 7
+      }
+    },
+    {
+      "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+      "chunks": 14,
+      "parse_s": 5.043864021001355,
+      "route_s": 2.398267302996828,
+      "summarise_s": 14.424469564000901,
+      "radii": {
+        "0": 5,
+        "2": 9
+      }
+    },
+    {
+      "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+      "chunks": 9,
+      "parse_s": 4.900144244002149,
+      "route_s": 1.3978060570007074,
+      "summarise_s": 12.606169737999153,
+      "radii": {
+        "0": 4,
+        "2": 5
+      }
+    },
+    {
+      "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+      "chunks": 12,
+      "parse_s": 4.349068798001099,
+      "route_s": 2.426735380999162,
+      "summarise_s": 14.564096048001375,
+      "radii": {
+        "0": 5,
+        "2": 7
+      }
+    },
+    {
+      "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+      "chunks": 18,
+      "parse_s": 6.213110127999244,
+      "route_s": 3.022898711999005,
+      "summarise_s": 17.869159739002498,
+      "radii": {
+        "0": 6,
+        "2": 12
+      }
+    },
+    {
+      "document": "Stock_Market_Prediction_via_Multi-Source_Multiple_Instance_Learning.pdf",
+      "chunks": 18,
+      "parse_s": 3.5186732900001516,
+      "route_s": 2.943772725000599,
+      "summarise_s": 22.850313077000465,
+      "radii": {
+        "0": 5,
+        "2": 13
+      }
+    },
+    {
+      "document": "The_Application_of_the_SOFM_Neural_Network_and_Internet_of_Things_in_Rural_Revitalization.pdf",
+      "chunks": 17,
+      "parse_s": 2.232590961000824,
+      "route_s": 3.044118439000158,
+      "summarise_s": 19.67489660299907,
+      "radii": {
+        "0": 4,
+        "2": 13
+      }
+    },
+    {
+      "document": "The_Graph_Database_Jack_of_All_Trades_or_Just_Not_SQL.pdf",
+      "chunks": 10,
+      "parse_s": 1.779231296000944,
+      "route_s": 1.7362434880014916,
+      "summarise_s": 8.05371287899834,
+      "radii": {
+        "2": 7,
+        "0": 3
+      }
+    },
+    {
+      "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+      "chunks": 20,
+      "parse_s": 5.579548219000571,
+      "route_s": 2.7617883940001775,
+      "summarise_s": 17.781157164001343,
+      "radii": {
+        "2": 13,
+        "0": 7
+      }
+    },
+    {
+      "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+      "chunks": 21,
+      "parse_s": 5.607312954998633,
+      "route_s": 3.452047845999914,
+      "summarise_s": 26.15929920200142,
+      "radii": {
+        "0": 4,
+        "2": 17
+      }
+    },
+    {
+      "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+      "chunks": 13,
+      "parse_s": 5.1509890660017845,
+      "route_s": 2.527619167998637,
+      "summarise_s": 20.566195716000948,
+      "radii": {
+        "0": 3,
+        "2": 10
+      }
+    },
+    {
+      "document": "s41467-020-15356-z.pdf",
+      "chunks": 19,
+      "parse_s": 4.006299835000391,
+      "route_s": 2.8406975100006093,
+      "summarise_s": 38.49236566699983,
+      "radii": {
+        "2": 14,
+        "0": 5
+      }
+    },
+    {
+      "document": "s41586-019-1138-y.pdf",
+      "chunks": 25,
+      "parse_s": 2.5446660480010905,
+      "route_s": 4.712513925001986,
+      "summarise_s": 23.70965815099771,
+      "radii": {
+        "0": 8,
+        "2": 17
+      }
+    },
+    {
+      "document": "s41598-017-06108-z.pdf",
+      "chunks": 9,
+      "parse_s": 2.0318936809999286,
+      "route_s": 1.6603809619991807,
+      "summarise_s": 9.780215237999073,
+      "radii": {
+        "2": 5,
+        "0": 4
+      }
+    },
+    {
+      "document": "s41598-020-77823-3.pdf",
+      "chunks": 14,
+      "parse_s": 3.7653041310004483,
+      "route_s": 2.194174595999357,
+      "summarise_s": 19.74477705100071,
+      "radii": {
+        "2": 7,
+        "0": 7
+      }
+    },
+    {
+      "document": "s41598-021-90943-8.pdf",
+      "chunks": 13,
+      "parse_s": 4.616877327000111,
+      "route_s": 1.9009990000013204,
+      "summarise_s": 25.278721914997732,
+      "radii": {
+        "2": 7,
+        "0": 6
+      }
+    },
+    {
+      "document": "srep01684.pdf",
+      "chunks": 9,
+      "parse_s": 2.7130394220002927,
+      "route_s": 1.7412769090005895,
+      "summarise_s": 11.048510101001739,
+      "radii": {
+        "2": 6,
+        "0": 3
+      }
+    },
+    {
+      "document": "srep03578.pdf",
+      "chunks": 10,
+      "parse_s": 2.494279077000101,
+      "route_s": 1.8964177029993152,
+      "summarise_s": 10.237654300999566,
+      "radii": {
+        "2": 6,
+        "0": 4
+      }
+    },
+    {
+      "document": "srep04487.pdf",
+      "chunks": 11,
+      "parse_s": 5.130499202001374,
+      "route_s": 1.8844253269999172,
+      "summarise_s": 10.671095900001092,
+      "radii": {
+        "2": 5,
+        "0": 6
+      }
+    },
+    {
+      "document": "srep05215.pdf",
+      "chunks": 14,
+      "parse_s": 5.0497857199989085,
+      "route_s": 1.7278280979990086,
+      "summarise_s": 19.002967371001432,
+      "radii": {
+        "2": 8,
+        "0": 6
+      }
+    },
+    {
+      "document": "srep45325.pdf",
+      "chunks": 9,
+      "parse_s": 2.714496949000022,
+      "route_s": 1.6952959039990674,
+      "summarise_s": 11.097510569001315,
+      "radii": {
+        "0": 4,
+        "2": 5
+      }
+    }
+  ]
+}

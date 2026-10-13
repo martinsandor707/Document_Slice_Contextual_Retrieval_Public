@@ -1,0 +1,1202 @@
+[
+  {
+    "question": "What were the two main components of the Gander research project, and what was the purpose of each?",
+    "gold_answer": "The Gander project had two main components: (1) an empirical component focused on problem conceptualization, conducted as a mixed-method study with practitioners in industry to provide input for tool design, and (2) a development component focused on building an experimental code review platform incorporating eye-tracking to enable gaze-assisted assistance in code reviews.",
+    "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+    "supporting_chunk": "The project had two main components; 1) an empirical component with focus on problem conceptualization, providing input to the tool design - conducted as a mixed-method study with practitioners in industry, and 2) a development component focused on development of an experimental code review platform incorporating eye-tracking."
+  },
+  {
+    "question": "Which three typical categories of participants in socio-technical software engineering research does the framework identify, and why are they distinguished?",
+    "gold_answer": "The framework identifies (1) employees or other stakeholders of software development organizations, (2) students or other beneficiaries of the university, and (3) independent participants. They are distinguished based on legal and ethical concerns regarding the relationship between researchers and participants, such as potential pressure to participate and secrecy conditions.",
+    "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+    "supporting_chunk": "We identify three typical categories of participants in socio-technical software engineering research, namely (1) employees or other stakeholders of software development organizations, (2) students or other beneficiaries of the university involved, and (3) independent participants. The categorization is conducted based on legal and ethical concerns..."
+  },
+  {
+    "question": "What are the four steps of the data pipeline in the proposed conceptual framework, and what does each step involve in a quantitative and qualitative study?",
+    "gold_answer": "The four steps are: (1) Data cleaning – transforming and anonymizing data (quantitative: coding for statistical tools; qualitative: transcription and anonymization). (2) Data exploration and visualization – descriptive statistics and outlier detection (quantitative) or preliminary coding ideas (qualitative). (3) Model building and analysis – statistical analysis like prediction models (quantitative) or coding and theory building (qualitative). (4) Findings presentation – presenting results in publications or reports.",
+    "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+    "supporting_chunk": "The conceptual data pipeline... divided into four steps... (1) Data cleaning... (2) Data exploration and visualization... (3) Model building and analysis... (4) Findings presentation..."
+  },
+  {
+    "question": "How does the framework define the three steps of artifact generalization toward reuse, and what does each step require?",
+    "gold_answer": "The three steps are: (i) Publication for reproduction – artifacts in original state (non-editable documents, executable code), ensuring transparency. (ii) Generalization for general use – artifacts in editable state (editable documents, source code). (iii) Generalization for continued development – artifacts with licenses, onboarding guidelines, and community support for ongoing evolution. Each step requires progressively more investment to make artifacts openly reusable.",
+    "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+    "supporting_chunk": "We identify three steps of artifact generalization towards increasing reuse: i) Publication for reproduction... ii) Generalization for general use... iii) Generalization for continued development... Each of these steps require additional investments in making the artifacts openly available."
+  },
+  {
+    "question": "What risks were identified in the paper regarding sharing qualitative interview data from the Gander project?",
+    "gold_answer": "The risks include: disclosure of irrelevant but sensitive company information, exposure of relevant but confidential events (e.g., security incidents), potential harm to interviewees if their opinions about managers are revealed, difficulty of anonymization with small participant groups, and epistemological concerns that transcripts lack meaning without shared context. These factors led the authors not to recommend sharing raw qualitative data.",
+    "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+    "supporting_chunk": "The risks related to sharing the qualitative interview data are multifold... information related to the company... critical events... interviewee could mention sensitive opinions... impossible to anonymize... transcripts hard to understand without context..."
+  },
+  {
+    "question": "What recommendation (R3) did the authors provide regarding qualitative research data, and what alternatives did they suggest for openness?",
+    "gold_answer": "The authors recommend not to openly publish qualitative research data. Instead, they suggest publishing study and analysis artifacts such as study protocols, interview guides, interviewee descriptions, and code books from thematic analysis to ensure transparency without compromising confidentiality.",
+    "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+    "supporting_chunk": "R3. We advice not to openly publish qualitative research data, but to publish study and analysis artifacts, such as study protocols, interview guides, interviewee descriptions, and code books from thematic analysis."
+  },
+  {
+    "question": "What specific licensing issue did the Gander project encounter when preparing its platform for open-source release, and how was it resolved?",
+    "gold_answer": "The Gander project discovered that one of the projects used for gaze data analysis lacked a license. After contacting the original author, a MIT license was added, which allowed the team to proceed. Ultimately, the Gander platform was released under a BSD license after reviewing all dependencies.",
+    "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+    "supporting_chunk": "One of the used projects (for gaze data analysis) was available online but did not have a licence. After reaching out to the author of that project a licence file was added (the MIT license)... a BSD license was selected for the open-source project."
+  },
+  {
+    "question": "What role does eye-tracking play in the Gander platform, and what proof-of-concept assistant was developed?",
+    "gold_answer": "Eye-tracking is used to detect fixation points during code review, which are connected to programming language elements. This enables real-time gaze-based assistance. As a proof-of-concept, the platform implemented a gaze assistant that visualizes use-declaration relationships in code when users fixate on variable names.",
+    "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+    "supporting_chunk": "Gaze data is analyzed in real-time to detect fixation points... used to trigger assistance... As a proof-of-concept, the Gander platform was used to develop a simple gaze assistant that triggers visualisation of use-declaration relationships in the code based on gaze fixation..."
+  },
+  {
+    "question": "According to the paper, how does quantitative survey data differ from qualitative interview data in terms of openness, and what recommendation (R4) did the authors make?",
+    "gold_answer": "Quantitative survey data, being less rich and more standardized, is easier to anonymize and share openly compared to qualitative data. The authors recommend (R4) that quantitative data be shared openly if, and only if, it is sufficiently anonymized to protect the identity of individuals or companies.",
+    "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+    "supporting_chunk": "The quantitative survey data is somewhat easier to share more openly... R4. We recommend quantitative data be shared openly, if and only if, the data is anonymized sufficiently to protect the identity..."
+  },
+  {
+    "question": "What overall balance principle do the authors highlight for handling openness of data in socio-technical software engineering research?",
+    "gold_answer": "They emphasize the FAIR principle: data should be 'as open as possible and as closed as necessary.' This means fostering reuse and accelerating research through openness, while respecting participants’ privacy, ethical constraints, and companies’ legitimate secrecy concerns.",
+    "document": "A_Conceptual_Framework_and_Recommendations_for_Open_Data_and_Artifacts_in_Empirical_Software_Engineering.pdf",
+    "supporting_chunk": "According to the European Horison 2020 Program Guidelines on FAIR Data, data should be 'as open as possible and as closed as necessary' – open in order to foster the reusability and to accelerate research, but at the same time... safeguard privacy and secrecy concerns."
+  },
+  {
+    "question": "What is the main motivation behind proposing a training-free performance indicator for NAS in this paper?",
+    "gold_answer": "The main motivation is to reduce the high computational cost of traditional neural architecture search, which often requires training numerous candidate architectures. Training-free indicators aim to estimate performance without full training, enabling faster search.",
+    "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+    "supporting_chunk": "The computational cost of training a large number of neural networks in NAS is prohibitively expensive. To mitigate this issue, training-free performance indicators are designed to estimate the quality of neural architectures without training."
+  },
+  {
+    "question": "What are the three types of features considered by the proposed feature fusion-based indicator (FFI), and what does each capture?",
+    "gold_answer": "The three types are (1) synaptic diversity, measuring variability in weight initialization and connections, (2) neuron activation strength, capturing output responses of neurons to input data, and (3) path expressivity, reflecting the complexity of information flow across paths in the architecture.",
+    "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+    "supporting_chunk": "Specifically, we consider three kinds of features: (1) synaptic diversity... (2) neuron activation strength... (3) path expressivity..."
+  },
+  {
+    "question": "How does the feature fusion mechanism in FFI combine different features, and why is this necessary?",
+    "gold_answer": "The feature fusion mechanism combines normalized versions of synaptic diversity, neuron activation strength, and path expressivity through weighted integration. This is necessary because each feature captures different aspects of architecture quality, and fusion provides a more robust performance indicator.",
+    "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+    "supporting_chunk": "We normalize each feature and then perform a weighted combination to obtain the final FFI score. The fusion ensures that complementary information from different features contributes to performance prediction."
+  },
+  {
+    "question": "What benchmark datasets were used to evaluate FFI, and why were they chosen?",
+    "gold_answer": "The authors used NAS-Bench-101, NAS-Bench-201, and DARTS search space benchmarks. These datasets were chosen because they provide standardized environments with known ground truth performance, enabling reliable comparison of NAS indicators.",
+    "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+    "supporting_chunk": "We evaluate FFI on three widely used benchmarks: NAS-Bench-101, NAS-Bench-201, and the DARTS search space, which provide reproducible settings and ground truth results."
+  },
+  {
+    "question": "How did FFI perform compared to existing training-free indicators such as Synflow, GradNorm, and Jacov?",
+    "gold_answer": "FFI consistently outperformed existing indicators like Synflow, GradNorm, and Jacov in terms of correlation with true architecture performance across all benchmarks, demonstrating higher reliability as a predictor.",
+    "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+    "supporting_chunk": "Experimental results show that FFI consistently achieves higher correlation with ground truth accuracy than Synflow, GradNorm, and Jacov across all benchmarks."
+  },
+  {
+    "question": "What is Kendall’s Tau correlation, and how was it used to evaluate FFI?",
+    "gold_answer": "Kendall’s Tau is a statistical measure of rank correlation between two variables. The paper uses it to assess how well the rankings produced by FFI align with ground truth rankings of neural architectures.",
+    "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+    "supporting_chunk": "We use Kendall’s Tau correlation to evaluate the consistency between predicted rankings from FFI and the ground truth rankings from trained architectures."
+  },
+  {
+    "question": "What specific ablation studies were conducted to validate the effectiveness of the feature fusion strategy?",
+    "gold_answer": "The authors conducted ablation studies by removing one feature type at a time (synaptic diversity, neuron activation strength, path expressivity) and observed performance drops. This showed that all three features contribute significantly to the effectiveness of FFI.",
+    "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+    "supporting_chunk": "Ablation studies were conducted by excluding each feature type individually. The performance dropped in all cases, confirming the complementary contribution of each feature."
+  },
+  {
+    "question": "How does the computational cost of FFI compare to training-based NAS methods?",
+    "gold_answer": "FFI dramatically reduces computational cost because it avoids training architectures altogether. Its evaluation is orders of magnitude faster than training-based NAS, making large-scale architecture search feasible.",
+    "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+    "supporting_chunk": "Since FFI only requires forward passes without backpropagation or training, the computational cost is significantly reduced compared to training-based NAS approaches."
+  },
+  {
+    "question": "What insights did the authors provide regarding the robustness of FFI across different search spaces?",
+    "gold_answer": "The authors found that FFI maintains high correlation with true performance across diverse search spaces (NAS-Bench-101, NAS-Bench-201, DARTS), demonstrating its robustness and generalizability.",
+    "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+    "supporting_chunk": "FFI achieves strong performance across all tested benchmarks, indicating that it is robust to variations in search space design."
+  },
+  {
+    "question": "What future directions do the authors suggest for improving training-free NAS indicators beyond FFI?",
+    "gold_answer": "The authors suggest exploring additional complementary features, adaptive fusion strategies that adjust weights dynamically, and extensions of FFI to large-scale real-world tasks to further enhance training-free NAS indicators.",
+    "document": "A_Feature_Fusion_Based_Indicator_for_Training-Free_Neural_Architecture_Search.pdf",
+    "supporting_chunk": "Future work includes investigating other informative features, developing adaptive fusion strategies, and validating the approach on larger and more practical tasks."
+  },
+  {
+    "question": "What is the main motivation for developing a hybrid gaze distance estimation method in this paper?",
+    "gold_answer": "The motivation is to overcome the limitations of existing monocular vergence-based and binocular depth-based methods. Vergence-based methods struggle with low accuracy at long distances, while depth-based methods suffer from errors due to noise and hardware limitations. A hybrid approach combines both to achieve more robust and accurate gaze distance estimation.",
+    "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+    "supporting_chunk": "Vergence-based methods are accurate at short distances but degrade significantly at longer distances. Depth-based methods can work at longer ranges but are prone to errors due to noise and hardware limitations. This motivates a hybrid approach that combines both."
+  },
+  {
+    "question": "What are the two primary cues integrated in the proposed hybrid method, and how do they complement each other?",
+    "gold_answer": "The two cues are vergence (eye rotation angles) and depth (from RGB-D camera or stereo imaging). Vergence provides reliable estimation at short distances, while depth cues perform better at longer distances. By cross-referencing the two, the hybrid method improves robustness across a wide range of viewing distances.",
+    "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+    "supporting_chunk": "The method cross-references vergence cues, which excel at close distances, with depth cues, which are more reliable at longer distances, thereby combining their strengths."
+  },
+  {
+    "question": "What datasets and experimental setups were used to evaluate the proposed hybrid approach?",
+    "gold_answer": "The authors conducted experiments using both controlled indoor datasets with calibrated RGB-D cameras and real-world settings where subjects fixated on targets at varying distances. These setups enabled evaluation across short, medium, and long gaze distances.",
+    "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+    "supporting_chunk": "We evaluated the hybrid method on datasets collected in controlled indoor environments with RGB-D cameras and in real-world scenarios with subjects fixating on targets at multiple distances."
+  },
+  {
+    "question": "How does the proposed cross-referencing mechanism decide which cue (vergence or depth) to rely on?",
+    "gold_answer": "The mechanism compares the confidence levels of the vergence and depth estimates. When vergence accuracy is high (short distance), it is prioritized. When distance increases and vergence degrades, depth-based estimation is weighted more heavily.",
+    "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+    "supporting_chunk": "The cross-referencing mechanism adaptively weighs vergence and depth estimates according to their expected reliability at different ranges."
+  },
+  {
+    "question": "What quantitative improvements did the hybrid method achieve compared to vergence-only and depth-only baselines?",
+    "gold_answer": "The hybrid method achieved lower average estimation error across all tested distances. Specifically, it maintained accuracy comparable to vergence at short distances and outperformed both vergence and depth baselines at medium and long distances.",
+    "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+    "supporting_chunk": "Experimental results demonstrate that the hybrid method consistently achieves lower estimation error than vergence-only and depth-only approaches across all tested distances."
+  },
+  {
+    "question": "What role does calibration play in the proposed hybrid system, and how was it performed?",
+    "gold_answer": "Calibration aligns the vergence-based eye-tracking system with the depth-sensing camera to ensure accurate fusion of cues. It was performed by asking participants to fixate on predefined calibration targets at known distances while recording both vergence and depth data.",
+    "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+    "supporting_chunk": "Calibration was conducted by having participants fixate on known targets, allowing alignment between vergence measurements and depth sensor outputs."
+  },
+  {
+    "question": "What are some potential application domains mentioned for the hybrid gaze distance estimation method?",
+    "gold_answer": "Applications include human-computer interaction, virtual and augmented reality systems, driver monitoring, and assistive technologies that rely on accurate gaze-based distance estimation.",
+    "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+    "supporting_chunk": "Potential applications of accurate gaze distance estimation include human-computer interaction, virtual/augmented reality, driver monitoring, and assistive systems."
+  },
+  {
+    "question": "What limitations of the proposed method did the authors acknowledge?",
+    "gold_answer": "The authors note limitations such as reliance on depth sensors, which can fail under poor lighting or reflective surfaces, and the assumption of stable fixation, which may not hold in dynamic environments. Further improvements are needed for robustness in unconstrained real-world scenarios.",
+    "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+    "supporting_chunk": "Limitations include dependence on depth sensors, which can be unreliable under poor lighting or reflective surfaces, and the assumption of stable fixation points in dynamic environments."
+  },
+  {
+    "question": "How does the hybrid method contribute to addressing the 'mid-range gap' problem in gaze distance estimation?",
+    "gold_answer": "The 'mid-range gap' arises because vergence is accurate only at short distances and depth sensors are reliable mainly at long distances. The hybrid method bridges this gap by adaptively combining the two, achieving accurate estimation in the mid-range where both cues individually perform poorly.",
+    "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+    "supporting_chunk": "By adaptively combining vergence and depth cues, the hybrid method addresses the 'mid-range gap' where both individual approaches show reduced accuracy."
+  },
+  {
+    "question": "What future work directions do the authors suggest to enhance their hybrid gaze estimation system?",
+    "gold_answer": "Future work includes integrating learning-based fusion strategies, improving robustness of depth sensing under challenging conditions, and validating the system in more diverse real-world applications such as outdoor environments.",
+    "document": "A_Hybrid_Gaze_Distance_Estimation_via_Cross-Reference_of_Vergence_and_Depth.pdf",
+    "supporting_chunk": "Future work includes applying learning-based fusion, enhancing robustness to adverse depth sensing conditions, and testing in outdoor and dynamic real-world environments."
+  },
+  {
+    "question": "What are the four quality attributes used in the proposed trust evaluation model, and how is each attribute quantitatively measured?",
+    "gold_answer": "The four attributes are availability, reliability, data integrity, and efficiency. Availability is measured as the ratio of accepted to total requests. Reliability is measured as the ratio of successful to accepted requests. Data integrity is measured as the ratio of successful requests minus failed requests to successful requests. Efficiency is measured as promised execution time divided by the sum of waiting and execution time.",
+    "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+    "supporting_chunk": "Availability is calculated based on the rate of accepted and total requests... Reliability is calculated based on the rate of successful and accepted requests... Data integrity is checked by estimating the data loss... Efficiency is calculated based on the rate of promised and actual execution time... Finally, we combine all the individual rates multiplying with their corresponding weighting factors to compute the trust of a CSP as follows: TRn = WavAVn + WreREn + WdiDIn + Wef EFn."
+  },
+  {
+    "question": "How does the proposed resource allocation model jointly optimize trust and communication delay?",
+    "gold_answer": "The model formulates a Mixed Integer Linear Programming (MILP) problem where the objective is to maximize overall trust of VM allocations while minimizing communication delay. Trust is computed from the weighted sum of availability, reliability, data integrity, and efficiency, while delay is computed as the ratio of total VM traffic to server capacity. Constraints ensure each VM is allocated once and within resource limits.",
+    "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+    "supporting_chunk": "The optimization model is designed for joint optimization criteria as a Mixed Integer Linear Programming (MILP) problem. The joint optimization aims at maximizing trust and minimizing delay... fTR = Σ TRisnAisn ... fDL = Σ DLisnAisn ... Minimize {−fTR, fDL} subject to allocation, resource capacity, and binary integrity constraints."
+  },
+  {
+    "question": "What role does the Genetic Algorithm (GA) play in solving the resource allocation problem, and what is its performance compared to the optimal solver?",
+    "gold_answer": "The GA provides a heuristic solution to the NP-hard MILP resource allocation problem. It uses selection, crossover, and mutation to generate near-optimal VM allocation sets. Compared to the optimal solver (intlinprog in MATLAB), GA achieves 90% similarity in results but with significantly less execution time and better scalability for large numbers of CSPs and servers.",
+    "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+    "supporting_chunk": "We solve the resource allocation problem optimally and heuristically... To avoid long optimization time, we use a meta-heuristic Genetic Algorithm. The solution of the GA achieves 90% similarity to the exact solution. The execution time increases linearly with the number of CSPs and servers, ensuring practical validity."
+  },
+  {
+    "question": "How is availability affected under different load conditions according to the simulation results?",
+    "gold_answer": "Availability decreases as load increases. Under small loads, availability is maximum, while under heavy loads it is minimum. The experiments used small, medium, and heavy load scenarios, averaging 10 runs to compute availability values.",
+    "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+    "supporting_chunk": "The trend in the figure shows that with a small load the availability is maximum and with a heavy load it is minimum... we consider several such scenarios and take the average of 10 executions."
+  },
+  {
+    "question": "What are the main causes of reliability degradation in the proposed model’s experiments?",
+    "gold_answer": "Reliability degradation is caused by hardware and software failures. Hardware failures include failures of virtual machines and processing elements, while software failures arise from errors in request processing and workload execution. Reliability decreases with an increase in the number of requests and load.",
+    "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+    "supporting_chunk": "For calculating reliability, we consider some of the hardware and software failures... failures of virtual machines and processing elements are considered hardware failures... software failures involve errors in request processing. The reliability trend depicts that failures are more frequent under maximum load."
+  },
+  {
+    "question": "What is the trade-off revealed by the Pareto front between trust and delay?",
+    "gold_answer": "The Pareto front shows that maximizing trust by allocating resources only to the most trusted CSPs increases communication delay, while distributing resources reduces delay but lowers trust. Thus, achieving an optimal trade-off requires balancing both objectives.",
+    "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+    "supporting_chunk": "Fig. 11 reveals the Pareto front... Allocating resources in the most trusted CSPs may increase trust but will acquire a massive delay. Distributing resources will reduce delay as the load will be divided but trust will be decreased."
+  },
+  {
+    "question": "What simulator was used in the study, and why was it chosen?",
+    "gold_answer": "The CloudSim simulator was used because of its wide acceptance in the research community and its ability to simulate real cloud environments, including request arrivals, failures, and resource allocation scenarios. It enables validation of the trust evaluation and resource allocation models without relying on restricted real cloud provider configurations.",
+    "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+    "supporting_chunk": "CloudSim simulator is used in the simulation due to its acceptance in the research community for representing real cloud environments... To verify the effectiveness of the proposed models, modeling and simulations are used as an alternative."
+  },
+  {
+    "question": "How does the weighting of trust versus delay in the objective function impact the model’s outcomes?",
+    "gold_answer": "When trust is given higher weight, trust values improve by around 10% but delays increase. Conversely, when delay is prioritized, delays reduce by about 10% but trust decreases. Equal weights achieve a balance, showing a clear trade-off depending on service requirements.",
+    "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+    "supporting_chunk": "Fig. 7 shows trust improves approximately 10% with higher trust weight... Fig. 8 shows delay decreases by approximately 10% when delay is prioritized... A weight value of 0.5 indicates equal weight on both functions."
+  },
+  {
+    "question": "What experimental setup was used for executing the proposed models?",
+    "gold_answer": "Experiments used CloudSim for trust data collection and MATLAB for optimization. An Intel Core i7 machine with a 4 GHz processor was used. Genetic Algorithm experiments had a population size set based on requirements and generation size fixed at 1000. Scenarios varied CSPs from 6 to 12 and servers from 30 to 60.",
+    "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+    "supporting_chunk": "We perform the experiments in multiple scenarios... Intel Core i7 machine with a 4 GHz processor... GA population size based on requirements and generation size set to 1000... scenarios varied CSPs from 6 to 12 and servers from 30 to 60."
+  },
+  {
+    "question": "What future research directions do the authors propose?",
+    "gold_answer": "The authors propose developing a more reliable and secure model for trust management among different cloud service providers, extending beyond resource allocation to broader multi-cloud trust frameworks.",
+    "document": "A_Resource_Allocation_Model_Based_on_Trust_Evaluation_in_Multi-Cloud_Environments.pdf",
+    "supporting_chunk": "In the future, we plan to provide a reliable and secure model for trust management among different cloud service providers."
+  },
+  {
+    "question": "What are the primary sources of process-induced random variation in MOSFETs, and why is line-edge roughness (LER) considered the most severe?",
+    "gold_answer": "The primary causes are (i) line edge roughness (LER), (ii) random dopant fluctuation (RDF), and (iii) work function variation (WFV). LER is considered most severe because it can affect RDF and WFV by inducing deformation of the device structure, thus degrading performance more significantly.",
+    "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+    "chunk": "The primary causes of process-induced random variation can be classified as (i) line edge roughness (LER), (ii) random dopant fluctuation (RDF), and (iii) work function variation (WFV). Among them, because LER can affect the other random variation sources (i.e., RDF and WFV) by inducing the deformation of device structure, it would degrade the device performance more severely."
+  },
+  {
+    "question": "What three parameters are used to characterize line-edge roughness (LER) in the FinFET model, and what do they represent physically?",
+    "gold_answer": "The parameters are: (i) Amplitude (rms value of surface roughness), (ii) Correlation length X (3x) and (iii) Correlation length Y (3y). A larger correlation length indicates a smoother line. Additionally, a relation term between x and y directions (α or 2) may be included.",
+    "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+    "chunk": "Three parameters (i.e., 1, 3x, and 3y) are used to describe and reconfigure LER profile. The physical meaning: (i) Amplitude (1): indicates the rms value of surface roughness. (ii) Correlation length (3): means how line edge is closely correlated with its neighboring edge. A larger 3 indicates a smoother line. In Eq. (1), 3x and 3y are the correlation length along x-direction and y-direction, respectively."
+  },
+  {
+    "question": "How were the datasets for training and validating the ANN model generated, and what ranges of LER parameters were used?",
+    "gold_answer": "Two datasets were generated: (1) 130 datasets each with 50 FinFETs (6,500 total), split into 70% training and 30% validation, and (2) 10 datasets each with 250 FinFETs (2,500 total). LER parameter ranges were: amplitude 0.1–0.8 nm, correlation length X 10–100 nm, correlation length Y 20–200 nm.",
+    "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+    "chunk": "Two kinds of datasets were separately generated: (1) 130 datasets (50 FinFETs each, total 6,500), 70% training, rest validation. (2) 10 datasets (250 FinFETs each, total 2,500). The LER parameter ranges: Amplitude 0.1–0.8 nm, Correlation length X 10–100 nm, Correlation length Y 20–200 nm."
+  },
+  {
+    "question": "What evaluation method was used to compare ANN predictions against TCAD results, and how does it work?",
+    "gold_answer": "The earth-mover’s distance (EMD) score was used. It measures the minimal amount of work needed to transform one probability distribution into another, calculated by comparing cumulative distribution functions (CDFs) estimated with Gaussian kernel density estimation. An EMD of 0 means identical distributions.",
+    "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+    "chunk": "The EMD score is used to measure how two probability distributions are different from each other. Definition: 'The minimal amount of work needed to transform one distribution to another distribution'. Calculated by comparing CDFs of TCAD datasets and ANN prediction datasets using Gaussian kernel density estimation. EMD score is 0 when two distributions are exactly identical."
+  },
+  {
+    "question": "How many neurons were used in each layer of the optimized ANN with the mixture of MVNs, and why was this architecture chosen?",
+    "gold_answer": "The optimized ANN had 3 neurons in the input layer, 81 in the first hidden layer, 162 in the second, 324 in the third, and 324 in the output layer. This architecture with 11 mixture components minimized validation loss at 7,800 epochs, making it best suited to describe the distribution of performance metrics.",
+    "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+    "chunk": "Validation loss was minimized with 11 mixture components at 7,800 epochs. Optimized ANN: 3 neurons input, 81 first hidden, 162 second hidden, 324 third hidden, 324 output neurons. Output neurons connect to probabilistic layer with mixture of MVN distribution."
+  },
+  {
+    "question": "What loss function was used for training the probabilistic ANN and why was it chosen instead of mean squared error?",
+    "gold_answer": "Negative log likelihood (Negloglik) was used as the loss function because the ANN outputs probability distributions (PDFs). Conventional mean squared error cannot be applied since training is equivalent to maximum likelihood estimation of distributions, not single-point values.",
+    "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+    "chunk": "The probabilistic layer attached to output neurons returns PDFs, so mean-squared error cannot be used. Instead, 'Negative log likelihood' (Negloglik) was used as the loss function, making training equivalent to Maximum Likelihood Estimation."
+  },
+  {
+    "question": "In terms of prediction accuracy, how did the mixture-MVN ANN perform compared to the previous Gaussian-only ANN model?",
+    "gold_answer": "The mixture-MVN ANN successfully predicted skewness, kurtosis, and non-linear correlations that the Gaussian-only ANN could not. The EMD score improved significantly (0.0170 with Gaussian-only vs. 0.00928 with mixture-MVN).",
+    "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+    "chunk": "Previous work with plain MVN could not predict metrics with non-linear correlation, skewness, and kurtosis. ANN with mixture of MVN successfully predicted these features. EMD score improved from 0.0170 to 0.00928."
+  },
+  {
+    "question": "What was the training time improvement achieved by separating mean/std estimation into a simple ANN, compared to a non-separated ANN?",
+    "gold_answer": "Training time was reduced from 1412 seconds for the non-separated ANN to 185 seconds for the separated ANN, achieving about a 6× speedup without significant performance degradation.",
+    "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+    "chunk": "There is no significant performance degradation between non-separated ANN and this work, in spite of huge time saving (1412 sec to 185 sec)."
+  },
+  {
+    "question": "How many performance metrics were predicted by the proposed ANN, and how does this compare to the previous ML model?",
+    "gold_answer": "The proposed ANN predicts 7 metrics: Ioff, Idsat, Idlin, Idlo, Idhi, Vtsat, and Vtlin. The previous ML model predicted only 4 metrics: Ioff, Idsat, Vtsat, and SS.",
+    "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+    "chunk": "We extend the prediction target from 4 parameters such as Ioff, Idsat, Vtsat, and SS to 7 parameters such as Ioff, Idsat, Idlin, Idlo, Idhi, Vtsat, and Vtlin."
+  },
+  {
+    "question": "What broader impact does this ANN-based approach have on circuit-level design, specifically for SRAM cells?",
+    "gold_answer": "By accurately predicting non-Gaussian distributions of performance metrics, the ANN enables simulation of electrical behavior of transistors and DC behavior of digital circuit blocks such as SRAM bit cells, improving variation-aware design.",
+    "document": "Probabilistic_Artificial_Neural_Network_for_Line-Edge-Roughness-Induced_Random_Variation_in_FinFET.pdf",
+    "chunk": "This enables simulating electrical behavior of transistor as well as DC behavior of digital circuit blocks such as SRAM bit cell."
+  },
+  {
+    "question": "Why does line-edge roughness (LER) become a more significant source of variation as FinFET dimensions scale down?",
+    "gold_answer": "Because the amplitude of LER does not scale down proportionally with device dimensions, its fraction of the physical channel length and width increases, leading to larger variations in IDS–VGS characteristics.",
+    "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+    "chunk": "Because the amplitude of LER did not shrink as much as the feature size shrinkage, the portion of LER in the nominal/physical channel length and width became significant, resulting in a larger variation in IDS−VGS characteristics of devices."
+  },
+  {
+    "question": "What are the three main parameters used to generate 3D LER profiles in the simulations, and what do they physically represent?",
+    "gold_answer": "The parameters are RMS amplitude (σ), correlation length (ξX, ξY), and roughness exponent (α). σ is the standard deviation of roughness amplitude, ξ represents the wavelength of the roughness profile, and α describes how high-frequency components diminish in the roughness profile.",
+    "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+    "chunk": "3D LER sequences were generated with three main parameters: RMS amplitude (σ), correlation length (ξX, ξY), and roughness exponent (α). σ is the standard deviation of LER amplitudes, ξ corresponds to the wavelength of LER, and α indicates how high-frequency components in the profile diminish."
+  },
+  {
+    "question": "How was the dataset for training and testing the HS-BNN composed in terms of device structures and sample devices?",
+    "gold_answer": "The dataset contained 169 sets, each consisting of 50 sample FinFETs with identical LER and device parameters. Eighteen FinFET structures were chosen, and LER parameters were randomly varied within specified ranges.",
+    "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+    "chunk": "169 different datasets were composed for training and testing, each with 50 sample FinFETs with identical LER and device parameters. Eighteen types of FinFET device structure were chosen, and the LER parameters were randomly selected in relevant ranges."
+  },
+  {
+    "question": "Which target variables were predicted by the HS-BNN, and which input features were used?",
+    "gold_answer": "Target variables: mean (µIDS) and standard deviation (σIDS) of log(IDS). Input features: gate voltage (VGS), RMS amplitude (σ), correlation lengths (ξX, ξY), roughness exponent (α), gate length (Lg), fin width (Wfin), and fin height (Hfin).",
+    "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+    "chunk": "The mean and standard deviation of log(IDS) (µIDS and σIDS) were selected as target variables. Input features included VGS, LER parameters (σ, ξX, ξY, α), and device structure parameters (Lg, Wfin, Hfin)."
+  },
+  {
+    "question": "What is the role of horseshoe priors in the HS-BNN, and how do they influence model selection?",
+    "gold_answer": "Horseshoe priors introduce shrinkage and sparsity over weights, promoting zeroing of unnecessary weights while allowing important large weights to remain due to heavy tails. This enables automatic model selection, finding compact layer sizes without manual tuning.",
+    "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+    "chunk": "The horseshoe prior has two features: (1) a tall spike at zero, promoting shrinkage of unnecessary weights, and (2) heavy tails, allowing large weights to avoid shrinkage. This introduces sparsity and enables automatic model selection for the most compact neural network structure."
+  },
+  {
+    "question": "How did the HS-BNN model compare to the Bayesian linear regression (BLR) model in terms of prediction accuracy?",
+    "gold_answer": "HS-BNN improved prediction accuracy significantly. For µIDS, MAPE improved from 0.81% (BLR) to 0.55% (HS-BNN). For σIDS, MAPE improved from 19.59% (BLR) to 6.66% (HS-BNN).",
+    "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+    "chunk": "Table 2 summarizes the MAPE and RMSE of µIDS and σIDS. Predictions improved: µIDS 0.55% vs. 0.81%, and σIDS 6.66% vs. 19.59%."
+  },
+  {
+    "question": "How does the HS-BNN perform compared to a Gaussian-BNN when the number of hidden nodes is varied?",
+    "gold_answer": "The HS-BNN maintained stable prediction performance (σIDS MAPE ~7%) even when the number of nodes exceeded 200, while Gaussian-BNN predictions varied significantly with node count. This shows HS-BNN’s robustness to over-parameterization.",
+    "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+    "chunk": "For nodes over 200, HS-BNN predictions for σIDS remained stable (~7% MAPE), while Gaussian-BNN predictions varied significantly depending on the number of nodes."
+  },
+  {
+    "question": "What cross-validation method was used for evaluating HS-BNN performance, and why was it suitable?",
+    "gold_answer": "K-fold cross-validation was used, ensuring all data were used as a test set at least once. This is suitable for limited datasets, producing less biased evaluations and better generalization estimates.",
+    "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+    "chunk": "The HS-BNN predictions were evaluated using K-fold cross-validation. This ensures all data are used as test sets at least once, producing less biased evaluation and estimating general performance well when data are limited."
+  },
+  {
+    "question": "How did HS-BNN predictions for IOFF and VTH vary when LER parameters were changed?",
+    "gold_answer": "For a FinFET with Lg=20 nm, Wfin=7 nm, Hfin=42 nm, and LER profile (σ=0.5 nm, ξX=20 nm, ξY=50 nm, α=1), varying one parameter at a time showed well-matched trends in both mean and standard deviation of log(IOFF) and VTH, consistent with known device behavior.",
+    "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+    "chunk": "Figures 6 and 7 show predictions of mean and standard deviation of log(IOFF) and VTH for Lg=20 nm, Wfin=7 nm, Hfin=42 nm with σ=0.5 nm, ξX=20 nm, ξY=50 nm, α=1. Trends in predicted parameters matched general device behavior."
+  },
+  {
+    "question": "What was the overall time advantage of HS-BNN compared to TCAD simulations?",
+    "gold_answer": "HS-BNN predicted LER-induced variations within a few seconds, whereas conventional TCAD simulations required weeks for a single LER profile.",
+    "document": "Quantitative_Evaluation_of_Line-Edge_Roughness_in_Various_FinFET_Structures_Bayesian_Neural_Network_With_Automatic_Model_Selection.pdf",
+    "chunk": "HS-BNN quantitatively estimated LER-induced variation of IDS–VGS characteristics in various FinFET structures within a few seconds, much shorter than conventional TCAD simulation running time (weeks for one LER profile)."
+  },
+  {
+    "question": "What specific innovations in the physics package design enabled the rubidium atomic frequency standard (RAFS) to achieve stability at the 10⁻¹⁴τ⁻¹/² level?",
+    "gold_answer": "The RAFS achieved 10⁻¹⁴τ⁻¹/² stability by using a rubidium spectral lamp with Xe starter gas, applying optical and isotope double-filtering to reduce noise, employing a large slotted tube microwave cavity with a 40 mm absorption cell to enhance the discrimination signal, and enclosing the physics package in a sealed box to mitigate barometric effects.",
+    "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+    "chunk": "In design of the physics package (PP), a rubidium spectral lamp with Xe as the starter gas was used... A large slotted tube microwave cavity and a rubidium absorption cell with a diameter of 40 mm were utilized... A sealed box was designed for the PP to isolate it from the barometric environment."
+  },
+  {
+    "question": "How was the barometric effect shown to degrade stability, and what engineering solution reduced its impact?",
+    "gold_answer": "The barometric effect was shown to cause a frequency shift coefficient of 7 × 10⁻¹⁵/Pa, degrading 100-s stability to 2.2 × 10⁻¹⁴. The solution was to place the physics package in a sealed box, reducing the barometric influence by nearly an order of magnitude.",
+    "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+    "chunk": "The coefficient was experimentally measured to be 7 × 10⁻¹⁵/Pa... The influence to 100-s stability is 2.2 × 10⁻¹⁴... To reduce the barometric effect, a sealed box was designed and used... The influence is reduced by nearly one order of magnitude."
+  },
+  {
+    "question": "What role did the slotted tube microwave cavity play in improving the RAFS performance compared to traditional cavities?",
+    "gold_answer": "The slotted tube microwave cavity allowed flexible size design, enabling the use of a large 40 mm absorption cell to increase atomic signal SNR. It also provided a high field orientation factor (ξ = 0.82), superior to traditional TE111/TE011 cavities, improving excitation of the clock transition.",
+    "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+    "chunk": "The slotted tube cavity... size could be flexibly designed. This property enables to use large size absorption cell to enhance the atomic signal SNR... The finally obtained ξ for the used cavity is 0.82. We believe that it is much higher than those of the traditional standard cavities."
+  },
+  {
+    "question": "What were the experimentally optimized operating temperatures for the absorption cell, filter cell, and lamp bulb in the RAFS physics package?",
+    "gold_answer": "The optimal temperatures were 68 °C for the absorption cell, 93 °C for the filter cell, and 109 °C for the lamp bulb.",
+    "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+    "chunk": "The optimal temperatures were found to be 68 °C, 93 °C, and 109 °C, respectively."
+  },
+  {
+    "question": "How was the signal-to-noise-ratio (SNR) limited stability σSNR(τ) estimated, and what value was obtained?",
+    "gold_answer": "By optimizing the discrimination slope Kd (18.0 nA/Hz) and measuring the shot noise current (211 µA, corresponding to noise spectral density of 8.2 pA/Hz¹/²), σSNR(τ) was estimated to be 4.7 × 10⁻¹⁴τ⁻¹/².",
+    "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+    "chunk": "The shot noise current I0... was measured to be 211 µA... SN was calculated to be 8.2 pA/Hz1/2... Kd... was calculated to be 18.0 nA/Hz. By using (2), σSNR (τ) was estimated to be 4.7 × 10⁻¹⁴τ⁻¹/²."
+  },
+  {
+    "question": "What were the phase noise properties of the 6.835-GHz interrogation microwave, and how did they limit stability?",
+    "gold_answer": "The interrogation microwave had phase noise of about −110 dBc/Hz at 2fM (272 Hz). This limited stability to σPN(τ) = 6.0 × 10⁻¹⁴τ⁻¹/².",
+    "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+    "chunk": "The phase noise of the 6.835-GHz microwave was measured... at 2 fM (272 Hz) is about −110dBc/Hz... σPN(τ) of the RAFS is estimated to be 6.0 × 10⁻¹⁴τ⁻¹/²."
+  },
+  {
+    "question": "What environmental factors besides barometric pressure were quantified, and which had the largest impact on stability?",
+    "gold_answer": "The environmental factors examined were absorption cell temperature, pumping light intensity, 6.835-GHz microwave power, magnetic C-field, and barometric pressure. Among these, temperature shift and barometric pressure shift had the largest impact on stability for τ > 100 s.",
+    "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+    "chunk": "The effects of absorption cell temperature, pumping light intensity, 6.835-GHz microwave power, and magnetic C field were also examined... When τ > 100 s, however, the influence increases... The influence comes mainly from the temperature shift and the barometric shift."
+  },
+  {
+    "question": "How did the measured short-term stability results using the H-maser and optical microwave generator (OMG) references compare?",
+    "gold_answer": "With the H-maser, the RAFS showed 9.0 × 10⁻¹⁴τ⁻¹/² (1–100 s). With the OMG, it showed 9.1 × 10⁻¹⁴τ⁻¹/² (1–100 s). Both results were consistent and matched the predicted 7.6 × 10⁻¹⁴τ⁻¹/² stability.",
+    "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+    "chunk": "By fitting the diamond dot data, the real stability of the RAFS was finally obtained to be 9.0 × 10⁻¹⁴τ⁻¹/²... With OMG... real stability is calculated to be 9.1 × 10⁻¹⁴τ⁻¹/²... The measured stability result is basically consistent with the predicted one."
+  },
+  {
+    "question": "What is the significance of achieving 10⁻¹⁴τ⁻¹/² stability compared to previous best RAFS performance?",
+    "gold_answer": "This result surpasses the previous best stability of 1.2 × 10⁻¹³τ⁻¹/² (recently achieved in pulsed laser-pumped RAFS), marking the first lamp-pumped RAFS to achieve 10⁻¹⁴τ⁻¹/² stability, approaching hydrogen maser performance and enabling next-generation space clocks for satellite navigation.",
+    "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+    "chunk": "To the best of our knowledge, the previous best result is 1.2 × 10⁻¹³τ⁻¹/², realized recently on a pulsed laser-pumped RAFS [19]. The current RAFS device... unprecedentedly achieved a stability in 10⁻¹⁴τ⁻¹/² level... Such a compact device can be used as a new generation space clock for satellite navigation system."
+  },
+  {
+    "question": "What were the predicted contributions of SNR, phase noise, and environmental effects to overall RAFS stability?",
+    "gold_answer": "Predicted contributions were σSNR(τ) = 4.7 × 10⁻¹⁴τ⁻¹/², σPN(τ) = 6.0 × 10⁻¹⁴τ⁻¹/², and environmental effects controlled at 10⁻¹⁵τ⁻¹/², leading to a predicted total stability of 7.6 × 10⁻¹⁴τ⁻¹/².",
+    "document": "Realization_of_a_Rubidium_Atomic_Frequency_Standard_With_Short-Term_Stability_in_10141_2_Level.pdf",
+    "chunk": "Based on the SNR limited stability of 4.7 × 10⁻¹⁴τ⁻¹/² and the phase noise limited stability of 6.0 × 10⁻¹⁴τ⁻¹/², the stability of the RAFS was predicted to be 7.6 × 10⁻¹⁴τ⁻¹/². The measured stability result is basically consistent with the predicted one."
+  },
+  {
+    "question": "What are the three statistical conditions that must be simultaneously satisfied for a group of stocks to be classified as the Leading Temporal Module (LTM)?",
+    "gold_answer": "1) The average within-group Pearson correlation coefficient (PCC) must drastically increase in absolute value, 2) The average between-group PCC (stocks in the group vs. rest of system) must greatly decrease in absolute value, and 3) The average auto-covariance (AC) of stocks belonging to this group must increase in absolute value.",
+    "document": "s41467-020-15356-z.pdf",
+    "supporting_chunk": "In particular, it can be shown that, when a system is undergoing a bifurcation, the following general temporal and spatial properties hold: a group of stocks displays an average within PCC that drastically increases in absolute value; the average between PCC of stocks in this group and other stocks in the rest of the system will greatly decrease in absolute value; the average AC of stocks belonging to this group increases in absolute value."
+  },
+  {
+    "question": "How is the synthetic indicator I^LTM_t mathematically defined and what behavioral phenomena do its components represent?",
+    "gold_answer": "I^LTM_t = (⟨|AC^LTM_t|⟩⟨|PCC^LTM_t|⟩) / ⟨|PCC^¬LTM_t|⟩, where the first component (auto-covariance) relates to positive feedbacks in the market, and the second component (correlation ratio) reveals the presence of herding behaviors among investors.",
+    "document": "s41467-020-15356-z.pdf",
+    "supporting_chunk": "We propose a parsimonious aggregate indicator based on the mean absolute value of the AC of the stocks belonging to the LTM (<jAC LTM t j>) and on the ratio between the correlations of stocks within the LTM (<jPCC LTM t j>) and the correlations of stocks outside the leading module (<jPCC f LTM t j>). We relate the first component to the existence of positive feedbacks in the market 24,25 , while the second component reveals the presence of herding behaviors among investors 26,27 . The corresponding synthetic indicator is defined accordingly as: I LTM t ¼ <jAC LTM t j><jPCC LTM t j> <jPCC f LTM t j> : ð1Þ"
+  },
+  {
+    "question": "What is the average duration that stocks remain continuously in the Leading Temporal Module, and what correlation exists between LTM stability and the DFA- group size?",
+    "gold_answer": "Stocks stay continuously in the leading module for about 1.5 months on average. There is a negative Pearson correlation of -0.19 between the LTM stability coefficient and the size of the DFA- group (stocks with significant DFA exponents not included in the leading module).",
+    "document": "s41467-020-15356-z.pdf",
+    "supporting_chunk": "In the Section 3.4 of the Supplementary information, we also report that, on average, stocks stay continuously in the leading module for about 1.5 months... The negative Pearson's correlation (−0.19) between the LTM stability coefficient and the size of the subset of stocks composing the DFA− group (i.e., not included in the leading module) indicates that new leading modules are likely to emerge in those periods in which there are stocks with significant DFA exponents but with poorly correlated returns."
+  },
+  {
+    "question": "What investment strategy methodology was used to test the LTM indicator's predictive performance, and what percentile threshold was employed?",
+    "gold_answer": "The strategy compares the most recent I^LTM_t value against its empirical distribution computed over the previous 15 working days. Values larger than the 95th percentile trigger investment decisions. If the average return of LTM stocks is positive, a buy signal is generated; otherwise, a short position is taken.",
+    "document": "s41467-020-15356-z.pdf",
+    "supporting_chunk": "Therefore, the most recent value of the indicator is compared against its empirical distribution computed over the previous three trading weeks (15 working days). If this value belongs to the right tail of the distribution, then the LTM is interpreted as signaling a cumulative process leading to market instability... More specifically, we refer to values of the I LTM t larger than the 95th percentile of its empirical distribution as the trigger for switching the investment exposure"
+  },
+  {
+    "question": "According to the theoretical framework, what happens to the variance, covariance, and auto-covariance of the original system variables as the dominant eigenvalue λ₁ approaches 1?",
+    "gold_answer": "As λ₁ approaches 1: (1) the absolute value of auto-covariance AC(z_i(t), z_i(t-1)) increases greatly if variable z_i is related to y₁; (2) |PCC(z_i(t), z_j(t))| approaches 1 if both variables are related to y₁; (3) |PCC(z_i(t), z_j(t))| approaches 0 if only one variable is related to y₁.",
+    "document": "s41467-020-15356-z.pdf",
+    "supporting_chunk": "The temporal and spatial statistical properties that signal an imminent bifurcation can thus be summarized as follows: if a variable z i is related to y1 , that is, s i1 ≠ 0, then the absolute value of the auto-covariance AC(z i (t), z i (t − 1)) increases greatly as λ1 → 1; otherwise, it is bounded; if variables z i and z j are related to y1 , that is, s i1 ≠ 0, s j1 ≠ 0, then jPCCðz i ðtÞ; z j ðtÞÞj ! 1 as λ1 → 1; if variables z i and z j are not related to y1 , that is, s i1 = 0, s j1 = 0, then jPCCðz i ðtÞ; z j ðtÞÞj ! a with a 2 0; 1ð Þ as λ1 → 1; if only variable z i is related to y1 but z j is not, that is, s i1 ≠ 0, s j1 = 0, then jPCCðz i ðtÞ; z j ðtÞÞj ! 0 as λ1 → 1."
+  },
+  {
+    "question": "What are the true positive, false positive, false negative, and true negative rates achieved by the LTM-based investment strategy, and how do they compare to the VaR-based strategy?",
+    "gold_answer": "The LTM strategy achieved: true positives 53%, false positives 47%, false negatives 49%, and true negatives 51%. The VaR strategy performed worse with: true positives 49%, false positives 51%, false negatives 52%, and true negatives 48%.",
+    "document": "s41467-020-15356-z.pdf",
+    "supporting_chunk": "The true positives, false positives, false negatives, and true negatives obtained by investing following I LTM t are 53%, 47%, 49%, and 51%, respectively, while for the strategy based on the VaR, we obtain 49%, 51%, 52%, and 48%."
+  },
+  {
+    "question": "What specific market events and crises did the I^LTM_t indicator successfully anticipate during the 2006-2017 study period?",
+    "gold_answer": "The indicator showed increasing dynamics corresponding to major market events including: banking sector ratings downgrades of 2007, the failure of Lehman Brothers in September 2008, the American Recovery and Reinvestment Act of 2009, the European Debt crisis of 2011, and the Chinese stock market crisis of 2015-2016.",
+    "document": "s41467-020-15356-z.pdf",
+    "supporting_chunk": "Figure 1d also points out that I LTM t shows an increasing dynamics in correspondence of major events affecting the market, such as the banking sector ratings downgrades of 2007, the failure of Lehman Brothers in September 2008, the American Recovery and Reinvestment Act of 2009, the European Debt crisis of 2011, and the Chinese stock market crisis of 2015–2016."
+  },
+  {
+    "question": "What is the relationship between stocks with Hurst exponents outside the 0.2-0.8 interval and their correlation patterns, as demonstrated in the study?",
+    "gold_answer": "Stocks with Hurst exponents outside the 0.2-0.8 interval show a distribution of correlations that is shifted to the right compared to other stock pairs, indicating that the DFA selects assets with highly correlated returns. This increases their probability of entering the LTM.",
+    "document": "s41467-020-15356-z.pdf",
+    "supporting_chunk": "The shifting to the right of the distribution for the stocks with Hurst exponent outside the interval 0.2–0.8 suggests that the DFA selects assets with high correlated returns. In other words, an increase of the number of stocks with a significant DFA exponent implies an increase of the average correlation of the returns associated with these stocks and subsequently to a higher probability of entering the LTM."
+  },
+  {
+    "question": "How does the study's approach relate to thermodynamic systems, and what role does the I^LTM_t indicator play in this analogy?",
+    "gold_answer": "The study draws an analogy where variations in asset prices are like nucleation phenomena near stability limits in thermodynamic systems (superheated liquid or supercooled gas). The LTM acts as the nucleus of the new phase for financial markets, and I^LTM_t plays a role similar to compressibility in thermodynamics - a macroscopic quantity indicating increasing instability near spinodal lines.",
+    "document": "s41467-020-15356-z.pdf",
+    "supporting_chunk": "Moreover, we can establish a link between our approach and what is observed in natural sciences, since variations in asset prices can be seen as the social equivalent of nucleation phenomena near the limit of stability in a thermodynamic system, such as a superheated liquid or supercooled gas 44 . In our approach, the LTM can be viewed as analogous to the nucleus of the new phase for financial markets. We can say the indicator I LTM t plays a role similar to compressibility in thermodynamic systems, that is, the macroscopic thermodynamic quantity referring to the increasing instability near the spinodal lines."
+  },
+  {
+    "question": "What annual profit and loss performance did the LTM strategy achieve over the entire 2006-2017 sample period compared to a simple Buy&Hold strategy?",
+    "gold_answer": "Over the entire 2006-2017 period, the LTM strategy achieved a cumulative P&L of 114.44% (using MV=10, PRCTILE=95 parameters), significantly outperforming the Buy&Hold strategy which only achieved 13.42%. Even with transaction costs of 10 basis points, the strategy still generated about 5.5% per year.",
+    "document": "s41467-020-15356-z.pdf",
+    "supporting_chunk": "We observe that our strategy over-performs the simple Buy&Hold strategy over the entire sample period (last column)... In fact, by assuming transaction costs of 10 basis-points for each portfolio rebalance, we still get a positive P&L of about 5.5% per year."
+  },
+  {
+    "question": "What is the main limitation of the standard gravity model when applied to airline networks?",
+    "gold_answer": "The standard gravity model cannot be directly used to estimate weights of existing connection flights because in airline networks, unlike complete graphs such as international trade networks, most transport involves intermediate stops and no direct connections may exist for large distances, leading to observed flows that differ from expected flows.",
+    "document": "s41598-017-06108-z.pdf",
+    "supporting_chunk": "Unlike in the above example, most transport networks involve a series of intermediate stops, which are, themselves, generators of originating and terminating traffic... In these cases, the potential flow, f_ij^(g), which might be described by Eq. (1), is realized by the increase in subsequent flows... Obviously, this scenario will lead to an observed flow, that differs from the expected one: f_ij ≠ f_ij^(g). It means that, in the case of airline networks, the standard gravity model cannot be directly used to estimate weights of the existing connection flights."
+  },
+  {
+    "question": "How do the authors define the two components that make up the observed passenger flow f_ij in their model of connecting flights?",
+    "gold_answer": "The observed passenger flow f_ij consists of two components: (1) f_ij^(g) - the number of passengers traveling directly from origin in country i to final destination in country j, given by the gravity equation, and (2) f_ij^(transit) - the number of passengers who use the connection i → j as part of their longer journey.",
+    "document": "s41598-017-06108-z.pdf",
+    "supporting_chunk": "We claim that the passenger flow, f_ij, from country i to country j, that is observed in the data, is composed of two components: • f_ij^(g) - the number of passengers traveling directly from the origin of a trip in the country i to the final destination in country j, which, we assume, is given by Eq. (8), • and the number of passengers, f_ij^(transit), who use the connection i → j as a part of their longer journey."
+  },
+  {
+    "question": "What percentage of total passenger flow in the world does the authors' model correctly predict?",
+    "gold_answer": "The model correctly predicts more than 98% of the total passenger flow in the world.",
+    "document": "s41598-017-06108-z.pdf",
+    "supporting_chunk": "Although it is possible to extend the model to include two-stop connections, we think it is not worth the price, i.e., the significantly increased complexity of the model, especially since its present form correctly predicts more than 98% of the total passenger flow in the world."
+  },
+  {
+    "question": "What formula do the authors use to describe the probability function p(i → j → k) for choosing connecting flights?",
+    "gold_answer": "The authors use p(i → j → k) = C · f(r_ij, r_jk), where C is a normalization constant and f(r_ij, r_jk) = 1/(r_ij · r_jk), reflecting passengers' tendency to choose the shortest connections.",
+    "document": "s41598-017-06108-z.pdf",
+    "supporting_chunk": "Therefore, p(i → j → k) = C · f(r_ij, r_jk), where C is a normalization constant... and the function f(r_ij, r_jk) should reflect the tendency of the passengers to choose the shortest, and therefore, the cheapest or the fastest connections. Among many possible choices, we have chosen the following form for this function f(r_ik, r_jk) = 1/(r_ij · r_jk)"
+  },
+  {
+    "question": "What are the specific values of the distance coefficient α that the authors determined for 1996 and 2004?",
+    "gold_answer": "The distance coefficient α was determined to be 1.5 for 1996 and 1.6 for 2004.",
+    "document": "s41598-017-06108-z.pdf",
+    "supporting_chunk": "The numerical results for f_ij^mcf shown in Fig. 3 have been obtained for the particular values of the distance coefficient α (the reason why we have chosen α = 1.5 and α = 1.6 for years 1996 and 2004, respectively, will become clear shortly)."
+  },
+  {
+    "question": "What major historical events does the paper identify as having influenced the distance coefficient in air transportation?",
+    "gold_answer": "The paper identifies three major events: the September 2001 attacks in New York and Washington D.C. (which started a chain including SARS epidemic, additional terrorist attempts, wars, and rising oil prices), the 2008 global financial crisis, and the 2010 eruption of Eyjafjallajökull volcano in Iceland.",
+    "document": "s41598-017-06108-z.pdf",
+    "supporting_chunk": "In Fig. 5, we have marked three historical events that could influence the behaviour of the distance coefficient in the same way as they had an impact on the whole aviation industry. Attacks in New York and Washington D.C. in September of 2001 started a chain of events such as SARS epidemic, additional terrorist attempts, wars, and rising oil prices... The 2008 global financial crisis costed another several years of growth. The effect was further enhanced by the eruption of the Eyjafjallajökull volcano in Iceland in 2010"
+  },
+  {
+    "question": "What data source and time period did the authors use for their analysis?",
+    "gold_answer": "The authors used data from the International Civil Aviation Organization (ICAO) containing annual traffic on international scheduled services for the years 1990-2011, along with econometric data from Penn World Table 8.1 and distance data from CEPII.",
+    "document": "s41598-017-06108-z.pdf",
+    "supporting_chunk": "Results reported in this paper are based on data provided by International Civil Aviation Organization (ICAO). They contain 'annual traffic on-board aircraft on individual flight stages of international scheduled services'... The data are employed to build a sequence of weighted directed networks, F(t), in the consecutive years t = 1990, …, 2011... Apart from traffic data, we also use econometric data from Penn World Table 8.1... The distance between countries is based on CEPII data"
+  },
+  {
+    "question": "What percentage of possible connections between countries were direct flights versus shortest paths with length 2 in 2004?",
+    "gold_answer": "In 2004, only 2308 connections (10%) out of 22650 possible connections were direct flights, while 12749 connections (56%) were shortest paths with length equal to 2.",
+    "document": "s41598-017-06108-z.pdf",
+    "supporting_chunk": "For example, for 2004, we have flight data for 151 countries and 22650 possible connections between them. Only 2308 (10%) of them are direct. There are also 12749 (56%) shortest paths with length equal to 2."
+  },
+  {
+    "question": "What is the 'missing globalization puzzle' mentioned in the paper and how does it relate to the distance coefficient?",
+    "gold_answer": "The missing globalization puzzle refers to the counter-intuitive finding that despite globalization conceptually reducing effective distance, most econometric studies show the distance coefficient increases over time, meaning distance becomes more important rather than less important in economic flows.",
+    "document": "s41598-017-06108-z.pdf",
+    "supporting_chunk": "Its behaviour over time is strictly related to the globalization process, which can be conceptualized as a continuous reduction of the effective distance in the world. Unexpectedly, most studies about gravity models in econometrics clearly show that, since the distance coefficient increases in time, the role of the distance grows simultaneously. This counter-intuitive result is currently known as the missing globalization puzzle."
+  },
+  {
+    "question": "How do the authors measure the agreement between their model and empirical data when determining the optimal distance coefficient?",
+    "gold_answer": "The authors use a root mean square (RMS) formula Δ(α) = √(1/N_m × Σ[P(f_ij) - P(f_ij^mcf)(α)]²) to measure agreement between normalized histograms of empirical and modelled flows across 15 logarithmically spaced bins, with the minimum Δ(α) indicating the optimal distance coefficient.",
+    "document": "s41598-017-06108-z.pdf",
+    "supporting_chunk": "For every year in the analysed period 1990–2011, we have created the histograms of empirical and modelled flows, P(f_ij) and P(f_ij^mcf)(α), respectively, in m = 15 logarithmically spaced bins... To measure this agreement, Δ(α), we use a simple RMS formula Δ(α) = √(1/N_m × Σ[P_h(f_ij) - P_h(f_ij^mcf)(α)]²)... The clearly visible minimum at α = 1.5 indicates the correct value of the distance coefficient in this year."
+  },
+  {
+    "question": "What specific Chinese textual challenges did the researchers identify that make Chinese stock market analysis more complex than English-based analysis?",
+    "gold_answer": "The researchers identified several challenges: Chinese does not have explicit word boundary markers and contains no whitespace between words; Chinese words are not clearly marked grammatically; Chinese contains a very large number of homophones in sentences; and Chinese consists of several thousand characters (Hanzi) with words consisting of one or more characters, making recognition, segmentation and analysis more complicated compared to English.",
+    "document": "s41598-020-77823-3.pdf",
+    "supporting_chunk": "The Chinese language consists of several thousand characters known as Hanzi, with a word consisting of one or more characters. Compared to English, Chinese is more complicated in terms of recognition, segmentation and analysis: Chinese does not have an explicit word boundary marker and do not contain whitespace between words; Chinese words are not clearly marked grammatically; Chinese also contains a very large number of homophones in sentences."
+  },
+  {
+    "question": "What was the AUC performance of the proposed SLS_L model and how did it compare to the alternative models tested?",
+    "gold_answer": "The SLS_L model achieved an AUC of 0.9360, which outperformed both the Lasso-Logistics (L_L) model with AUC of 0.8344 and the MCP-Logistic (MCP_L) model with AUC of 0.8707. The SLS_L model demonstrated the highest prediction accuracy among all tested approaches.",
+    "document": "s41598-020-77823-3.pdf",
+    "supporting_chunk": "These comparisons of results demonstrate that the proposed SLS_L model (AUC = 0.9360) has the highest AUC in comparison with L_L(AUC = 0.8344) and MCP_L(AUC = 0.8707). The AUC values conclude that the proposed method can achieve lower prediction errors and higher prediction accuracy in the stock direction of change and outperforms L_L and MCP_L models in predicting the SWS week index of real estate sector."
+  },
+  {
+    "question": "What were the optimal tuning parameters found for the SLS_L model and what do they control?",
+    "gold_answer": "The optimal tuning parameters were λ₁ = 0.0251 and λ₂ = 0.001. λ₁ performs variable selection and controls the level of sparsity, while λ₂ controls the degree of coefficient smoothing, representing the similarity between coefficients. The non-zero value of λ₂ indicates that network structure information was effectively utilized.",
+    "document": "s41598-020-77823-3.pdf",
+    "supporting_chunk": "The prediction results for the proposed Sparse Laplacian Shrinkage-Logistic (SLS_L) model based on 5 replicates are calculated as AUC = 0.9360, λ₁ = 0.0251, λ₂ = 0.001. Given these descriptive results, λ₁ performs the variable selection and control the level of sparsity, and λ₂ controls the degree of the coefficient smoothing, that is, the similarity between coefficients."
+  },
+  {
+    "question": "Which keywords were identified as having the highest betweenness centrality in the textual network and what does this measure indicate?",
+    "gold_answer": "The word 'Short Term' had the highest betweenness centrality at 287.89, followed by 'Pessimistic', 'Input Market', 'Larger' and 'Market'. Betweenness centrality measures the number of times a vertex acts as a link along the shortest path between two other nodes, with high betweenness indicating high probability to control information flow in the network.",
+    "document": "s41598-020-77823-3.pdf",
+    "supporting_chunk": "Betweenness is a centrality measure of a node within a network. Specifically, betweenness centrality measures the number of times a vertex acts as a link along the shortest path between two other nodes. A vertex with high betweenness has a high probability to control the flow of information in the network. In our study, only 44 vertices of the betweenness centrality are greater than zero. The word 'Short Term' is the most influential keywords, with a betweenness centrality of 287.89, followed by 'Pessimistic', 'Input Market', 'Larger' and 'Market'."
+  },
+  {
+    "question": "What was the network density of the constructed textual network and what does this value indicate about the network structure?",
+    "gold_answer": "The network density was 0.1695, meaning there were 522 links in the 56 × 56 adjacency matrix. This indicates the textual network is a sparse network, which is significantly affected by the fact that the text network of research reports on stocks is loosely knit instead of densely connected.",
+    "document": "s41598-020-77823-3.pdf",
+    "supporting_chunk": "Density is a measure of network cohesion. In this sense, density represents the proportion of observed links in a network that are actually present. The value can be in the range from 0 to 1, where 0 indicates networks with no relationships and 1 indicates networks with all possible relationships. Our network density is 0.1695, meaning that there are 522 links in 56 × 56 adjacency matrix. Thus, the textual network is a sparse network. This result is significantly affected by the fact that text network of research reports on stocks is loos knit instead of densely connected."
+  },
+  {
+    "question": "How many research reports were collected from how many security companies, and what was the typical word count range for these reports?",
+    "gold_answer": "A total of 2082 reports were collected from 65 security companies. The number of words in a report was most frequently between 500 and 2000 words, with a mean of 3.8 security reports per day.",
+    "document": "s41598-020-77823-3.pdf",
+    "supporting_chunk": "There are a total of 2082 reports from 65 security companies. Each research report is timed to the day, the mean security reports in a day are 3.8 and the number of words in a report is most frequently between 500 and 2000."
+  },
+  {
+    "question": "What was the time lag effect discovered for market reactions, and how does this compare to previous research findings?",
+    "gold_answer": "The study found that the highest AUC occurred when predicting the next one week (five trading days), yielding up to 0.9360 for the SWS index. This finding aligns with Asquith et al.'s discovery that analyst reports can affect market reactions with a five trade days delay, indicating that time is needed for news to translate into trading activity.",
+    "document": "s41598-020-77823-3.pdf",
+    "supporting_chunk": "The results of the experiment show that in general, the AUC on the next one week was the highest, yielding up to 0.9360 for the SWS index of real estate sector. In the similar result, Asquith et al. discovered that analyst reports on companies can affect their market's reaction with five trade days delay. In the market, the trading date is the day that an investor's order is executed. Our result shows that some time is still needed for getting news to trading."
+  },
+  {
+    "question": "What proportion of the 56 identified keywords were found to be effective predictors, and how were effective keywords defined?",
+    "gold_answer": "Out of 56 words, 31 were found to be effective predictors (55.4%). Effective keywords were defined as those whose coefficients did not shrink to zero in at least one of the three models (MCP_L, SLS_L, and L_L), while the remaining 25 words had coefficients that shrunk to zero in all three models.",
+    "document": "s41598-020-77823-3.pdf",
+    "supporting_chunk": "However, among these 56 words, the coefficients of 25 words shrink to zero when using all of the three models (MCP_L, SLS_L and L_L models), meaning that they are not effective. The remaining 31 words are effective, that is, the coefficients of them are not zero in at least one of the three models."
+  },
+  {
+    "question": "What striking finding did the researchers discover about the polarity of effective keywords and their market impact?",
+    "gold_answer": "Only 5 out of 25 effective terms had a positive impact on financial markets, with most keywords receiving negative connotations. The strongest positive indicator was 'Imagine' and the strongest negative indicator was 'Concern'. Even the seemingly positive word 'Securitization' received a negative connotation, supporting the asymmetric response theory that negative information has greater impact than positive information.",
+    "document": "s41598-020-77823-3.pdf",
+    "supporting_chunk": "The striking finding in Table 2 is that only five out of 25 terms have a positive impact on financial markets. Apparently even the positive word 'Securitization(证券化)' received a negative connotation. The strongest positive indicator is 'Imagine(想象)', and the strongest negative indicator is 'Concern(关注度)'. This finding seems to echo what Soroka and Wu et al. discovered earlier—responses to positive and negative information are asymmetric—that negative information has a much greater impact on individuals' attitudes than does positive information."
+  },
+  {
+    "question": "What specific steps were used in the keyword vector extraction process, and what significance level was used for the final chi-square filtering?",
+    "gold_answer": "The process involved four steps: 1) Dictionary building using Sogou cell lexicon (63,320 words), 2) Text segmentation using Jieba package with Hidden Markov model, 3) Words cleaning removing stop words and low-frequency terms, and 4) Keyword vector selection using chi-square statistics. After filtering at the 5% significance level, 56 words remained from an initial set of 3285 keywords.",
+    "document": "s41598-020-77823-3.pdf",
+    "supporting_chunk": "Using the above step 1–step 3, an initial set of 3285 keywords was built. Step 4: keyword vector selection... In this paper, we use chi-square (χ²) independent statistics to test the frequency count of each item in each report data and the market indicator fluctuations measured in terms of increase (↑) or decrease (↓) during each time period of one week. The statistic test is compared to the chi-square distribution with one degree of freedom. After the above filtering, 56 words remained at the 5% significance level in our trial."
+  },
+  {
+    "question": "What is the computational complexity of the route pruning algorithm proposed in this paper?",
+    "gold_answer": "O(L³), where L is the number of locations",
+    "document": "s41598-021-90943-8.pdf",
+    "supporting_chunk": "The computational complexity of this second step is O(L³), which enables the computation of location graphs for all towns and cities on the road network of an entire continent."
+  },
+  {
+    "question": "How does the parameter β control the quality versus complexity trade-off in the pruning algorithm?",
+    "gold_answer": "When β > 1, the resulting pruned graph may be redundant by retaining sub-optimal routes. When 0 < β < 1, the graph is lossy as not all shortest paths are retained. β allows trading between quality (redundancy and path quality) and complexity (edge set size).",
+    "document": "s41598-021-90943-8.pdf",
+    "supporting_chunk": "if β > 1, the resulting pruned graph may not be completely pruned, but may rather be redundant by retaining edges corresponding to sub-optimal routes (i.e., with longer distances). If instead 0 < β < 1, then the resulting graph is lossy in the sense that not all shortest paths are retained. Thus, the parameter β allows trading between the quality (in terms of redundancy and path quality) and complexity (in terms of edge set size) of the simplified graph."
+  },
+  {
+    "question": "What F1-scores were achieved in the four geographical regions tested, and which regions exceeded 0.9?",
+    "gold_answer": "Three of the four regions achieved F1-scores exceeding 0.9: Styria Austria (0.95 with β=0.95), Central African Republic (0.94 with β=0.95), and South Sudan (0.90 with β=0.95). The German-Austrian border region achieved a maximum F1-score of 0.75.",
+    "document": "s41598-021-90943-8.pdf",
+    "supporting_chunk": "In three of the four regions, we achieved an F1-score (see \"Results\" section for a definition) exceeding 0.9 for the same value of the single parameter of our method."
+  },
+  {
+    "question": "What routing service and algorithms does the paper use for computing pairwise distances between locations?",
+    "gold_answer": "The paper uses the Open Source Routing Machine (OSRM) from OpenStreetMap, which implements multilevel Dijkstra's (MLD) and contraction hierarchies (CH) algorithms for routing.",
+    "document": "s41598-021-90943-8.pdf",
+    "supporting_chunk": "OSRM implements multilevel Dijkstra's (MLD) and contraction hierarchies (CH) algorithms for routing. Both methods consist of preprocessing and query phases."
+  },
+  {
+    "question": "How does the triangle inequality principle work in identifying indirect routes in this algorithm?",
+    "gold_answer": "If a route between two locations has a distance similar to the sum of distances between these locations and a common third location, then the considered route is likely indirect. The algorithm compares route distances to detect when d*1,2 + d*2,3 ≈ d*1,3, indicating location l2 lies between l1 and l3.",
+    "document": "s41598-021-90943-8.pdf",
+    "supporting_chunk": "if the route between two locations has a distance similar to the sum of distances of routes between these locations and a common third location, then it is probable that the considered route is indirect. While the first step of our procedure relies on existing algorithms for finding shortest paths in graphs, the second step presents our first contribution in the area of edge pruning algorithms"
+  },
+  {
+    "question": "What specific problem occurred with the route between Kolbermoor and Prien am Chiemsee in the German-Austrian border region?",
+    "gold_answer": "The fastest route via Autobahn A8 was 33 km/30 minutes, while the alternative route through Rosenheim was 27.1 km/33 minutes total. The algorithm always removes this route regardless of β < 1 because it optimizes for fastest time rather than shortest distance, even though a direct, faster route exists.",
+    "document": "s41598-021-90943-8.pdf",
+    "supporting_chunk": "The route [Kolbermoor - Prien am Chiemsee] will therefore always be removed from the fully connected graph by the route pruning algorithm, independent of the pruning parameter β < 1, even though a direct, faster route exists."
+  },
+  {
+    "question": "What were the performance results for processing continental-scale location graphs, specifically for Europe?",
+    "gold_answer": "For Europe with 18,091 cities/towns, the routing took 5.01 hours and the pruning took 316.36 seconds using 128 cores.",
+    "document": "s41598-021-90943-8.pdf",
+    "supporting_chunk": "Europe (cities/towns) 18,091 5.01 h – 316.36 s"
+  },
+  {
+    "question": "How does the proposed algorithm compare to the Iterative-Global strategy in terms of computational complexity?",
+    "gold_answer": "For complete location graphs, the proposed algorithm has O(L³) complexity compared to O(L⁴ log L) for the optimal Iterative-Global strategy, providing better computational efficiency without loss of optimality.",
+    "document": "s41598-021-90943-8.pdf",
+    "supporting_chunk": "the time complexity of our approach is O (L³), which compares favourably with the time complexity of O (L⁴ log L) of the optimal Iterative-Global strategy. Since the first step of our two-step approach results with a complete location graph where the route distances satisfy the triangle inequality, we can reap the benefits of this reduced time complexity without loss of optimality."
+  },
+  {
+    "question": "What methodology was used to create the ground truth for validating the algorithm's performance?",
+    "gold_answer": "Ground truth was created by manually inspecting OpenStreetMap to determine if the fastest route between each location pair is direct. A connection was labeled direct if no other location lies on or nearby the fastest route, though this process involved subjective decisions in ambiguous cases.",
+    "document": "s41598-021-90943-8.pdf",
+    "supporting_chunk": "We created the ground truth of direct driving connections for each of the four regions with OSM by inspecting if the fastest route (shortest time) between each location pair is direct. A connection between two locations is labelled direct if there is no other location on or nearby the fastest route."
+  },
+  {
+    "question": "What are the main applications mentioned in the paper that require location graphs?",
+    "gold_answer": "Location graphs are needed for route optimization, load optimization in electrical and transportation networks, and agent-based modeling applications including transportation of goods, evacuation models, traffic simulations, disease transmission, movement of people, and migration simulation.",
+    "document": "s41598-021-90943-8.pdf",
+    "supporting_chunk": "Such location graphs are a prerequisite for many real-life problems, for example, route optimisation, load optimisation in electrical and transportation networks, and many others. Location graphs are also needed for agent-based modelling applications such as transportation of goods, evacuation models, traffic simulations, disease transmission, movement of people, and migration simulation."
+  },
+  {
+    "question": "What are the five time scales of resilience according to the DIRE curve, and what do they represent?",
+    "gold_answer": "The five time scales are known as the 'R's' of resilience: recon, resist, respond, recover, and restore. These represent different phases from prior to an event to potentially days or weeks after a disturbance.",
+    "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+    "supporting_chunk": "It can be seen that the resilience is broken into five different time scales, known as the ''R's'' of resilience: recon, resist, respond, recover, and restore. To account for this time-dependent behavior, a dynamic resilience study approach is explored in this paper."
+  },
+  {
+    "question": "How is the adaptive capacity of a generation asset mathematically bounded in the PowDDeR application?",
+    "gold_answer": "The adaptive capacity is bounded by the real and reactive power component limits given in equations (4) and (5) and the temporal limits defined in equations (6) and (7). This results in a 'manifold' that represents the adaptive capacity of an asset.",
+    "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+    "supporting_chunk": "The adaptive capacity is therefore bound by the real and reactive power component limits given in equations (4) and (5) and the temporal limits defined in equations (6) and (7). This results in a ''manifold'' that represents the adaptive capacity of an asset."
+  },
+  {
+    "question": "What is the primary resilience challenge for the St. Mary's microgrid according to the study?",
+    "gold_answer": "The primary resilience challenge is fuel availability for the diesel generators. Fuel gets delivered by boat on the Yukon River, which is impassable from August through April due to long and very cold winters, potentially creating life-threatening situations during winter due to diesel fuel depletion.",
+    "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+    "supporting_chunk": "From [27], it can be concluded that the primary resilience challenge for the St. Mary's microgrid is fuel availability for the diesel generators. Fuel gets delivered by boat on the Yukon River, which is impassable from August through April due to the long and very cold winters. Therefore, life threatening situations could arise during winter as consequences to diesel fuel depletion."
+  },
+  {
+    "question": "What mathematical relationship defines how system frequency responds to power disturbances, and what role does inertia play?",
+    "gold_answer": "The frequency response is defined by df/dt = f₀ΔP/2H, where ΔP is the disturbance or difference between generation and load, and H is the inertial constant. Large inertia slows the rate of frequency response, allowing additional time for generation units to ramp up or down before reaching frequency limits.",
+    "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+    "supporting_chunk": "The kinetic energy slows the rate of frequency response to disturbances on the system, given as df/dt = f₁P/2H where 1P is the disturbance or difference between generation and load, and H is the inertial constant. A large amount of inertia on the system allows for additional time for generation units to ramp up or down output to arrest the frequency before it reaches the point of under frequency load shed (UFLS) or over frequency generator tripping."
+  },
+  {
+    "question": "What specific wind turbine was installed at St. Mary's microgrid and when did it start producing power?",
+    "gold_answer": "By January 5, 2019, the Alaska Village Electric Cooperative (AVEC) had installed a 900 kW, 52-meter rotor diameter type IV pitch-controlled wind turbine generator manufactured by Emergya Wind Technologies and started producing power.",
+    "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+    "supporting_chunk": "By January 5, 2019, the Alaska Village Electric Cooperative (AVEC) had installed a 900 kW, 52-meter rotor diameter type IV pitch-controlled wind turbine generator manufactured by Emergya Wind Technologies and started producing power."
+  },
+  {
+    "question": "What trade-off between short-term and long-term resilience was observed in the study results?",
+    "gold_answer": "When diesel generators are taken offline, there is a large negative impact on short-term resilience due to reduced inertia and generation ramping capability, but a positive effect on long-term resilience because the system burns less fuel to support the load, conserving fuel for extended operation.",
+    "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+    "supporting_chunk": "The key takeaway that can be seen is the trade-off between short-term and long-term resilience. Examining scenario 2, you can see that when a generator goes off-line it has a large negative impact to the short-term resilience because of the reduced inertia and generation ramping capability. However, it has a positive effect on the long-term resilience. This is due to the system no longer burning as much fuel to support the load."
+  },
+  {
+    "question": "How does the MIRACL-CSP platform achieve data exchange between GridLAB-D and Python federates?",
+    "gold_answer": "The platform treats GridLAB-D and Python federates as message federates, with data exchange configured using JSON config files by defining corresponding endpoints. The HELICS API facilitates communication through specific endpoints for monitoring and dispatching data.",
+    "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+    "supporting_chunk": "In particular, for this co-simulation integration, the GridLAB-D and Python federates are treated as message federates and data exchange is configured using JSON config files by defining corresponding endpoints."
+  },
+  {
+    "question": "What are the operational characteristics assumed for the diesel generators in the St. Mary's microgrid model?",
+    "gold_answer": "The generators are assumed to have an inertia constant of 2, have ramping capability of reaching full output in 10 seconds, and their rate of burning fuel for this study are constant.",
+    "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+    "supporting_chunk": "The generators are assumed to have an inertia constant of 2, have ramping capability of reaching full output in 10 seconds, and their rate of burning fuel for this study are constant."
+  },
+  {
+    "question": "What frequency limit is used to define the short-term resilience metric in this study?",
+    "gold_answer": "The short-term resilience is based on a frequency limit of 58Hz. It measures the maximum size of disturbance the system can withstand without dropping below this frequency limit before under frequency load shed (UFLS) occurs.",
+    "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+    "supporting_chunk": "The resulting short-term resilience, which is a measure of the size of disturbance the system can withstand without dropping below a frequency limit of 58Hz, is shown in Fig. 5e."
+  },
+  {
+    "question": "How does wind generation impact resilience metrics differently when operated at maximum versus below maximum capacity?",
+    "gold_answer": "When wind is run at maximum output, diesel generation can be taken offline, improving long-term resilience by conserving fuel. When run below maximum output, the fast ramping capability of inverters allows for increased short-term resilience of the system by providing additional generation capacity for frequency response.",
+    "document": "Scalable_Resilience_Analysis_Through_Power_Systems_Co-Simulation.pdf",
+    "supporting_chunk": "The contribution of wind generation has the ability to increase either the short-term or long-term resilience depending on how it is utilized. If it is run at maximum output, diesel generation can be taken off-line. If it is run below its maximum output, the fast ramping capability of inverters allows for increased short-term resilience of the system."
+  },
+  {
+    "question": "What specific investment strategy did the researchers implement using Google Trends data, and how did it determine buy/sell decisions?",
+    "gold_answer": "The researchers implemented a 'Google Trends strategy' that sells the DJIA at closing price p(t) if the relative change in search volume Δn(t-1, Δt) > 0, and buys back at price p(t+1). If Δn(t-1, Δt) < 0, they buy at p(t) and sell at p(t+1). The strategy uses relative change in search volume: Δn(t, Δt) = n(t) - N(t-1, Δt) where N(t-1, Δt) is the average search volume over the previous Δt weeks.",
+    "document": "srep01684.pdf",
+    "supporting_chunk": "We implement this strategy by selling the DJIA at the closing price p(t) on the first trading day of week t, if Dn(t 2 1, Dt) . 0, and buying the DJIA at price p(t 1 1) at the end of the first trading day of the following week... If instead Dn(t 2 1, Dt) , 0, then we buy the DJIA at the closing price p(t) on the first trading day of week t and sell the DJIA at price p(t 1 1) at the end of the first trading day of the coming week."
+  },
+  {
+    "question": "What was the total profit achieved by the best-performing Google Trends strategy, and which search term was used?",
+    "gold_answer": "The best-performing Google Trends strategy achieved a profit of 326% using the search term 'debt' with Δt = 3 weeks during the period from January 2004 to February 2011.",
+    "document": "srep01684.pdf",
+    "supporting_chunk": "Fig. 2 shows that the use of the Google Trends strategy, based on the search term debt and Dt 5 3 weeks, would have increased the value of a portfolio by 326%."
+  },
+  {
+    "question": "How did the researchers quantify the financial relevance of different search terms, and what correlation did they find with trading performance?",
+    "gold_answer": "The researchers quantified financial relevance by calculating the frequency of each search term in the online edition of the Financial Times from August 2004 to June 2011, normalized by the number of Google hits for each search term. They found a positive correlation between this financial relevance indicator and trading returns (Kendall's tau = 0.275, z = 4.01, N = 98, p < 0.001).",
+    "document": "srep01684.pdf",
+    "supporting_chunk": "We investigate whether these differences in performance can be partially explained using an indicator of the extent to which different terms are of financial relevance—a concept we quantify by calculating the frequency of each search term in the online edition of the Financial Times from August 2004 to June 2011, normalized by the number of Google hits for each search term... We find that the return associated with a given search term is correlated with this indicator of financial relevance (Kendall's tau 5 0.275, z 5 4.01, N 5 98, p , 0.001)"
+  },
+  {
+    "question": "Why did strategies based on U.S. search volume data perform better than those based on global search volume data for the U.S. market?",
+    "gold_answer": "Strategies based on U.S. search volume data performed better because investors prefer to trade on their domestic market. The researchers found that U.S.-only search data better captured the information gathering behavior of U.S. stock market participants than worldwide data, with mean returns of 0.60 vs 0.43 standard deviations above random strategies (t = 2.69, df = 97, p < 0.01).",
+    "document": "srep01684.pdf",
+    "supporting_chunk": "It is widely recognized that investors prefer to trade on their domestic market, suggesting that search data for U.S. users only, as used in analyses so far, should better capture the information gathering behavior of U.S. stock market participants than data for Google users worldwide. Indeed, we find that strategies based on global search volume data are less successful than strategies based on U.S. search volume data in anticipating movements of the U.S. market (,R.US 5 0.60, ,R.Global 5 0.43; t 5 2.69, df 5 97, p , 0.01, two-sided paired t-test)."
+  },
+  {
+    "question": "What were the comparative performances of the 'buy and hold' strategy and the 'Dow Jones strategy' during the study period?",
+    "gold_answer": "The 'buy and hold' strategy yielded 16% profit, equal to the overall increase in the DJIA from January 2004 to February 2011. The 'Dow Jones strategy', which used changes in stock prices instead of search volume data, yielded only 33% profit with Δt = 3 weeks, or 0.45 standard deviations above random strategies when averaged over Δt = 1 to 6 weeks.",
+    "document": "srep01684.pdf",
+    "supporting_chunk": "The 'buy and hold' strategy is implemented by buying the index in the beginning and selling it at the end of the hold period. This strategy yields 16% profit, equal to the overall increase in value of the DJIA in the time period from January 2004 until February 2011. We further implement a 'Dow Jones strategy' by using changes in p(t) in place of changes in search volume data as the basis of buy and sell decisions. We find that this strategy also yields only 33% profit with Dt 5 3 weeks, or when determined as the mean value over the six returns obtained for Dt 5 1 . . . 6 weeks, 0.45 standard deviations of cumulative returns of uncorrelated random investment strategies"
+  },
+  {
+    "question": "How did the researchers validate that both components of their trading strategy (long and short positions) contributed significantly to the results?",
+    "gold_answer": "The researchers tested each component separately: a long-only strategy (buying after search volume decreases) achieved mean returns of 0.41 standard deviations above random (t = 11.42, p < 0.001), and a short-only strategy (selling after search volume increases) achieved 0.19 standard deviations above random (t = 5.28, p < 0.001). Both components significantly outperformed random strategies.",
+    "document": "srep01684.pdf",
+    "supporting_chunk": "We find that returns from both Google Trends strategy components are significantly higher overall than returns from a random investment strategy (long position strategies: ,R.USLong 5 0.41; t 5 11.42, df 5 97, p , 0.001, one sample t-test; short position strategies: ,R.USShort 5 0.19; t 5 5.28, df 5 97, p , 0.001, one sample t-test)."
+  },
+  {
+    "question": "What theoretical framework did the researchers use to interpret their findings about the relationship between search behavior and trading decisions?",
+    "gold_answer": "The researchers used Herbert Simon's model of decision making, suggesting that Google Trends data and stock market data reflect two subsequent stages in investors' decision-making process. They proposed that trends to sell at lower prices are preceded by periods of concern, during which people gather more information about the market, reflected by increased Google search volumes for financially relevant terms.",
+    "document": "srep01684.pdf",
+    "supporting_chunk": "We offer one possible interpretation of our results within the context of Herbert Simon's model of decision making. We suggest that Google Trends data and stock market data may reflect two subsequent stages in the decision making process of investors. Trends to sell on the financial market at lower prices may be preceded by periods of concern. During such periods of concern, people may tend to gather more information about the state of the market."
+  },
+  {
+    "question": "How many search terms did the researchers analyze, and what criteria did they use for selecting them?",
+    "gold_answer": "The researchers analyzed 98 search terms. They included terms related to the concept of stock markets, with some terms suggested by the Google Sets service, a tool which identifies semantically related keywords. The set was not arbitrarily chosen as they intentionally introduced some financial bias in their selection.",
+    "document": "srep01684.pdf",
+    "supporting_chunk": "We analyze the performance of a set of 98 search terms. We included terms related to the concept of stock markets, with some terms suggested by the Google Sets service, a tool which identifies semantically related keywords. The set of terms used was therefore not arbitrarily chosen, as we intentionally introduced some financial bias."
+  },
+  {
+    "question": "What specific data retrieval methodology did the researchers use to ensure robustness of Google Trends data?",
+    "gold_answer": "The researchers averaged over three realizations of each search term's time series, based on three independent data requests made on consecutive weeks (April 10, 17, and 24, 2011). They noted that search volume data changes slightly over time due to Google's extraction procedure, so this averaging approach addressed the variability across different access dates.",
+    "document": "srep01684.pdf",
+    "supporting_chunk": "We find that search volume data change slightly over time due to Google's extraction procedure. For each search term, we therefore average over three realizations of its search volume time series, based on three independent data requests in consecutive weeks... We retrieved search volume data by accessing the Google Trends website (http://www.google.com/trends) on 10 April 2011, 17 April 2011, and 24 April 2011."
+  },
+  {
+    "question": "What statistical significance did the researchers find when comparing Google Trends strategies overall to random investment strategies?",
+    "gold_answer": "The Google Trends strategies significantly outperformed random investment strategies with a mean return of 0.60 standard deviations above the random strategy mean (t = 8.65, df = 97, p < 0.001, one sample t-test) for U.S. search data, and 0.43 standard deviations (t = 6.40, df = 97, p < 0.001) for global search data.",
+    "document": "srep01684.pdf",
+    "supporting_chunk": "We find that returns from the Google Trends strategies we tested are significantly higher overall than returns from the random strategies (,R.US 5 0.60; t 5 8.65, df 5 97, p , 0.001, one sample t-test)... However, returns are still significantly higher than the mean return of random investment strategies (,R.Global 5 0.43; t 5 6.40, df 5 97, p , 0.001, one sample t-test)."
+  },
+  {
+    "question": "What was the time period covered by the Financial Times corpus used in this study?",
+    "gold_answer": "2nd January 2007 until 31st December 2012",
+    "document": "srep03578.pdf",
+    "supporting_chunk": "Here, we exploit a large corpus of daily print issues of the Financial Times from 2nd January 2007 until 31st December 2012 to quantify the relationship between decisions taken in financial markets and developments in financial news."
+  },
+  {
+    "question": "How many different words occurred throughout the Financial Times corpus analyzed in the study?",
+    "gold_answer": "891,171 different words",
+    "document": "srep03578.pdf",
+    "supporting_chunk": "A total of 891,171 different words occur throughout the Financial Times corpus."
+  },
+  {
+    "question": "What was the median correlation coefficient between daily mentions of company names and transaction volumes across all 31 companies?",
+    "gold_answer": "0.074",
+    "document": "srep03578.pdf",
+    "supporting_chunk": "We analyze the distribution of Spearman's rank correlation coefficients for all 31 companies... we find that overall, the correlation coefficients are significantly higher than zero (median correlation coefficient = 0.074; mean correlation coefficient = 0.100, W = 450, p < 0.001, Wilcoxon signed rank test)."
+  },
+  {
+    "question": "Which company showed the strongest correlation between mentions in the Financial Times and transaction volume?",
+    "gold_answer": "Bank of America (BAC) with a correlation of 0.43",
+    "document": "srep03578.pdf",
+    "supporting_chunk": "We find that a greater number of daily mentions of 'Bank of America' corresponds to a greater daily transaction volume for Bank of America stocks (r = 0.43, p < 0.001, Spearman's rank correlation)... Whilst the strongest correlation is found for Bank of America"
+  },
+  {
+    "question": "At what time are Financial Times issues released each day?",
+    "gold_answer": "5 am London time",
+    "document": "srep03578.pdf",
+    "supporting_chunk": "The Financial Times is released each day from Monday to Saturday, at 5 am London time."
+  },
+  {
+    "question": "What are the trading hours of the New York Stock Exchange mentioned in the study?",
+    "gold_answer": "9:30 am to 4 pm New York time (for most of the year, 2:30 pm to 9 pm London time)",
+    "document": "srep03578.pdf",
+    "supporting_chunk": "Stocks for companies listed in the DJIA are traded at the New York Stock Exchange (NYSE), open between 9:30 am and 4 pm New York time (for most of the year, 2:30 pm to 9 pm London time)."
+  },
+  {
+    "question": "Which company replaced which other company in the DJIA during the study period, and when did this change occur?",
+    "gold_answer": "Travelers replaced Citigroup on 8th June 2009",
+    "document": "srep03578.pdf",
+    "supporting_chunk": "However, Travelers replaced Citigroup in the DJIA during the period of our analysis... On 8th June 2009, during the period of our study, Travelers replaced Citigroup in the DJIA."
+  },
+  {
+    "question": "At which time lags were significant correlations found between company mentions and transaction volumes?",
+    "gold_answer": "One day before the news (lag -1) and on the same day as the news (lag 0)",
+    "document": "srep03578.pdf",
+    "supporting_chunk": "We find that correlation coefficients for daily transaction volume one day before the news (-1) and on the same day as the news (0) are significantly greater than zero (lag -1: W = 373, p = 0.014; lag 0: W = 362, p = 0.026, Wilcoxon signed rank tests)."
+  },
+  {
+    "question": "What was the median correlation coefficient between daily mentions of company names and absolute returns?",
+    "gold_answer": "0.040",
+    "document": "srep03578.pdf",
+    "supporting_chunk": "Again, we find that across all 31 companies, the correlation coefficients are significantly higher than zero (median correlation coefficient = 0.040; mean correlation coefficient = 0.047; W = 408, p = 0.0017, Wilcoxon signed rank test)."
+  },
+  {
+    "question": "What was the result when testing for correlation between company mentions and directional stock returns?",
+    "gold_answer": "No significant correlation was found (median correlation coefficient = 0.000, p = 0.784)",
+    "document": "srep03578.pdf",
+    "supporting_chunk": "We calculate the Spearman's rank correlation between the daily number of mentions of a company and the daily return of a company's stocks (Figure 5), and find that here, the correlation coefficients are not significantly different to zero (median correlation coefficient = 0.000, mean correlation coefficient = 0.002, W = 262, p = 0.784, Wilcoxon signed rank test)."
+  },
+  {
+    "question": "What specific mathematical criterion did the researchers develop to define the width of the stripe centered on support or resistance levels?",
+    "gold_answer": "The width D of the stripe at time scale T is defined as D(T) = (L/T - 1)^(-1) * Σ|P_T(t_{k+1}) - P_T(t_k)|, which is the average of the absolute value of price increments at time scale T.",
+    "document": "srep04487.pdf",
+    "supporting_chunk": "The width D of the stripe centered on the support or resistance at the time scale T is defined as D Tð Þ~ L T   {1   {1 X L T ½ {1 k~1 P T t kz1 ð Þ{PT t k ð Þ j j ð4Þ that is the average of the absolute value of the price increments at time scale T."
+  },
+  {
+    "question": "How many stocks from the London Stock Exchange were analyzed in this study, and what was the time period of the analysis?",
+    "gold_answer": "The study analyzed 9 stocks from the London Stock Exchange during 2002 (251 trading days). The stocks were: AstraZeNeca (AZN), British Petroleum (BP), GlaxoSmithKline (GSK), Heritage Financial Group (HBOS), Royal Bank of Scotland Group (RBS), Rio Tinto (RIO), Royal Dutch Shell (SHEL), Unilever (ULVR), and Vodafone Group (VOD).",
+    "document": "srep04487.pdf",
+    "supporting_chunk": "The analyses presented in this paper are carried out on the high frequency (tick-by-tick i.e. we have a record of the price for every operation), time series of the price of 9 stocks of the London Stock Exchange in 2002 (251 trading days). The analyzed stocks are: AstraZeNeca (AZN), British Petroleum (BP), GlaxoSmithKline (GSK), Heritage Financial Group (HBOS), Royal Bank of Scotland Group (RBS), Rio Tinto (RIO), Royal Dutch Shell (SHEL), Unilever (ULVR), Vodafone Group (VOD)."
+  },
+  {
+    "question": "What was the average Hurst exponent found across the 9 stocks, and what does this value indicate about price increment correlations?",
+    "gold_answer": "The average Hurst exponent was 0.44, which is less than 0.5, indicating negative correlation and antipersistent behavior in price increments.",
+    "document": "srep04487.pdf",
+    "supporting_chunk": "We indeed find that the mean of the Hurst exponent ÆHæ is always less than the value of 0.5 and therefore there is an anticorrelation effect of the price increments for the 9 stocks analyzed... We choose a fractional random walk with the Hurst exponent H 5 ÆHstockæ 5 0.44 given by the average over the H exponents of the different stocks."
+  },
+  {
+    "question": "At what time scales did the researchers find that the memory effect in support and resistance levels becomes statistically insignificant?",
+    "gold_answer": "The memory effect disappears at time scales larger than 180 seconds for resistances and 150 seconds for supports. The statistical significance (p-value < 0.05) was maintained up to 60-90 seconds for both supports and resistances.",
+    "document": "srep04487.pdf",
+    "supporting_chunk": "We find that it disappears at the time scale larger than 180 s–180 s is the maximum scale we investigate – for resistances and 150 s for supports... Up to the 60–90 seconds timescale we find that the increase of p(b | bprev) with respect to bprev is statistically significant"
+  },
+  {
+    "question": "What probability distribution best described the time between consecutive bounces, and what distribution characterized the maximum distance from support/resistance levels?",
+    "gold_answer": "The time between consecutive bounces (t) followed a power law distribution, while the maximum distance (d) was best described by an exponentially truncated power law. For example, at 60 seconds time scale: N ∝ t^(-0.56) for time and N ∝ d^(-0.61) exp(-0.03 d) for distance.",
+    "document": "srep04487.pdf",
+    "supporting_chunk": "We find that a power law fit describes well the histograms of t... In this specific case (60 seconds) we find N , t20.56... We instead call d the maximum distance reached by the price before the next bounce... the behavior appears to be compatible at all scales with an exponentially truncated power law... In this specific case (60 seconds) we find N , d20.61 exp(20.03 d)."
+  },
+  {
+    "question": "How did the researchers use Bayesian inference to estimate the conditional probability of bounces, and what were the mathematical expressions for the expected value and variance?",
+    "gold_answer": "They modeled bounce events as a Bernoulli process and used Bayesian inference to estimate p(b|b_prev). The expected value is E[p(b|b_prev)] = (n_b_prev + 1)/(N + 2) and the variance is Var[p(b|b_prev)] = [(n_b_prev + 1)(N - n_b_prev + 1)]/[(N + 3)(N + 2)²].",
+    "document": "srep04487.pdf",
+    "supporting_chunk": "we infer p(bjbprev) from the number of bounces n bprev and from the total number of trials N assuming that n bprev is a realization of a Bernoulli process... E p b bprev   ~ n bprev z1 Nz2 ð1Þ Var p b bprev   ~ n bprev z1   N{nbprev z1  Nz3ð Þ Nz2ð Þ2 ð2Þ"
+  },
+  {
+    "question": "What evidence did the study provide against the hypothesis that round price values are preferred for psychological reasons in support and resistance formation?",
+    "gold_answer": "The researchers found no evidence of highly preferred prices in their histograms of local minima/maxima. When comparing histograms of support and resistance levels with overall price level histograms, they observed no anomalies or significant excess around round numbers across all stocks and time scales investigated.",
+    "document": "srep04487.pdf",
+    "supporting_chunk": "We find no evidence of highly preferred prices in any of the histograms produced. As a further proof, we also compare in that figure the histogram of support and resistance levels with the price level histogram and we do not observe any anomaly... We find similar results, i.e. absence of anomalies in the histogram for supports and resistances, for all stocks and all time scales investigated."
+  },
+  {
+    "question": "How did the conditional bounce probabilities compare between actual stock data and shuffled return series, and what was the significance of this comparison?",
+    "gold_answer": "The conditional bounce probabilities for actual stock data were well above 0.5 and increased with the number of previous bounces, while shuffled series showed probabilities near 0.5 that remained nearly constant. This difference was at least one order of magnitude larger than any bias from finite stripe effects, providing evidence for memory effects in the original data.",
+    "document": "srep04487.pdf",
+    "supporting_chunk": "As shown in the graphs, the probabilities of bounce of the shuffled time series are nearly 152 while the probabilities of bounce of the stock data are well above 152... However, we observe that this is intrinsic asymmetry is at least one order of magnitude smaller than the effect measured in the non-shuffled case... the probability of bounce rises up as bprev increases. Conversely, the probability of bounce of the shuffled time series is nearly constant."
+  },
+  {
+    "question": "What specific statistical tests did the researchers employ to validate the significance of their findings, and what were the significance levels used?",
+    "gold_answer": "The researchers used two main statistical tests: (1) A chi-squared test with 3 degrees of freedom to test the independence hypothesis p(b|b_prev) = c, using a significance level α = 0.05, and (2) A Kolmogorov-Smirnov test to assess whether bounce frequencies from reshuffled series were compatible with the posterior distribution found for bounce frequency.",
+    "document": "srep04487.pdf",
+    "supporting_chunk": "We have performed a x2 test to verify if the hypothesis of growth of p(bjbprev) is statistically meaningful... Then we compute the p-value associated to a x2 distribution with 3 degrees of freedom. We choose a significance level a~0:05... As a further proof of the statistical significance of the memory effect observed, we perform a Kolmogorov-Smirnov test (see Ref. 54) in order to assess whether the bounce frequencies estimated from the reshuffled series are compatible with the posterior distribution found for bounce frequency."
+  },
+  {
+    "question": "According to the three basic assumptions of technical analysis described in the paper, what is the fundamental belief about market psychology and its consistency over time?",
+    "gold_answer": "Technical analysis assumes that 'history repeats itself' because price trends reflect market psychology, and since the psychology of investors does not change over time, investors will always react in the same way when they encounter the same conditions. This leads to the belief that patterns that anticipated specific trends in the past will do the same in the future.",
+    "document": "srep04487.pdf",
+    "supporting_chunk": "history repeats itself: Thousands of price graphs of the past have been analyzed and some figures (or patterns) of the price graphs have been linked to an upward or downward trend 51. The technical analysis argues that a price trend reflects the market psychology. The hypothesis of the technical analysis is that if these patterns anticipated a specific trend in the past they would do the same in the future. As the psychology of the investors do not change over time, an investor would always react in the same way when he undergoes the same conditions."
+  },
+  {
+    "question": "What are the three components that make up the total cost C_i for a one-level dependent activity according to Zachary's framework?",
+    "gold_answer": "The three components are economic cost C_F, social cost C_S, and environmental cost C_E.",
+    "document": "srep05215.pdf",
+    "supporting_chunk": "The cost C_i for activity a_i for a one-level dependent activity (temporarily dropping the activity subscript) is composed of three parts: economic C_F, social C_S, and environmental C_E."
+  },
+  {
+    "question": "How does the environmental cost C_E relate to the capacity c in Zachary's linear model?",
+    "gold_answer": "The environmental cost C_E is directly proportional to capacity c through the relationship C_E = γct, where γ = abc and represents conversion constants linking capacity to pollutant, pollutant to impact, and impact to cost.",
+    "document": "srep05215.pdf",
+    "supporting_chunk": "The environmental cost C_E is proportional to the impact I, the pollutant p, and ultimately the required capacity c, using a set of conversion constants, a, b, and c... In this simple example where neither feedback nor other non-linear behavior occur, the environmental cost is directly proportional to the pollutant... C_E,ACC = γct... where γ = a × b × c."
+  },
+  {
+    "question": "What are the two conditions for sustainability that Zachary develops, and how do they differ in terms of substitution?",
+    "gold_answer": "The two conditions are strong sustainability (when demand is met with no substitution) and weak sustainability (when demand is met via substitution). In strong sustainability, the base activities alone fulfill the demand, while weak sustainability allows for replacement activities when base activities fail to meet constraints.",
+    "document": "srep05215.pdf",
+    "supporting_chunk": "Two conditions for sustainability are developed: a strong condition when the demand is met with no substitution and a weak condition when the demand is met via substitution... If Conditions 1 – 3 hold then D is fulfilled by sustainable activities, a, either directly (Condition 3 - strong sustainability) or by substitution (Condition 3 - weak sustainability)."
+  },
+  {
+    "question": "According to the paper, what mathematical structure do sustainable activities form in the weak sustainability case?",
+    "gold_answer": "In the weak case, the set of all sustainable activities forms a subset of an N-level union of sustainable activities and creates a topological cover.",
+    "document": "srep05215.pdf",
+    "supporting_chunk": "In the latter case, we show that the set of all sustainable activities is a subset of a N-level union of sustainable activities and forms a topological cover... We have shown that in the weak case, the set of all sustainable activities is a subset of an N-level union of sustainable activities, the set of which is a topological cover of sustainable activities."
+  },
+  {
+    "question": "What are the three conditions that must be met for an activity to be considered sustainable according to Proposition 1?",
+    "gold_answer": "The three conditions are: (1) C'_i,j,... ≤ C'_i,j,...^max for all cost components, (2) t'_i,j,... ≤ t'_i,j,...^max for duration constraints, and (3) either strong sustainability where D = Σc¹_i (base activities meet demand) or weak sustainability where demand is met through substitution via a topological cover.",
+    "document": "srep05215.pdf",
+    "supporting_chunk": "is sustainable if the following conditions are met, C'_i,j,... ≤ C'_i,j,...^max, ℓ=1,...N, for all i,j,... (Condition 1) t'_i,j,... ≤ t'_i,j,...^max, ℓ=1,...N, for all i,j,... (Condition 2) and D = Σ^N_i=1 c¹_i (Condition 3 - strong), or if the collection of sustainable sets... forms a cover of x (Condition 3 - weak sustainability)."
+  },
+  {
+    "question": "What five requirements for sustainable agriculture does the paper identify as being addressable by Zachary's framework?",
+    "gold_answer": "The five requirements are: (1) satisfying human food and fiber needs, (2) enhancing environmental quality and natural resources, (3) making efficient use of non-renewable and on-farm resources, (4) integrating natural biological cycles and controls, and (5) sustaining economic viability while enhancing quality of life.",
+    "document": "srep05215.pdf",
+    "supporting_chunk": "Sustainable agriculture, for example, is characterized by a number of requirements and can be met by the framework developed here. These include: 1. Satisfying human food and fiber needs... 2. Enhancing environmental quality and the natural resource based upon the agricultural economy... 3. Making the most efficient use of non-renewable resources and on-farm resources... 4. Integrating, where appropriate, natural biological cycles and controls... 5. Sustaining the economic viability of farm operations... and enhancing the quality of life for farmers and society as a whole."
+  },
+  {
+    "question": "What does Zachary identify as the fundamental challenge in connecting social sustainability to environmental and economic dimensions?",
+    "gold_answer": "The fundamental challenge is that social costs are difficult to quantify and assign monetary values to, making it problematic to connect the social dimension analytically to the other dimensions. The paper notes this is easier to handle at the local level where consensus is more achievable.",
+    "document": "srep05215.pdf",
+    "supporting_chunk": "Also, not surprisingly, it is difficult to assign a monetary cost for societal concerns, but a relative weighting can still be done, especially for issues at a local level where a consensus on the social cost is easier to obtain... Beyond this concern, connecting the social to the other dimensions is still problematic... the local or base activity ℓ = 1 is where social issues become more concrete. Perhaps consensus at the local level is one way to proceed."
+  },
+  {
+    "question": "How does the paper address the issue of higher-order dependencies in activities, and what example is used to illustrate this?",
+    "gold_answer": "The paper addresses higher-order dependencies by acknowledging that activities have cascading effects beyond their immediate scope, similar to Life Cycle Assessment. The bike trip example illustrates this: riding a bike requires eating an apple, which supports an apple farmer, who uses trucks for transport that emit pollution, creating indirect environmental costs.",
+    "document": "srep05215.pdf",
+    "supporting_chunk": "Theoretically, the 'clean' bike trip can negatively impact the environment. Prior to the trip, the bicyclist might be inclined to eat an apple for energy and therefore indirectly supports an apple farmer. A truck driver who is transporting the apple to the market is also supported by this activity, albeit marginally. The truck consequently contributes to the emission load. Therefore, secondary environmental costs that are not usually foreseen when riding a bike might be taken into account... The list would go on and on and the problem quickly becomes an intractable one to assess."
+  },
+  {
+    "question": "What limitation does Zachary acknowledge regarding the quantification of different theoretical perspectives on sustainability?",
+    "gold_answer": "Zachary acknowledges that while economic values can be determined from markets and environmental costs from measurements and models, social costs will continue to be difficult to quantify. Many theoretical terms like 'balance', 'restrictions', 'maintaining', and 'controlling' are inherently difficult to quantify, and some approaches like Socio-Biological don't lend themselves easily to quantitative models.",
+    "document": "srep05215.pdf",
+    "supporting_chunk": "Though the economic values can be determined from markets and environmental costs from measurements and models, the social costs will continue to be difficult to pin down. We observe from Table 1 the terms 'balance', 'restrictions', 'maintaining', 'controlling', 'integrating', 'preventing' are difficult to quantify. Some social issues, e.g., Socio-Biological, do not lend themselves easily to a quantitative model while others, e.g., Ecological Engineering, involving ecological resilience, do."
+  },
+  {
+    "question": "What are the eight possible classifications of activities that Zachary proposes based on duration, cost, and complexity levels?",
+    "gold_answer": "The eight classifications are based on combinations of: duration constraint satisfaction (t < t_max: yes/no), cost constraint satisfaction (C < C_max: yes/no), and activity complexity (single/multiple levels). This creates 2³ = 8 possibilities ranging from unsustainable single-level activities that meet neither constraint to sustainable/potentially sustainable multiple-level activities that meet both constraints.",
+    "document": "srep05215.pdf",
+    "supporting_chunk": "An activity is characterized by cost, duration, and whether it is a single or multi-level activity. A natural set of 2³ possibilities representing these combinations are given in Table 3... [Table shows 8 combinations of Duration (t < t_max), Cost (C < C_max), and Level (single/multiple) resulting in classifications from US (unsustainable) to S/US (sustainable/unsustainable)]."
+  },
+  {
+    "question": "What is the maximum modulation frequency achieved by the proposed spatial sweeping system and how does it compare to existing DMD technology?",
+    "gold_answer": "The proposed system achieves a binary pattern modulation speed of 97 kHz, which is about 5 times faster than the fastest DMD's maximum rate of 20.7 kHz.",
+    "document": "srep45325.pdf",
+    "supporting_chunk": "Therefore, the binary pattern modulation speed of our system is 97 kHz, which is about 5 times faster than that of the fastest DMD."
+  },
+  {
+    "question": "What mathematical equation describes the final modulation frequency of the sweeping-based ghost imaging system?",
+    "gold_answer": "The final modulation frequency is given by δ = (Fg × Δx)/(b × δ), where Fg is the scanning frequency of the galvanic mirrors, Δx is the scanning range of the beam on the DMD, b is the binning number of DMD mirrors in one direction, and δ is the size of each micro-mirror of the DMD.",
+    "document": "srep45325.pdf",
+    "supporting_chunk": "In our setup, the coded patterns are generated by scanning the DMD, and the final modulation frequency of our system is δ = Fg × Δx/(b × δ), where Fg is the scanning frequency of the two galvanic mirrors GM1 and GM2, and Δx is the scanning range of the beam on the DMD, b is the binning number of DMD mirrors in one direction, and δ is the size of each micro-mirror of the DMD."
+  },
+  {
+    "question": "What frame rate and pixel resolution did the authors achieve for dynamic scene imaging, and what algorithm did they use for reconstruction?",
+    "gold_answer": "The authors achieved 42 Hz frame rate at 80 × 80-pixel resolution for dynamic scene imaging. They used a compressive sensing based algorithm incorporating both spatial and temporal prior constraints with the optimization function min(λΨ(Xt) + Φ(Xt - Xt-1)).",
+    "document": "srep45325.pdf",
+    "supporting_chunk": "Specifically, we put another DMD on the sample plane, and display video sequences at 42 Hz... For reconstruction, we retrieve each frame using the compressive sensing based algorithm incorporating both spatial and temporal prior constraint, with the optimization function defined as λΨ(Xt) + Φ(Xt - Xt-1)."
+  },
+  {
+    "question": "What is the theoretical maximum modulation speed that could be achieved using high-end galvanic mirrors like the CTI 6200H?",
+    "gold_answer": "Using high-end galvanic mirrors like the CTI 6200H with 1 kHz working frequency, the modulation speed could reach 485 kHz, which would enable 210 frames per second at 80 × 80-pixel resolution.",
+    "document": "srep45325.pdf",
+    "supporting_chunk": "Please note that our pattern modulation speed is highly limited by the galvanic mirror's working frequency Fg, for some high-end galvanic mirrors with the working frequency achieving 1 kHz e.g. CTI 6200 H, the speed of the same pixel resolution will be as high as 485 kHz... using CTI 6200H with 1 kHz working frequency will increase the speed by 5 times, and achieve 210 frames per second at 80 × 80-pixel resolution."
+  },
+  {
+    "question": "How does the parameter k (number of scanned consecutive patterns during each DMD period) affect reconstruction quality according to the simulation?",
+    "gold_answer": "As k increases, the imaging quality degrades because successive scanned sub patterns from a high resolution random pattern are not entirely independent from each other, which mathematically degenerates the reconstruction performance. However, even with large k values and noise, the results still restore decent images.",
+    "document": "srep45325.pdf",
+    "supporting_chunk": "because the successive scanned sub patterns from a high resolution random pattern is not entirely independent from each other, and this will mathematically degenerate the reconstruction performance... It is obvious that the imaging quality turns worse as k increases, but even with large noise the result at large k still restores a decent image, both visually and quantitatively."
+  },
+  {
+    "question": "What is the mathematical relationship derived for edge detection using consecutive patterns in the sweeping system?",
+    "gold_answer": "The relationship is yi - yi-1 = Σu,v Pi(u,v)ΔX(u,v), where ΔX(u,v) = X(u,v) - X(u-1,v). This shows that the difference between consecutive measurements can reconstruct the horizontal edges of the scene, reducing the required patterns by 50% compared to previous methods.",
+    "document": "srep45325.pdf",
+    "supporting_chunk": "We do subtraction between yi and yi-1 and get... yi - yi-1 = Σu,v Pi(u,v)ΔX(u,v)... Above derivations tell that, we can reconstruct the edges of X from Pi, Pi-1 and corresponding correlated measurements yi and yi-1... Recall that our detection reduces the number of requisite patterns by 50% compared to the method proposed by Liu et al."
+  },
+  {
+    "question": "What are the specific technical specifications of the DMD and galvanic mirrors used in the experimental setup?",
+    "gold_answer": "The DMD is a Texas Instrument DLP Discovery 4100, 7XGA with 1024 × 768 pixel resolution, 13.6 μm micro-mirror size, and maximum 20 kHz projection rate. The galvanic mirrors are GVS011 from Thorlabs, single axis scanning devices operating at 200 Hz.",
+    "document": "srep45325.pdf",
+    "supporting_chunk": "the resolution of DMD (Texas Instrument DLP Discovery 4100, 7XGA) is 1024 × 768 pixels with maximum of 20 k hertz projection of binary patterns. GM1 and GM2 are both single axis scanning devices (GVS011 from Thorlabs)... The size of the DMD mirror is 13.6 μm... Fg is set to be 200 Hz"
+  },
+  {
+    "question": "What is the geometric relationship between the galvanic mirror rotation angles and the beam hitting position on the DMD?",
+    "gold_answer": "The relationship is x = d sin(2θ), where x is the distance from the beam's hitting position at GM1 to that at the DMD, d is the distance between the two galvanic mirrors (12 cm), and θ is the rotating angle. For small scanning ranges, this can be approximated as p = p0 - (2dkU)/δ0.",
+    "document": "srep45325.pdf",
+    "supporting_chunk": "Let θ denote the rotating angle of GM1, and x denote the distance from the beam's hitting positions at GM1 to that at the DMD, then we can get x = d sin(2θ)... Since the scanning range of GM is small (less than 4 degree), Eq. 7 can be approximated to be p = p0 - 2dkU/δ0."
+  },
+  {
+    "question": "What potential improvement in modulation speed could be achieved using acoustic optical deflectors (AOD) instead of galvanic mirrors?",
+    "gold_answer": "Using acoustic optical deflectors (AOD) with 20 kHz scanning frequency could achieve 20 times faster illumination patterning, reaching 9.5 MHz modulation speed.",
+    "document": "srep45325.pdf",
+    "supporting_chunk": "Secondly, we can also use an acoustic optical deflectors (AOD) for sweeping, which can produce 20 kHz scanning frequency, and thus 20 times faster illumination patterning, i.e., 9.5 MHz."
+  },
+  {
+    "question": "What are the main limitations of the proposed sweeping-based ghost imaging approach?",
+    "gold_answer": "The main limitations are: (1) the system needs careful mechanical mounting for calibration, though this can be addressed with customized programmable mounts, and (2) the scheme currently only works for random patterns and is inapplicable for other structured patterns like Hadamard and sinusoidal patterns.",
+    "document": "srep45325.pdf",
+    "supporting_chunk": "The system needs careful mechanical mount for calibration, but this issue can be addressed effectively by designing a customized programmable mount for the DMD, galvanic mirrors and light source. Another limitation is that currently the scheme works for structuring light using random patterns, and is inapplicable for other patterns with specific structures, e.g. Hadamard and sinusoidal patterns."
+  },
+  {
+    "question": "What specific pressure conditions were used to simulate Martian and Earth environments in the experiments?",
+    "gold_answer": "Mars-like pressure was set at 8 mbar while Earth-standard pressure was set at 1000 mbar.",
+    "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+    "supporting_chunk": "Two sets of experiments, namely, pair-1 and pair-2, were conducted within the MEC using the soils specified in Table I to ensure redundancy in measurements. These experiment pairs encompassed conditions representing Earth-standard pressure (1000 mbar) (1 and 3) as well as Mars-like pressure (8 mbar) (2 and 4)."
+  },
+  {
+    "question": "What was the relative error between MEC-based thermal inertia estimations and Perseverance's data for each soil type?",
+    "gold_answer": "The relative errors were 6.79% for sandy soil, 7.68% for intermediate soil, and 7.76% for bedrock soil.",
+    "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+    "supporting_chunk": "Additionally, when comparing the thermal inertia estimations based on Perseverance's data with the MEC-based thermal inertia estimations, a relative error of 6.79%, 7.68%, and 7.76% is observed for the sandy, intermediate, and bedrock soils, respectively."
+  },
+  {
+    "question": "How much did the difference between surface and subsurface temperatures increase for soil A when pressure decreased from Earth to Mars conditions?",
+    "gold_answer": "The maximum difference between surface and subsurface temperature increased by 26.72%, from 11.6°C at Earth's pressure to 14.7°C at Mars' pressure.",
+    "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+    "supporting_chunk": "Next, we compare the mean surface temperatures with the thermocouples subsurface temperatures of soil A in pair-1 [Fig. 11(a) and (b)]. In this case, the maximum difference between the surface and subsurface temperature is 11.6°C and 14.7°C at Earth's and Mars' pressure, respectively; which constitutes an increase of 26.72%."
+  },
+  {
+    "question": "What is the mathematical formula used to estimate thermal inertia based on daily amplitude variations?",
+    "gold_answer": "I_sin = (ΔG_s/ΔT_s)√(2π/P), where ΔT_s = T_max - T_min, ΔG_s = G_max - G_min, and P is the diurnal period.",
+    "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+    "supporting_chunk": "In this work, we estimate thermal inertia based on the daily amplitude of surface net heat flux and temperature of a surface subjected to the Sun's heating [21]. This method considers a sinusoidal approximation of the Earth's net heat flux and surface temperatures for a diurnal period P, which also applies to Mars' heat fluxes and temperatures [11]. The thermal inertia of a given soil is estimated as I_sin = ΔG_s/ΔT_s √(2π/P) where ΔT_s = T_max - T_min and the net heat flux is expressed as ΔG_s = G_max - G_min"
+  },
+  {
+    "question": "What specific material and thickness were chosen for the IR viewport window and why?",
+    "gold_answer": "An anti-reflection coated germanium circular optic with 74.9 mm diameter and 5.0 mm thickness was chosen to comply with the minimum thickness required to avoid reaching germanium's fracture strength caused by the pressure differential.",
+    "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+    "supporting_chunk": "We chose an anti-reflection coated germanium circular optic model GEW16AR.20 by MKS Instruments due to its high mechanical resistance and its ability to withstand abrupt thermal changes. We selected a diameter of 74.9 and 5.0 mm of thickness in order to comply with the minimum thickness required to avoid reaching the germanium's fracture strength caused by the pressure differential between the environment and Martian pressure inside the MEC [40]."
+  },
+  {
+    "question": "How many radiometric images were collected during the experiments and what format were they saved in?",
+    "gold_answer": "A total of 9,225 radiometric images were collected and saved as plain text 640 × 480 matrices with each cell containing the temperature in degrees Celsius.",
+    "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+    "supporting_chunk": "During the experiments, we collected a total of 9225 radiometric images, which were saved as plain text 640 × 480 matrices with each cell containing the temperature in degree Celsius."
+  },
+  {
+    "question": "What is the relationship between thermal conductivity and the three heat transfer mechanisms in granular soils?",
+    "gold_answer": "k = k_r + k_c + k_g, where k_r is transfer across pore spaces, k_c is conduction between grain contact areas, and k_g is conduction of gas filling pores between grains. Gas conduction (k_g) dominates at pressures between 0.1 and 1000 mbar.",
+    "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+    "supporting_chunk": "Thermal conductivity is the parameter that mainly influences thermal inertia, which is affected by three different heat transfer mechanisms [10] k = k_r + k_c + k_g where k_r is the transfer across pore spaces, k_c is the conduction between grains contact areas, and k_g is the conduction of the gas which fills the pores between grains. Pressure greatly determines which term acquires the most relevance. Gas conduction (k_g) dominates at pressures between 0.1 and 1000 mbar"
+  },
+  {
+    "question": "What significant difference in thermal inertia distinguishability was observed between Earth and Mars pressure conditions?",
+    "gold_answer": "At Earth's pressure, the relative difference between highest and lowest thermal inertia soils was only 4.20%, but at Martian pressure, this difference increased significantly to 42.84%, indicating soils can be better assessed at Martian pressure.",
+    "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+    "supporting_chunk": "According to the MEC experimental data, at Earth's pressure, the relative difference between the soil with the highest thermal inertia and the one with the lowest thermal inertia is 4.20%. However, at Martian pressure, this difference increases significantly to 42.84%. This observation indicates that soils can be better assessed at Martian pressure compared to Earth's pressure."
+  },
+  {
+    "question": "What are the technical specifications of the Optris PI-640i thermal camera used in the experiments?",
+    "gold_answer": "The PI-640i is a 320-g LWIR camera working in 8–14 μm spectral range, with 640 × 480 pixel resolution, 60° × 45° FOV, germanium optic, measuring temperatures from −20°C to 900°C with 0.04°C thermal sensitivity.",
+    "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+    "supporting_chunk": "The thermal vision camera is a PI-640i by Optris based on uncooled microbolometer technology. It is a 320-g LWIR camera that works in the spectral range of 8–14 μm, has a resolution of 640 × 480 pixels, and a germanium optic with an FOV of 60° × 45°. It can measure temperatures from −20°C to 900°C with a thermal sensitivity of 0.04°C."
+  },
+  {
+    "question": "What was the simplified surface energy budget equation used within the MEC to simulate Martian thermal behavior?",
+    "gold_answer": "G = −I√(π/P) ∂T/∂Z'|_{Z'=0} = εσ_B T^4_{heater} − εσ_B T^4_{s_i}, where T_{heater} represents MEC heater temperature and T_{s_i} represents mean surface temperature of each soil sample.",
+    "document": "Thermal_Imagery_for_Rover_Soil_Assessment_Using_a_Multipurpose_Environmental_Chamber_Under_Simulated_Mars_Conditions.pdf",
+    "supporting_chunk": "The surface energy budget for each sample bin within the MEC can be described as a function of the radiative flux generated by the MEC heaters, as shown in the following equation: G = −I√(π/P) ∂T/∂Z'|_{Z'=0} = εσ_B T^4_{heater} − εσ_B T^4_{s_i} where T_{s_i} represents the mean surface temperature of each soil sample and T_{heater} corresponds to the temperature of the MEC heaters."
+  },
+  {
+    "question": "What are the two fundamental problems with singular vectors that make them difficult to learn in convolutional neural networks?",
+    "gold_answer": "The two fundamental problems are: (1) Sign ambiguity - singular vectors with similar information are randomly distributed in two areas due to random variable pk ∈ {1, -1}, and (2) Manifold features - singular vectors are unit vectors with norm 1 that exist as points on a unit hypersphere (manifold), making them inefficient to learn with generic neural networks based on Euclidean geometry.",
+    "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+    "supporting_chunk": "In summary, singular vectors have two fundamental problems as follows. • Singular vectors with similar information are randomly distributed in two areas due to sign ambiguity. • It is inefficient to learn singular vectors on manifold space through a general neural network scheme."
+  },
+  {
+    "question": "How much performance improvement does Singular Vector Pooling (SVP) achieve compared to Global Average Pooling (GAP) under adversarial attacks using FGSM on the CIFAR10 dataset?",
+    "gold_answer": "SVP achieves approximately 36% better performance than GAP under FGSM adversarial attacks on the CIFAR10 dataset with natural training.",
+    "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+    "supporting_chunk": "For FGSM with natural and adversarial training, SVP shows 36.07%, 28.18%, and 34.21% higher accuracies than GAP, GMP, and MPN, respectively."
+  },
+  {
+    "question": "What mathematical approach is used to remove sign ambiguity in singular vectors, and what is the key reference point?",
+    "gold_answer": "Sign ambiguity is removed by aligning singular vectors based on a center vector that is rotated to {0, 0, ..., 0, 1, 0}. The method verifies which hyper-sphere a singular vector belongs to according to the sign of ũHW-1,k and multiplies vectors on the negative half-sphere by -1 to align them.",
+    "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+    "supporting_chunk": "So we can verify the hyper-sphere where ũk is in according to the sign of ũHW-1,k. Finally, Û and V̂ that are arranged based on ũc are defined as follows: Û = [sign(ũHW-1,k)ũk]1≤k≤K, V̂ = [sign(ũHW-1,k)ṽk]1≤k≤K"
+  },
+  {
+    "question": "Why is the arccosine function approximated using first-order Taylor expansion in the coordinate conversion process?",
+    "gold_answer": "The arccosine function's first derivative can easily diverge as d/dz arccos(z) = -1/√(1-z²) for -1 < z < 1. To prevent this instability during learning, the arccosine is approximated as -z + π/2 using first-order Taylor expansion.",
+    "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+    "supporting_chunk": "However, the 1st derivative of the arccosine in Eq. (12) can easily diverge, as shown in Eq. (14). d/dz arccos(z) = -1/√(1-z²), (-1 < z < 1). So, we approximate the arccosine to -z + π/2 by the first order Taylor expansion."
+  },
+  {
+    "question": "What loss function is used to learn the center vector uc, and what assumption does it make about the distribution of features?",
+    "gold_answer": "KL-divergence is used to learn the center vector uc. The method assumes that each component of the aligned ū features follows a Gaussian distribution, and the center vector is learned so that this assumption holds true by minimizing the KL-divergence between the actual distribution and a Gaussian distribution.",
+    "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+    "supporting_chunk": "So, assuming that each component of the aligned ū has the Gaussian distribution, uc is learned through KL-divergence [25] of Eq. (16) so that the assumption is correct. LKL ūb,k = Σk=1^K Σb Norm(μūb,k, σ²ūb,k) log[Norm(μūb,k, σ²ūb,k)/p(ūb,k, uc)]"
+  },
+  {
+    "question": "What is the silhouette score improvement of SVP compared to other pooling methods on the CIFAR10 training dataset?",
+    "gold_answer": "SVP achieves a silhouette score of 0.692, which is 0.444, 0.510, and 0.551 better than GAP (0.248), GMP (0.182), and MPN (0.141) respectively. The SVP silhouette score is more than twice as high as other pooling methods.",
+    "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+    "supporting_chunk": "Nevertheless, the silhouette score [33] of SVP on training dataset is better by 0.444, 0.510, and 0.551 than that of GAP, GMP, and MPN, respectively. SVP shows excellent silhouette scores that are more than twice those of the other pooling methods."
+  },
+  {
+    "question": "How does the rotation process address the discontinuity problem in spherical coordinate transformation?",
+    "gold_answer": "Rotation centers the singular vector distribution in the spherical coordinate system by rotating the center vector vc to {0,...,0,1,0} using Rodrigues rotation. This prevents singular vectors from being located near discontinuity boundaries where components are bounded ([0,π] for φ1 to φN-2 and [-π,π] for φN-1), ensuring the shortest path coincides with the real path during learning.",
+    "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+    "supporting_chunk": "Thus, singular vectors should be kept as distant from the discontinuity boundary as possible. In other words, the singular vector distribution must be intentionally centered in the spherical coordinate system. The center of the spherical coordinate system {π/2, π/2, ..., π/2, 0} is converted to {0, ..., 0, 1, 0} of the Cartesian coordinate using spherical to Cartesian coordinates conversion equation."
+  },
+  {
+    "question": "What performance improvement does KD-SVP achieve over the original KD-SVD method on the CIFAR100 dataset?",
+    "gold_answer": "KD-SVP achieves a performance improvement of 1.69% over the original KD-SVD method on the CIFAR100 dataset (improving from 71.64% to 73.33% accuracy).",
+    "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+    "supporting_chunk": "Table 5 shows that when the proposed method is applied to KD-SVD, the performance is improved by 1.69% for CIFAR100 and 0.97% for Tiny-ImageNet."
+  },
+  {
+    "question": "What happens to the network performance when the sign ambiguity removal step is omitted from SVP according to the ablation study?",
+    "gold_answer": "When the sign ambiguity removal step (step 2) is omitted, learning becomes impossible. The ablation study shows that this step is indispensable for proper learning of singular vectors, as indicated by the 'NaN' result in the experimental plot.",
+    "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+    "supporting_chunk": "Finally, if the sign ambiguity removal of step 2 is absent, learning is impossible. This experiment shows that each step of SVP is indispensable for proper learning of singular vectors."
+  },
+  {
+    "question": "What are the computational complexity trade-offs of using SVP compared to conventional pooling methods?",
+    "gold_answer": "SVP has higher computational complexity than general pooling methods due to the SVD computations required. However, it has lower forward time than MPN (matrix power normalized covariance pooling), which is a lightweight second-order pooling method. The burdensome SVD computations may make it difficult to apply directly to embedded systems or mobile environments.",
+    "document": "Transformation_of_Non-Euclidean_Space_to_Euclidean_Space_for_Efficient_Learning_of_Singular_Vectors.pdf",
+    "supporting_chunk": "Also, the proposed method has a lower forward time than MPN, which is a light-weight second-order pooling method. Therefore, we can find that the proposed method can provide better clustering performance with less computation time... On the other hand, SVP has a disadvantage that its computational complexity is somewhat higher than that of general pooling methods. Also, SVD requires burdensome computations, so it may be difficult to apply it directly to an embedded system or a mobile environment."
+  },
+  {
+    "question": "What is the maximum A-scan rate achieved by the STDM-OCT system described in this paper?",
+    "gold_answer": "1 MHz A-scan rate",
+    "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+    "supporting_chunk": "In order to overcome the major speed limitation of spectral-domain OCT (SD-OCT), we developed an ultrahigh-speed SD-OCT system, with an A-scan rate of up to 1 MHz, using the method of space–time-division multiplexing (STDM)."
+  },
+  {
+    "question": "What are the specifications of the broadband light source used in the STDM-OCT system?",
+    "gold_answer": "SLD-371-HP3 superluminescent diode with center wavelength of 838 nm, full-width at half-maximum of 81 nm, and optical power of 27.2 mW",
+    "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+    "supporting_chunk": "The light from the broadband light source (SLD-371-HP3, Superlum, Ireland), with a center wavelength of 838 nm, a full-width at half-maximum of 81 nm, and optical power of 27.2 mW, was transmitted to a 50:50 fiber coupler"
+  },
+  {
+    "question": "What volumetric imaging rate was achieved for a 250 × 250 × 2048 pixel volume?",
+    "gold_answer": "8 vol/s for an image range of 250 × 250 × 2048 pixels (9 × 4.5 × 5 mm)",
+    "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+    "supporting_chunk": "By successfully integrating the developed STDM method with GPU parallel processing, 8 vol/s for an image range of 250 × 250 × 2048 pixels (9 × 4.5 × 5 mm) was achieved, with an adjustable volume rate according to the required scanning speed and range."
+  },
+  {
+    "question": "What are the measured thicknesses of the four layers in the laboratory-customized optical thin film (OTF) sample?",
+    "gold_answer": "Protective film: 100 μm, transparent film: 250 μm, deco film: 150 μm, base film: 100 μm",
+    "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+    "supporting_chunk": "The internal structure of the OTF is largely divided into four layers: a protective film, a transparent film, a deco film, and a base film. The measured thicknesses of each layer were 100, 250, 150, and 100 μm, respectively."
+  },
+  {
+    "question": "What are the peak sensitivities measured for camera #1 and camera #2 at the 100th pixel?",
+    "gold_answer": "139 dB for camera #1 and 137 dB for camera #2",
+    "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+    "supporting_chunk": "The averaged sensitivity difference between the two cameras is 2.5 dB, and the measured peak sensitivities (at the 100th pixel) were 139 and 137 dB, respectively."
+  },
+  {
+    "question": "What programming languages and frameworks were used to develop the control software platform?",
+    "gold_answer": "C++, CUDA, and Qt",
+    "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+    "supporting_chunk": "The developed custom control programming platform is built using C++, CUDA, and Qt."
+  },
+  {
+    "question": "How does the TDM method achieve doubled effective imaging rate compared to the maximum sampling rate of a single line-scan camera?",
+    "gold_answer": "By using identical but reversed trigger sequences of 250 kHz with 50% duty cycle to each camera, capturing two continuous A-lines in one period, guaranteeing 500 kHz effective imaging rate which is twice the maximum sampling rate",
+    "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+    "supporting_chunk": "In the case of frame grabbers, identical but reversed trigger sequences of 250 kHz with 50% duty cycle were transferred to each camera to fully utilize the duty cycle without a dead time, which is called TDM in the proposed scheme. Therefore, two continuous A-lines were captured in one period of camera trigger; it guarantees 500 kHz of the effective imaging rate, which is twice faster than the maximum sampling rate of the line-scan camera."
+  },
+  {
+    "question": "What is the total inspection time required for scanning the entire OTF sample with 2000 × 2000 × 2048 pixels?",
+    "gold_answer": "8 seconds for the whole-range scanning",
+    "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+    "supporting_chunk": "Fabricated OTF sample was placed on a linear-motor stage, and we continued with the 2000 frames of B-scan with 70-μm intervals in the OTF inspection (totally, 2000 × 2000 × 2048 pixels), which consumes 8 s for the whole-range scanning of the sample."
+  },
+  {
+    "question": "What are the vacuum gap thicknesses between the layers in the OTF sample?",
+    "gold_answer": "40 μm, 20 μm, and 40 μm gaps between the layers",
+    "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+    "supporting_chunk": "Moreover, the measured total thickness of OTF was 700 μm, including the vacuum gaps between each layer, which are 40, 20, and 40 μm."
+  },
+  {
+    "question": "What is the resolution and frame rate specifications of the line-scan cameras used in the spectrometer?",
+    "gold_answer": "2048 pixels resolution (e2v OCTOPLUS, TELEDYNE e2v, U.K.)",
+    "document": "Ultrahigh-Speed_Spectral-Domain_Optical_Coherence_Tomography_up_to_1-MHz_A-Scan_Rate_Using_SpaceTime-Division_Multiplexing.pdf",
+    "supporting_chunk": "The diffracted interference signal by diffraction grating (WP-HD1800/840-50.8, Wasatch Photonics, USA) was split up by a beam splitter (BS032, Thorlabs, USA) and separately passed into two line-scan cameras with a resolution of 2048 pixels (e2v OCTOPLUS, TELEDYNE e2v, U.K.)"
+  }
+]

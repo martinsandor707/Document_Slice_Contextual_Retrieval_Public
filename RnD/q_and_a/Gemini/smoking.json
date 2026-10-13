@@ -1,0 +1,726 @@
+[
+    {
+        "question": "How do the maximum nicotine volume limits set by the Tobacco Products Directive for refillable containers compare to the acute oral toxicity estimates for a ten kilogram child?",
+        "gold_answer": "Under the Tobacco Products Directive, refill containers can hold up to 200 milligrams of nicotine. The European Chemical Agency's Committee for Risk Assessment estimates acute oral toxicity at 5 milligrams per kilogram of bodyweight, which translates to a lethal range of 65 to 130 milligrams for a 10 kilogram child. Therefore, a single refill container holds enough nicotine to exceed the lower limit of acute oral toxicity for a child of that weight.",
+        "supporting_chunks": [
+            "5920e9129f7334b70ed69e2b793c8a0b29d0ef8868b77dd3ee5cb9b036a06ce3",
+            "038679c78f389132a934c6c225a42f695e39d6790306752d192f6ed86a1b89a7"
+        ],
+        "document": "CELEX_52016DC0269_EN_TXT.pdf"
+    },
+    {
+        "question": "What specific characteristics of home blending practices risk circumventing the regulations established by the Tobacco Products Directive, and how are Member States advised to address these circumventions?",
+        "gold_answer": "Consumers can purchase 50 milliliter bottles containing 72 milligrams per milliliter of nicotine, which circumvents the Tobacco Products Directive limits that restrict liquids to 20 milligrams per milliliter and containers to a maximum of 10 milliliters. To address this, Member States are advised to strictly enforce established limits and consider regulating or limiting the sale of high-concentration or powdered nicotine intended for other purposes.",
+        "supporting_chunks": [
+            "97e09116743d52627e1de4df37e6b151402ab6266a5a07dda9250187e1d1717a",
+            "ae13f8fd4b329cbd22aeaee88ced4e1c8fd054bfd13b9683b076708638e0d0e6"
+        ],
+        "document": "CELEX_52016DC0269_EN_TXT.pdf"
+    },
+    {
+        "question": "Although the volume of liquid required to produce acute dermal toxicity in humans exceeds the legal container size, what specific measures are mandated to prevent skin exposure, and what compounds besides nicotine justify these precautions?",
+        "gold_answer": "Dermal toxicity requires 35 milliliters for a small child, which exceeds the allowed refill container size, but electronic liquids also contain compounds that act as skin irritants or sensitizers, such as propylene glycol and certain flavors. To mitigate exposure risks, regulations mandate that refill containers and devices must be child-resistant, protected against leakage, and specifically designed for leak-free refilling. Additionally, they must be sold with comprehensive instructions and health warnings regarding possible adverse effects.",
+        "supporting_chunks": [
+            "d9fb5cf8f2d9ca07c21234871569ac776c7fd95741e9fd9e75c81397f706a89c",
+            "50943f78113a7101a4ffc2788b9b038c969548d60298b4fdfc8385f167f9a855"
+        ],
+        "document": "CELEX_52016DC0269_EN_TXT.pdf"
+    },
+    {
+        "question": "How does the practice of hardware customization potentially alter the emission profile of refillable electronic cigarettes, and what specific notification requirements must manufacturers fulfill to account for the components used?",
+        "gold_answer": "Hardware customization, such as boosting devices with powerful batteries, can heat the electronic liquid to higher temperatures, which directly increases the amount of toxic emissions produced during use. Under Article 20 of the Tobacco Products Directive, manufacturers must account for this by submitting a detailed description of the device components and production processes, providing relevant toxicological data, and declaring full responsibility for the safety and quality of the products placed on the market.",
+        "supporting_chunks": [
+            "5920e9129f7334b70ed69e2b793c8a0b29d0ef8868b77dd3ee5cb9b036a06ce3",
+            "5e54d11f732e3f9655db8469988db9964cd677a7d7890e64ec8e855622aca2f0"
+        ],
+        "document": "CELEX_52016DC0269_EN_TXT.pdf"
+    },
+    {
+        "question": "Based on the findings of the PRECISE study regarding the demographics of poisoning cases, what specific educational intervention is suggested, and what percentage of the observed cases justifies this recommendation?",
+        "gold_answer": "The PRECISE study revealed that 57 percent of poisoning cases associated with electronic cigarettes involved adults over the age of 18. Because of this unexpectedly high percentage, it is suggested that national educational campaigns should be implemented to increase citizen awareness regarding the severe toxicity of electronic liquids containing nicotine.",
+        "supporting_chunks": [
+            "038679c78f389132a934c6c225a42f695e39d6790306752d192f6ed86a1b89a7",
+            "d4f865e00ce588df1a2a27721717b145152972431c8db3d1565b99811acfc637"
+        ],
+        "document": "CELEX_52016DC0269_EN_TXT.pdf"
+    },
+    {
+        "question": "While the European Commission prepares its overall report pursuant to Article 28 of the Tobacco Products Directive, what immediate mechanism allows Member States to communicate cross-border risks if a specific customized device is found to be dangerous?",
+        "gold_answer": "The Commission and Member States continuously monitor scientific evidence and market developments to inform the comprehensive report required by Article 28 of the Tobacco Products Directive. However, if an immediate danger is identified, Member States must utilize the Rapid Alert System for dangerous non-food products to notify other countries, enabling them to take the necessary localized measures to prevent the further sale of the hazardous product.",
+        "supporting_chunks": [
+            "5ae459abde10faed8e5d6a6bbbadfe2ffe51465a63e1a95bc9ac4c4f288e5c5e",
+            "f30584c72ed8e95fef7cf7ea43ac425026c7a6b051f6155a87851e8296609852"
+        ],
+        "document": "CELEX_52016DC0269_EN_TXT.pdf"
+    },
+    {
+        "question": "What are the primary health concerns surrounding the use of flavors in home-blended mixtures, and what corresponding regulatory actions are Member States empowered to take as new evidence emerges?",
+        "gold_answer": "Many flavors currently used have not been properly tested for inhalation safety, and mixing these flavors via home blending creates untested chemical combinations whose second-hand vapor health risks remain completely unknown. Consequently, Member States are advised to strictly monitor notifications and conduct ongoing research on toxicological profiles, retaining the authority to proactively prohibit certain flavors for use in electronic liquids as additional scientific evidence becomes available.",
+        "supporting_chunks": [
+            "97e09116743d52627e1de4df37e6b151402ab6266a5a07dda9250187e1d1717a",
+            "ae13f8fd4b329cbd22aeaee88ced4e1c8fd054bfd13b9683b076708638e0d0e6"
+        ],
+        "document": "CELEX_52016DC0269_EN_TXT.pdf"
+    },
+    {
+        "question": "Of the four main risks identified by the Commission regarding refillable electronic cigarettes, which risk is directly associated with the leaching of metals, and what specific action causes this issue?",
+        "gold_answer": "One of the four main risks identified by the Commission is the danger stemming from the use of untested combinations of electronic liquids and devices, alongside general hardware customization. This specific risk category encompasses the deliberate use of untested or inappropriate hardware components by the consumer, which can directly cause the chemical leaching of metals into the electronic liquid or even result in severe battery explosions.",
+        "supporting_chunks": [
+            "8f7bca6beaf04e81f4fad30e6233cbf170c58bb54733da51941edb04d699aaf6",
+            "5e54d11f732e3f9655db8469988db9964cd677a7d7890e64ec8e855622aca2f0"
+        ],
+        "document": "CELEX_52016DC0269_EN_TXT.pdf"
+    },
+    {
+        "question": "How do the European Chemical Agency's Committee for Risk Assessment estimates for the acute oral toxicity of nicotine compare to their estimates for acute dermal toxicity, and what does this imply about the primary route of poisoning based on the PRECISE study?",
+        "gold_answer": "The Committee for Risk Assessment estimates acute oral toxicity at a highly sensitive 5 milligrams per kilogram of bodyweight, which was confirmed as the primary route in 67.5 percent of the poisoning cases analyzed by the PRECISE study. In stark contrast, the estimate for acute dermal toxicity is notably higher at 70 milligrams per kilogram of bodyweight, reflecting the fact that massive liquid volumes are required to reach lethal doses through skin contact, accounting for only 10 percent of reported poisoning cases.",
+        "supporting_chunks": [
+            "038679c78f389132a934c6c225a42f695e39d6790306752d192f6ed86a1b89a7",
+            "d9fb5cf8f2d9ca07c21234871569ac776c7fd95741e9fd9e75c81397f706a89c"
+        ],
+        "document": "CELEX_52016DC0269_EN_TXT.pdf"
+    },
+    {
+        "question": "While the Commission's report deliberately avoids comparing the potential public health impacts of refillable devices to other types of electronic cigarettes, what is its final conclusion regarding the overall regulatory framework and the applicability of future research?",
+        "gold_answer": "The report specifies that it focuses solely on the particular risks of refillable devices and their containers, deliberately excluding systemic comparisons to other types of electronic cigarettes or broad public health impacts like initiation and cessation. Despite this intentionally narrow focus, the report concludes that the current regulatory framework remains adequate and proportionate, while noting that future targeted research on emissions and flavors would ultimately benefit the users of all types of devices, including disposable and rechargeable variants.",
+        "supporting_chunks": [
+            "5ae459abde10faed8e5d6a6bbbadfe2ffe51465a63e1a95bc9ac4c4f288e5c5e",
+            "e10526ed617a907f90ec113c36cb47f530571d2c4e1b00348bdc9bd725011258"
+        ],
+        "document": "CELEX_52016DC0269_EN_TXT.pdf"
+    },
+    {
+        "question": "How does the initial five-year reduction target of the Tobacco Products Directive compare to the longer-term goals set by the World Health Organization and the Europe's Beating Cancer Plan?",
+        "gold_answer": "The Tobacco Products Directive aimed for and successfully achieved a two percent reduction in tobacco consumption within its first five years; however, longer-term ambitions require significantly steeper declines, specifically targeting a thirty percent relative reduction in tobacco use by the year 2025 according to the World Health Organization, and ultimately striving for a tobacco-free generation by the year 2040 under the Europe's Beating Cancer Plan.",
+        "supporting_chunks": [
+            "1079c7dc1371ae8b27d61a92e3b1ff7b26df668c8120c32fc9b95ab84f4b2df6",
+            "8cdcc8b4ad490a8e954d4f8ed626cda06037bb7bde79bb72142e1b3d3653d283"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "Why are Heated Tobacco Products currently exempted from the ban on characterising flavours that applies to standard cigarettes, and what regulatory threshold must be met to legally remove this exemption?",
+        "gold_answer": "Heated Tobacco Products are classified as novel tobacco products, which are currently exempted from the ban on characterising flavours that applies to standard cigarettes and roll-your-own tobacco. To legally withdraw this exemption, the Commission must demonstrate a substantial change of circumstances based on objective criteria and market share thresholds, which Heated Tobacco Products have not yet reached, although they are currently the closest product category to doing so at nearly two percent of the market.",
+        "supporting_chunks": [
+            "b466c6ce6e70ee51a49226504763a5c750d6edcfac14677d5a282d0ff54083f1",
+            "27b96e1303092d802d9a93260249d151f6d674824f8133b0ba05679f50065f99",
+            "63468b54045d74c8363df2c3246fe4f94c15c7ad8d9adc294a206cd508933c24"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "What fundamental resource and operational challenges limit the regulatory effectiveness of the European Union Common Entry Gate system and the assessment of priority additives?",
+        "gold_answer": "Although the European Union Common Entry Gate successfully operates as a data repository, its utility for regulatory enforcement and policy development is severely hindered by national ownership of data, the failure of many Member States to charge handling fees, and the overall lack of a robust, fee-funded central agency. Consequently, the mechanisms for assessing ingredients and the mandatory industry reports on priority additives have proven to be extremely labor-intensive while providing very little actionable scientific information regarding the harmful effects of tobacco use.",
+        "supporting_chunks": [
+            "08024e1c0325ce078901c3050dc205d4408118ad50db250ceef73861c010f6eb",
+            "707e78d9032a611607003d654a2b25ce98abb51fce034baed317fdac1caf2ccb",
+            "b2cdaab3fcd87a3dade8c98fa5388fe1bff9daffee69e59c2621ecb50db1ff33"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "How do the chemical restrictions under the Tobacco Products Directive differentiate the European Union electronic cigarette market from the United States regarding acute lung injuries, and what long-term health risks remain documented by European scientific committees?",
+        "gold_answer": "The European Union avoided the sharp rise in acute lung injuries observed in the United States because the Tobacco Products Directive strictly restricts certain additives, specifically banning the inclusion of vitamins like vitamin E acetate in nicotine-containing liquids. Despite avoiding this acute outbreak, the Scientific Committee on Health and Environmental Risks identified moderate evidence that electronic cigarettes cause local irritative damage to the respiratory tract and cardiovascular system, alongside strong evidence that product flavours actively encourage smoking initiation among young people.",
+        "supporting_chunks": [
+            "1681e36b95c1b571c2d68cba9a7ac14a217a360de642f429031d736ef081c70a",
+            "3469e4f3a2d5d3ffa4b5e962de7251a4c0bb59424b0d6d3aac5d1551adcd0875"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "While the Tobacco Products Directive standardizes packaging by mandating combined health warnings, how have several Member States utilized Article 24 to implement even stricter product presentation rules, and what internal market challenges does this create?",
+        "gold_answer": "Although the Directive standardized packaging by mandating that combined health warnings cover sixty-five percent of both the front and back surfaces, eight Member States utilized Article 24 to introduce standardized plain packaging requirements justified by public health considerations. While these measures strip away promotional elements and align with international guidelines, the differing formats between Member States can potentially create obstacles that distort the free movement of goods within the internal market.",
+        "supporting_chunks": [
+            "5adfc89b9fceadf147a699e8b4d7e24552f37d30f61cc309b9b40c920f52c057",
+            "ac8b8f333a9aff561929da16f9cf1478946243e2ca5d6330c8920dc50f74c722"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "What are the primary structural components of the European Union traceability system for tobacco products, and what specific operational deficiencies currently limit its effectiveness in combating illicit supply chains?",
+        "gold_answer": "The European Union traceability system utilizes unique identifiers issued by state-controlled entities or contracted private companies, combined with primary data repositories funded by the industry and a central secondary repository operated by an independent provider. While the system successfully processes billions of supply chain logistics messages, its full operational potential for enforcement is currently compromised by persistent data quality issues, specifically inaccurate information regarding value-added tax numbers, production machines, and the final movements of products to retail outlets.",
+        "supporting_chunks": [
+            "3be877bdd3f03ae2c22084efc0521f20f436b2d67feecdb292eca40dbca74a0f",
+            "1697d3bd940ba7c0275705ad1e894a3079996a93667dbd139f283c13a980e8ab",
+            "9d819792e4931a22e8f630b9fbd9e5fbd954b27ca533a8d28ff044725983cdd3"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "What is the current scientific consensus regarding the International Organization for Standardization methods used to measure tar, nicotine, and carbon monoxide emissions, and how has this impacted regulatory modifications?",
+        "gold_answer": "International regulatory bodies and scientific experts agree that no current machine smoking regime, including the mandated International Organization for Standardization methods, adequately replicates actual human smoking behavior, largely due to interference from variables like filter ventilation. However, because there have been no new scientific or technical developments that provide a viable alternative or warrant a modification, the technical discussions remain inconclusive and the European Union has not mandated a change to the prescribed emission measurement methods.",
+        "supporting_chunks": [
+            "dee92dac54f9f8879310a3410f8e7e37c086c27e6f1de1bc49c9027a2901d63b",
+            "b2cdaab3fcd87a3dade8c98fa5388fe1bff9daffee69e59c2621ecb50db1ff33"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "What specific technological vulnerabilities and jurisdictional barriers compromise the enforcement of cross-border distance sales regulations for tobacco products within the European Union?",
+        "gold_answer": "The enforcement of cross-border distance sales restrictions is fundamentally undermined by ineffective age verification protocols, with approximately eighty percent of reviewed retailers relying solely on weak self-reporting systems that are easily circumvented by underage consumers. Furthermore, competent authorities face significant jurisdictional and technical barriers when attempting to monitor compliance and shut down the websites of unregistered retailers whose internet servers are hosted outside of the European Union.",
+        "supporting_chunks": [
+            "65da99839189be9bab202794d5edc52e009e832a88b5a06790f05bd3634c867d",
+            "736b20377ef843a6cebfd73e307f3e6f187cc430f8f8852a4a2a63bcfc341a49"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "How do manufacturers circumvent existing European Union bans on smokeless tobacco and subvert smoke-free environment laws by exploiting the definitions of product categories like snus and novel tobacco devices?",
+        "gold_answer": "Manufacturers actively exploit the date-based definitions and combustion principles outlined in the Directive by presenting banned oral tobacco products, such as snus, as legal chewing tobacco to gain market access outside of Sweden. Similarly, because novel Heated Tobacco Products are sometimes classified as smokeless due to a lack of a traditional combustion process, manufacturers can circumvent existing smoke-free environment laws that were historically drafted specifically to regulate combustible tobacco products for smoking.",
+        "supporting_chunks": [
+            "be232374a1b3418c6fe4c6618b4d1555ce9f883e65ff8c3032c8a74903144301",
+            "b466c6ce6e70ee51a49226504763a5c750d6edcfac14677d5a282d0ff54083f1"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "What specific chemical concerns and regulatory ambiguities exist concerning the inclusion of cannabis-derived compounds in herbal products for smoking and electronic cigarette liquids?",
+        "gold_answer": "The current European Union regulatory framework lacks clarity regarding the rapid introduction of new products, particularly concerning the legal regulation of synthetic cannabidiol or cannabis extracts used within electronic cigarette liquids. Additionally, there are profound legal concerns that herbal products marketed as containing cannabidiol may inadvertently contain tetrahydrocannabinol, a psychoactive substance strictly controlled under international psychotropic conventions, currently leaving the oversight of these complex chemical extracts entirely to national level authorities.",
+        "supporting_chunks": [
+            "fcbe9da7989d9b64a2af33f2431d232d063fac139d8ccc488dbcaf8540b6ca31",
+            "80239d823f6783a613797137024303b76a968146a5c6b6f910b713871fda891e"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "What underlying structural and resource barriers prevent the European Union Common Entry Gate system from reaching its full regulatory potential, and what broader conclusion does the Commission draw regarding the efficiency of the provisions regulating ingredients?",
+        "gold_answer": "The European Union Common Entry Gate is hindered by the national ownership of data, the failure of many Member States to share data or charge handling fees, and the substantial costs required simply to maintain the data repository rather than analyze it. Consequently, the Commission concludes that the massive effort and resources invested by Member States to implement Articles 3 through 7 yield negligible effective added value for human health, indicating that the harmonized assessment system must be redesigned to be more robust and less labor-intensive.",
+        "supporting_chunks": [
+            "08024e1c0325ce078901c3050dc205d4408118ad50db250ceef73861c010f6eb",
+            "b2cdaab3fcd87a3dade8c98fa5388fe1bff9daffee69e59c2621ecb50db1ff33"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "Following the initial eighteen infringement proceedings related to late or incomplete transposition of the Directive, what systemic hurdles continue to prevent the Commission from obtaining a perfectly uniform enforcement landscape across the internal market?",
+        "gold_answer": "Although the initial infringement cases were closed, the Commission's ongoing conformity checks revealed systemic deficiencies and variations in how Member States transposed complex provisions and specific product definitions into national law. Furthermore, the Commission's ability to monitor and correct these disparities is severely restricted because enforcement capacities vary considerably among Member States and the current legislative framework lacks a legal basis for conducting comprehensive European Union-level audits.",
+        "supporting_chunks": [
+            "dbd0df2a128b98a49ebe80af1832f5bae0261a13a3f8005f917503144a475993",
+            "3a68bd4bf76eea2b2e1e11722040b88f6939c37867d03c6b73738c2b4be10676"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "How does the ambiguous regulatory classification of Heated Tobacco Products shield them from the ban on characterizing flavors, and what specific market condition must be satisfied to legally revoke this exemption?",
+        "gold_answer": "Heated Tobacco Products are classified as novel tobacco products, which allows regulators to apply either smokeless or smoking product rules based on ambiguous combustion definitions, thereby exempting them from the strict characterizing flavor bans applied to traditional cigarettes. To legally revoke this flavor exemption, the Commission must establish a substantial change of circumstances based on specific market thresholds; currently, Heated Tobacco Products have not triggered this clause, although they are the closest category to doing so with a market share approaching two percent.",
+        "supporting_chunks": [
+            "b466c6ce6e70ee51a49226504763a5c750d6edcfac14677d5a282d0ff54083f1",
+            "27b96e1303092d802d9a93260249d151f6d674824f8133b0ba05679f50065f99"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "In what ways do manufacturers manipulate product definitions to bypass the prohibition on oral tobacco products outside of Sweden, and how does the Directive currently fail to capture similar emerging alternatives?",
+        "gold_answer": "Manufacturers actively circumvent the established ban on oral tobacco, commonly known as snus, by explicitly presenting and marketing snus-like items as legal chewing tobacco or chewing bags to exploit regulatory loopholes outside of Sweden. Additionally, the existing date-based definitions within the Directive fail to capture entirely new emerging alternatives, such as oral nicotine pouches that contain no tobacco but heavily resemble banned oral products, leaving them unregulated as consumer goods.",
+        "supporting_chunks": [
+            "be232374a1b3418c6fe4c6618b4d1555ce9f883e65ff8c3032c8a74903144301",
+            "b466c6ce6e70ee51a49226504763a5c750d6edcfac14677d5a282d0ff54083f1"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "While the Commission utilizes a resource-intensive Independent Advisory Panel to enforce flavor bans in traditional combustible products, what parallel scientific evidence demonstrates the danger of unregulated flavors in the electronic cigarette market?",
+        "gold_answer": "The Commission relies on an Independent Advisory Panel and a technical group of sensory assessors to identify and ban characterizing flavors like menthol in conventional tobacco products, an operation that has proven to be highly cumbersome and resource-intensive. Concurrently, the Scientific Committee on Health and Environmental Risks has found strong evidence that unregulated non-traditional flavors in electronic cigarettes, specifically candy and fruit profiles, directly drive youth initiation by artificially decreasing harm perception and increasing attractiveness.",
+        "supporting_chunks": [
+            "63468b54045d74c8363df2c3246fe4f94c15c7ad8d9adc294a206cd508933c24",
+            "1681e36b95c1b571c2d68cba9a7ac14a217a360de642f429031d736ef081c70a"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "How do the technical ambiguities surrounding the minimum dimensions and shapes of unit packets complicate the implementation of combined health warnings, and what comprehensive packaging strategy have several Member States adopted to eliminate these promotional vulnerabilities?",
+        "gold_answer": "The implementation of the mandatory sixty-five percent combined health warnings is complicated by varying interpretations of the ban on slim cuboid packages less than 20 millimeters deep, as well as unresolved calculation methodologies for surface areas on packs featuring custom bevelled or rounded edges. To completely neutralize these physical promotional elements and ensure maximum visibility of health warnings, eight Member States utilized Article 24 to successfully implement fully standardized plain packaging, a measure verified as consistent with international trade law.",
+        "supporting_chunks": [
+            "5adfc89b9fceadf147a699e8b4d7e24552f37d30f61cc309b9b40c920f52c057",
+            "ac8b8f333a9aff561929da16f9cf1478946243e2ca5d6330c8920dc50f74c722"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "What parallel failures in digital enforcement and data tracking currently allow illicit or unverified tobacco products to reach European consumers despite the establishment of registration lists and supply chain monitoring?",
+        "gold_answer": "Enforcement is severely compromised at the consumer level because cross-border distance sales utilize easily circumvented self-reporting age verification tools and unregistered digital retailers operating on foreign servers that authorities struggle to shut down. Parallel to this retail blind spot, the official European Union traceability system simultaneously suffers from critical data quality deficiencies regarding the final logistical movements of products to retail outlets and the accuracy of value-added tax numbers, allowing gaps in the supply chain oversight.",
+        "supporting_chunks": [
+            "65da99839189be9bab202794d5edc52e009e832a88b5a06790f05bd3634c867d",
+            "1697d3bd940ba7c0275705ad1e894a3079996a93667dbd139f283c13a980e8ab"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "Why does the rapid introduction of cannabidiol extracts into the electronic cigarette market pose a critical risk to consumers, and how do the current limitations of the European Union Common Entry Gate system exacerbate this regulatory blind spot?",
+        "gold_answer": "The influx of cannabidiol extracts poses a significant risk because these emerging electronic cigarette liquids may inadvertently contain tetrahydrocannabinol, a heavily controlled psychotropic substance, while remaining legally ambiguous under the current definitions for herbal smoking products. This chemical risk is greatly exacerbated by the European Union Common Entry Gate, which acts merely as a passive data repository and lacks the necessary funding, personnel, and robust European assessment mechanisms to proactively analyze the complex toxicological profiles of these submitted ingredients.",
+        "supporting_chunks": [
+            "fcbe9da7989d9b64a2af33f2431d232d063fac139d8ccc488dbcaf8540b6ca31",
+            "08024e1c0325ce078901c3050dc205d4408118ad50db250ceef73861c010f6eb"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "How do technical limitations in measuring standardized smoke yields intersect with the failures of the priority additives reporting system to obscure the true toxicological impact of combustible tobacco products?",
+        "gold_answer": "The true exposure risks of combustible products are obscured because current mandated machine measurements fail to account for human behaviors like covering filter ventilation holes, which dynamically alters the yield of tar, nicotine, and carbon monoxide during actual use. This mechanical measurement failure is compounded by the fact that industry-submitted reports on priority additives failed to provide actionable scientific data confirming whether specific chemicals contribute to the toxicity of the product when exposed to combustion and inhalation.",
+        "supporting_chunks": [
+            "dee92dac54f9f8879310a3410f8e7e37c086c27e6f1de1bc49c9027a2901d63b",
+            "707e78d9032a611607003d654a2b25ce98abb51fce034baed317fdac1caf2ccb"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "While the fundamental European Union ban on certain additives protected consumers from specific acute lung injuries, how do individual Member States address the remaining unharmonized dangers of the electronic cigarette market?",
+        "gold_answer": "The foundational rules of the Tobacco Products Directive successfully protected European consumers from the acute lung injury outbreaks seen in the United States by strictly prohibiting the inclusion of vitamins, such as vitamin E acetate, in nicotine-containing electronic liquids. However, because the overarching Directive does not cover all aspects of these devices, individual Member States proactively utilize notification procedures to independently introduce national laws that ban specific electronic cigarette flavors and regulate unharmonized items like nicotine-free liquids.",
+        "supporting_chunks": [
+            "1681e36b95c1b571c2d68cba9a7ac14a217a360de642f429031d736ef081c70a",
+            "9ff6b8b687dbd123cd6c628e7d57e4701044be76df69294b95fb56074c1a4426"
+        ],
+        "document": "CELEX_52021DC0249_EN_TXT.pdf"
+    },
+    {
+        "question": "How did the recruitment demographics of the selected sensory panel compare to their final performance assessment parameters following their training program?",
+        "gold_answer": "The selected sensory panel was composed of 34 individuals with a gender split of 73.5 percent female and 26.5 percent male, averaging 42.5 years of age. Following their intensive training program, the performance of the group in tests comprising approximately 200 samples yielded an average score of 97.3 percent, demonstrating the efficacy of the recruitment and screening techniques.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "20070a495c20847d24edf645ea02a528f29123539cfda17897e734281c330c6f",
+            "66ec095cdd10330edde7c2e2cc143f7fe77d53aa128f3ed7d22945410bcaa975"
+        ]
+    },
+    {
+        "question": "What legally defined event triggered the inclusion of Heated Tobacco Products into the characterising flavour assessment methodology, and how is this product category officially defined?",
+        "gold_answer": "A substantial change of circumstances was triggered when a 2022 Commission Report indicated that the sales volume of Heated Tobacco Products had increased by more than 10 percent in 10 Member States, accounting for 3.33 percent of the total sales volume. A Heated Tobacco Product is officially defined as a novel tobacco product that is heated to produce an emission containing nicotine and other chemicals for inhalation, acting as either a smokeless product or a product for smoking depending on its characteristics.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "ff15b553ead5cf0b27e885e6af5bf929039b51b49e9f6b3b03f4606d92cdda57",
+            "e2503e81faf73aa58b5731882f6a0e51bae1475400df69a63693fb0faecd4d00"
+        ]
+    },
+    {
+        "question": "How is the risk of a false negative result managed during the descriptive profiling phase of the sensory assessment?",
+        "gold_answer": "A false negative occurs when a sample that truly has a characterising flavour is incorrectly classified as negative. To minimize this risk during descriptive profiling, a screening process is used where any product possessing an attribute not originating from tobacco among its top 10 highest odour intensities is mandated to undergo additional sensory assessment through rank-rating.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "86b22fc3919bb3fc3360f7a411e8f59643cdcb63a3c9b8c19128cba91358f122",
+            "1a4e1b62b877aa9372f8d8213efa83d4efaed0c1693dd7f36a855d541a6cba1c"
+        ]
+    },
+    {
+        "question": "During sample preparation for descriptive profiling, how are tobacco samples physically standardized, and how are these standardized results subsequently evaluated for variance across the reference products?",
+        "gold_answer": "Tobacco samples are ground and standardized by filling gelatin capsules with 0.35 grams of ground tobacco, or an equivalent volume for Heated Tobacco Products, to ensure consistency. The descriptive profiling data generated from these standardized samples is then evaluated for variance using Principal Component Analysis, where the first principal component accounted for 25.2 percent of the variation for boxed cigarettes and 25.7 percent for roll-your-own tobacco.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "61bf86a5b156b4b843c32f7825eb9a0a2e565203c14d1264cee9d71ba45dd45d",
+            "50415a5ffba9ed0603426e4cb149b93484aafe47f4b7de1f4efdc1254342643c"
+        ]
+    },
+    {
+        "question": "What is the specific sequence of temperature control applied to test tobacco products upon their initial receipt and immediately prior to physical sample preparation?",
+        "gold_answer": "Upon receipt, products are logged, sealed in plastic-lined aluminum foil zip-lock bags, and transferred to a cold storage facility maintained at 5 to 7 degrees Celsius. Prior to physical sample preparation and sensory testing, the products are removed from cold storage and attemperated to 20 degrees Celsius in their bags within a temperature-controlled environment for one to two hours.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "ec5e55de15284846f7b9462be1aa23b4b35d20fcc27b0f74503705847bc3c7c3",
+            "61bf86a5b156b4b843c32f7825eb9a0a2e565203c14d1264cee9d71ba45dd45d"
+        ]
+    },
+    {
+        "question": "What method-specific training techniques are utilized to teach sensory assessors how to evaluate the presence of specific odour descriptors, and how do they consolidate this knowledge?",
+        "gold_answer": "Assessors utilize method-specific training techniques such as the Check All That Apply test to mark the presence or absence of specific descriptors, and the Check Five That Apply test to identify the five most intense descriptors from a list of 51 options. They consolidate the recognition skills learned in these sessions by participating in True-False training tests, where they must verify if a specific descriptive statement about a sample is accurate.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "3fe50f6860b413f1d479215973fb6ef8aa2d0fa2eba3ee3eb8fc54cbfc8977ab",
+            "9f51d2007e97059662adbaf55bbbc78358b801f29c3054adedb483087daa6ec3"
+        ]
+    },
+    {
+        "question": "How does the two-stage rank-rating evaluation process integrate with the established cutoff limits to determine if a product has a clearly noticeable flavour?",
+        "gold_answer": "In the rank-rating process, assessors first physically rank the relative intensity of a composite odour among samples, and then rate that intensity on a scale of 0 to 10. A permutation test is subsequently used to compare the mean intensity of the characterising odour in the test product against specific cutoff limits of 1.8 for boxed cigarettes or 2.5 for roll-your-own and Heated Tobacco Products to determine if the flavour is clearly noticeable.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "80b833c646f8a549b5439244a97b33ca26373fc9e5415229f4724de6dfb90d7c",
+            "ae02281e5221ed329315c4c68c244bdb2f9ade29764b6c44a3cea1bc840adfb6"
+        ]
+    },
+    {
+        "question": "How did the sampling strategy combine Euromonitor market data with the Common Entry Gate registry to establish the initial lists of reference products?",
+        "gold_answer": "The sampling strategy utilized Euromonitor Passport data to oversample top market products, noting that the top 10 selling products cover roughly 70 percent of a Member State market, while the Common Entry Gate registry was used to sample niche products not among the top sellers. Products flagged in the Common Entry Gate as containing a characterising flavour by the industry were subsequently removed from the initial random sampling list of 150 boxed and 75 roll-your-own products to generate a refined second list.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "f810a31ccd3d86db0af8650011a07426c3d787aaaf391b4be8a6d42ead7ef283",
+            "bf8e4de3837e2881cb20db82c4fa18ff35885459baa11812c1c716836a70d0b7"
+        ]
+    },
+    {
+        "question": "Why were non-commercial tobacco products acquired from the University of Kentucky, and how are reference products conceptually integrated into rank-rating mixtures?",
+        "gold_answer": "Four non-commercial reference tobacco products containing no additives were obtained from the University of Kentucky to serve as well-characterized baselines and were blind-coded with routine test samples. During rank-rating, such known reference tobacco products with no characterising odour are mixed with the test sample in specific proportional ratios, such as 75 percent reference to 25 percent test sample, to avoid expectation bias among assessors.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "e03d7bc9a79e323eef7e094556f20fb66b75b8eef6ba702d9995dfd9d3f9ccd7",
+            "36feeee929e02d0bc8a6a3b13909131ef305c097e3ea9cbe40adbd9dc9ac6f1b"
+        ]
+    },
+    {
+        "question": "What manual filtering process was applied to the initial pool of Heated Tobacco Products, and how did this affect the final geographic distribution of the tested samples?",
+        "gold_answer": "An initial pool of roughly 50 Heated Tobacco Products was manually filtered by checking company websites and intentionally removing products with crushable flavour capsules or those boasting evident tastes like berry or menthol to create a reference space devoid of characterising flavours. This purposive sampling resulted in a final list of 27 Heated Tobacco Products purchased from 4 Member States, which effectively covered market outreach across 24 European Union Member States.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "00a4f3c92a344c18abd49539b6d7c858c1648e46b9001b4ccb21ddbe132cb4a6",
+            "3d31530c03424cee7cde408e90ac6de433fdf68b5e091736d77912573a866c33"
+        ]
+    },
+    {
+        "question": "How is the descriptive profiling evaluation structured concerning the number of assessors and replicates, and what environmental constraints are placed on the assessors during these sessions?",
+        "gold_answer": "Descriptive profiling is conducted by twelve trained sensory assessors who evaluate each blind-coded test sample in triplicate, generating 36 individual data points per sample across 51 core attributes. During these sessions, assessors are strictly prohibited from bringing personal effects, food, or drink into the suite, must refrain from wearing scented products, and are provided a 10-minute break between evaluations.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "b4006357111f7d58b30ea71328ec9a1f790defd0ff60e3bec3a2f378bbe35a00",
+            "2a09da3ed74d08b0332140624b6b2c2f0d3a6b198141bf18a1ded42a317dbfbe"
+        ]
+    },
+    {
+        "question": "When sensory descriptions require chemical verification, which specific databases are consulted, and what elementary analytical parameters are used to validate the subsequent quantitative method?",
+        "gold_answer": "Chemical verification involves consulting databases such as the Leffingwell Flavour Database, which contains over 4000 descriptions of flavouring materials, and the Good Scents Company Information System. The subsequent quantitative chemical method applied to measure the identified target compounds must be validated based on elementary analytical parameters including linearity, limits of detection, limits of quantification, precision, recovery, and carryover effect.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "668a78de662832b81164167a35258b915782a47c5d7465be666a88815e5ee721",
+            "c42ac654eb29d32d143dc0591ee449835067405a38262b29b6f70550d58b404d"
+        ]
+    },
+    {
+        "question": "How does the regulatory definition of a characterising flavour translate into the specific statistical cutoffs utilized in the rank-rating permutation test?",
+        "gold_answer": "Directive 2014/40/EU defines a characterising flavour as a clearly noticeable smell or taste other than one of tobacco resulting from an additive. Because 'clearly noticeable' lacks formal sensory meaning, it is statistically defined in the rank-rating permutation test by comparing the mean intensity of the characterising odour against strict cutoff limits of 1.8 for boxed cigarettes or 2.5 for roll-your-own and Heated Tobacco Products.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "ff15b553ead5cf0b27e885e6af5bf929039b51b49e9f6b3b03f4606d92cdda57",
+            "ae02281e5221ed329315c4c68c244bdb2f9ade29764b6c44a3cea1bc840adfb6"
+        ]
+    },
+    {
+        "question": "What specific anatomical pathway is targeted by the chosen sensory methodology, and how is this reflected in the defined terminology for the assessments?",
+        "gold_answer": "The chosen sensory methodology exclusively targets the orthonasal pathway, meaning smelling up the nose prior to smoking, rather than evaluating retronasal olfaction or mouthfeel. Consequently, the defined terminology for the testing is strictly confined to 'odour' characteristics rather than taste, reflecting the impact of specific chemical compounds solely on the human olfactory system prior to combustion.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "64cf55543db79e7d9922a3c268d6f6636e40091a63bad9f1615d29db37f30d3e",
+            "e2503e81faf73aa58b5731882f6a0e51bae1475400df69a63693fb0faecd4d00"
+        ]
+    },
+    {
+        "question": "Which specific odour attributes are theorized to derive from lipid oxidation during tobacco curing, and which unique attribute was discovered solely during the evaluation of Heated Tobacco Products?",
+        "gold_answer": "Odour attributes such as cardboard, cucumber, freshly cut grass, and hay are theorized to derive from the oxidation of lipids in tobacco leaves during the curing process. In contrast, the unique attribute of bacon was not linked to traditional tobacco curing but was discovered as an additional odour solely during the assessment of Heated Tobacco Product samples.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "37708146150cfbf0246c4e677e6104f645a6175884ab77abe9d2d988125023de",
+            "34546e1b13987aaaa4a87054cf825b82a72f9df167749acc021ce9eca2c1cd36"
+        ]
+    },
+    {
+        "question": "How do the storage temperature protocols differ between samples prepared for initial sensory evaluation versus those awaiting chemical analysis?",
+        "gold_answer": "Samples prepared for initial sensory evaluation are sealed in plastic-lined aluminum foil zip-lock bags and stored in a cold storage facility maintained between 5 and 7 degrees Celsius. Conversely, samples designated for chemical analysis are placed in a refrigerator upon arrival and are only removed 1 to 2 hours before being transferred into vials to reach ambient temperatures.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "ec5e55de15284846f7b9462be1aa23b4b35d20fcc27b0f74503705847bc3c7c3",
+            "a582601a5137dbd8c259d75e63d07b0b1e2189af11bf864560f1d5452096149c"
+        ]
+    },
+    {
+        "question": "How is a composite flavour formulated for rank-rating evaluation, and how is the specific term for this construct determined prior to testing?",
+        "gold_answer": "A composite flavour is formulated by combining the effects of multiple different attributes into a single perceivable profile, such as a 'mint chocolate' composite comprising spearmint, peppermint, burnt sugar, vanilla, and dark chocolate. The specific construct odour term used to evaluate this composite must be agreed upon by the sensory panel by consensus in advance of the rank-rating evaluation.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "e2503e81faf73aa58b5731882f6a0e51bae1475400df69a63693fb0faecd4d00",
+            "c81256a1ce4b519fd957f90701b1ef271fd4ff7ffa781ea07eba552b199daff2"
+        ]
+    },
+    {
+        "question": "What statistical techniques are applied to calculate the variation between the test product and reference products in descriptive profiling, and how is the robustness of the resulting multivariate space tested?",
+        "gold_answer": "An Analysis of Variance is utilized to calculate the Least Significant Difference between attribute intensities of the test and reference products to determine statistical variance. The robustness of the multivariate space generated by projecting these products into a Principal Component Analysis is subsequently tested using a Monte Carlo approach to simulate data sets and assess both assessor response impact and product sample impact.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "1a4e1b62b877aa9372f8d8213efa83d4efaed0c1693dd7f36a855d541a6cba1c",
+            "50415a5ffba9ed0603426e4cb149b93484aafe47f4b7de1f4efdc1254342643c"
+        ]
+    },
+    {
+        "question": "Why was a mentholated boxed cigarette removed from the final testing list, and how does this relate to the definition of a false positive?",
+        "gold_answer": "A mentholated boxed cigarette was removed from the final list because, despite being declared by the importer in the EU CEG database as not having a characterising flavour, sensory testing confirmed it possessed a clearly noticeable mentholated odour. If this product had been retained as a reference product, it could have contributed to a false positive scenario where a truly negative sample is incorrectly evaluated as having a characterising flavour due to a skewed reference baseline.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "23422e5f0e25122830771663b2064a86d95228f2236f915de19e0b7eacca647d",
+            "86b22fc3919bb3fc3360f7a411e8f59643cdcb63a3c9b8c19128cba91358f122"
+        ]
+    },
+    {
+        "question": "What instrumental chemical analysis is recommended to complement expert sensory evaluation, and what specific full-scan procedure is executed if initial database queries are inconclusive?",
+        "gold_answer": "The HETOC report recommended combining expert sensory panels with highly sensitive chemical analysis methods like gas chromatography-mass spectrometry. If initial database queries are inconclusive regarding an identified odour, a full-scan chemical profile of the volatile fraction is created using headspace solid-phase microextraction gas chromatography-mass spectrometry to detect compounds and compare them against digital mass spectral libraries.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "d7669097ec85bfd6cf6dde7e9288f8f5b64bdab19f8b39f29298a7b7b44d7ca6",
+            "668a78de662832b81164167a35258b915782a47c5d7465be666a88815e5ee721"
+        ]
+    },
+    {
+        "question": "Which specific aroma chemical is responsible for the 'Violet' attribute, and what natural breakdown process in tobacco leaves generates this compound?",
+        "gold_answer": "The aroma chemical beta-Ionone is responsible for the 'Violet' attribute, which acts alongside descriptors like freesia and rose water. This specific odour compound is theorized to derive directly from the chemical breakdown of carotenoid pigments in the tobacco leaves during the curing process.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "c09b13d1d88baee3affdb882403fbeb1e2c60ab536b6c12bb310b814a4d735d6",
+            "37708146150cfbf0246c4e677e6104f645a6175884ab77abe9d2d988125023de"
+        ]
+    },
+    {
+        "question": "How does the physical preparation of Heated Tobacco Product samples differ in material volume compared to boxed cigarettes, and how many units are required to compensate for this difference?",
+        "gold_answer": "Because the tobacco material in Heated Tobacco Products is of very low density, rather than using a fixed 0.7 gram weight per vial, a quantity is applied that occupies the same volume as 0.7 grams of typical cigarette tobacco. To compensate for this lower quantity of tobacco per stick, a larger number of units, specifically 8 boxes of 20 sticks, must be purchased for triplicate testing compared to the 4 boxes required for standard cigarettes.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "61bf86a5b156b4b843c32f7825eb9a0a2e565203c14d1264cee9d71ba45dd45d",
+            "ec5e55de15284846f7b9462be1aa23b4b35d20fcc27b0f74503705847bc3c7c3"
+        ]
+    },
+    {
+        "question": "During sensory evaluation, what score must assessors assign to absent attributes, and how is the protocol handled if they detect an unlisted odour?",
+        "gold_answer": "Assessors are strictly instructed to assign a score of zero to attributes which are absent from individual samples. However, if they detect an unexpected odour not among their trained vocabulary, they are permitted to add this new attribute to their response form by noting its presence and intensity, which is considered within the context of the product assessment without altering the overarching procedure.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "64cf55543db79e7d9922a3c268d6f6636e40091a63bad9f1615d29db37f30d3e",
+            "b4006357111f7d58b30ea71328ec9a1f790defd0ff60e3bec3a2f378bbe35a00"
+        ]
+    },
+    {
+        "question": "How many core odour descriptors were utilized during the initial training of the sensory panel, and what additional attributes were introduced specifically for evaluating Heated Tobacco Products?",
+        "gold_answer": "The sensory panel initially utilized a core list of 51 odour descriptors during their method-specific training and descriptive profiling sessions. For the evaluation of Heated Tobacco Products, the total attribute list was expanded to 54 by incorporating three additional specific odours: bacon, blackcurrant, and eucalyptus.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "4b9a5ed7d397e8e3443182ebb0a423d9ce22d1ac7d06a170230efb35ef51350b",
+            "50415a5ffba9ed0603426e4cb149b93484aafe47f4b7de1f4efdc1254342643c"
+        ]
+    },
+    {
+        "question": "What is the primary function of the Independent Advisory Panel, and how do they incorporate the final output provided by the Technical Group?",
+        "gold_answer": "The Independent Advisory Panel is established to assist Member States and the Commission by issuing opinions on whether a tobacco product possesses a characterising flavour. In forming these opinions, the panel relies on a comprehensive test assessment report prepared by the Technical Group, which merges the outcomes of sensory analyses complemented by targeted chemical analysis data.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "33ecc39111bc9b0a307680246811c543e674da3d4bf8cd3d1fb6455d990d91e7",
+            "1e7fb4ae0ace0a15659f5e3a0d626e9af0ef938cd6b921afa7da282a9ddc5f8a"
+        ]
+    },
+    {
+        "question": "Who is responsible for executing the assessor training, and what international standards governed the design of this 15-day training program?",
+        "gold_answer": "The assessor training is executed by a trained sensory panel leader, acting alongside a qualified assistant, who is professionally capable of teaching the panel to generate reliable data. The 15-day training program they designed and delivered was strictly compliant with the guidance contained in international standards ISO 8586:2012 and ISO 5496:2006.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "e2503e81faf73aa58b5731882f6a0e51bae1475400df69a63693fb0faecd4d00",
+            "ce60fcc01c85ae202deff8b41ee78e4c0f263284dbb38687b8e46d22688e7e8e"
+        ]
+    },
+    {
+        "question": "What identical containment protocol is utilized to preserve sample integrity prior to both sensory preparation and chemical analysis?",
+        "gold_answer": "To preserve sample integrity across testing paradigms, the tobacco products are consistently placed in plastic-lined aluminum foil zip-lock bags and heat-sealed immediately upon receipt. These products remain sealed in these bags during cold storage and throughout the attemperation process until they are actively extracted for placement into vials for sensory testing or chemical analysis.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "ec5e55de15284846f7b9462be1aa23b4b35d20fcc27b0f74503705847bc3c7c3",
+            "a582601a5137dbd8c259d75e63d07b0b1e2189af11bf864560f1d5452096149c"
+        ]
+    },
+    {
+        "question": "How does the required quantity of prepared sample vials differ between rank-rating evaluation and descriptive profiling triplicate testing?",
+        "gold_answer": "For rank-rating evaluation, the preparation procedure requires thirty capsules of ground tobacco to fill fifteen distinct vials for each test sample to be evaluated in triplicate. In contrast, the descriptive profiling test protocol requires a larger volume, mandating forty-two prepared vials containing two capsules each to satisfy the 36 necessary triplicate samples plus a margin for contingency.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "36feeee929e02d0bc8a6a3b13909131ef305c097e3ea9cbe40adbd9dc9ac6f1b",
+            "61bf86a5b156b4b843c32f7825eb9a0a2e565203c14d1264cee9d71ba45dd45d"
+        ]
+    },
+    {
+        "question": "During rank-rating, how are the varying proportions of reference and test mixtures mathematically correlated with assessor perception to determine a characterising flavour?",
+        "gold_answer": "Assessors evaluate sensory intensity across a series of prepared mixtures, such as a 50 percent reference tobacco and 50 percent test sample blend. A line of best fit is calculated for these evaluations, and the coefficient of determination is extracted to model the relationship between the physical proportion of the test sample in the mixture and the average corrected odour intensity perceived by the panel.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "36feeee929e02d0bc8a6a3b13909131ef305c097e3ea9cbe40adbd9dc9ac6f1b",
+            "ae02281e5221ed329315c4c68c244bdb2f9ade29764b6c44a3cea1bc840adfb6"
+        ]
+    },
+    {
+        "question": "Why does the top 10 screening phase tolerate a higher rate of false-positive classifications during descriptive profiling?",
+        "gold_answer": "A false positive occurs when a negative sample is incorrectly identified as having a characterising flavour. The top 10 screening process deliberately accepts a reasonable incidence of these false-positive results in order to aggressively minimize the risk of false-negative errors while simultaneously avoiding the unnecessary analytical burden of subjecting every single tested product to the rigorous rank-rating phase.",
+        "document": "methodology_technical-assessment_test-products_en.pdf",
+        "supporting_chunks": [
+            "86b22fc3919bb3fc3360f7a411e8f59643cdcb63a3c9b8c19128cba91358f122",
+            "1a4e1b62b877aa9372f8d8213efa83d4efaed0c1693dd7f36a855d541a6cba1c"
+        ]
+    },
+    {
+        "question": "How does the complexity of national legislation impact the enforcement of smoking bans in the hospitality sector, and what is the documented range of financial penalties applied to non-compliance across Member States?",
+        "gold_answer": "Complex legislation containing numerous exemptions leads to divergent interpretations and makes compliance monitoring virtually impossible, as evidenced by a German survey regarding bars and restaurants. To enforce these varying laws, all Member States utilize sanctions, typically fines, which range from a minimum of fourteen euros for individuals in Latvia to a maximum of ten thousand euros for repeated business violations in Austria and Greece.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "862ae92b0582e49ca923116c5bb8cbcb479537b3c89a7e0fcf511a589fca01df",
+            "f2072f0781518fed650eb07459739947c4545c6ca087a1f144c8ef84b1de1890"
+        ]
+    },
+    {
+        "question": "Which Member States are recognized for implementing the most comprehensive smoke-free legislation within the hospitality sector, and how did similar legislative amendments demonstrably impact recent overall exposure rates in specific European countries?",
+        "gold_answer": "The most far-reaching smoke-free legislation within enclosed workplaces and public places, including the hospitality sector, is enforced in Hungary, Bulgaria, Spain, Ireland, the United Kingdom, Malta, Greece, the Former Yugoslav Republic of Macedonia, and Turkey. The implementation of such comprehensive legislative amendments directly correlated with significant drops in exposure to second-hand smoke, particularly evident in Spain, Belgium, and Poland.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "f2072f0781518fed650eb07459739947c4545c6ca087a1f144c8ef84b1de1890",
+            "8c260dc62e954751d7ec87f4358faa289e8cd6b06312831d541d785ed5633e4c"
+        ]
+    },
+    {
+        "question": "While several Member States restrict or ban combustible tobacco in hotel bedrooms, which specific nations have extended their smoke-free legislation to encompass the consumption of electronic cigarettes in enclosed public spaces and other workplaces?",
+        "gold_answer": "Although countries like Cyprus, Austria, and Bulgaria completely prohibit smoking in hotel bedrooms, Belgium, Malta, and Slovakia have expanded their legislative framework to explicitly ban the consumption of electronic cigarettes in enclosed public places, restaurants, bars, and other workplaces.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "63bd8049f3dee3353ab08a79a189bbc5f110793d14fbb9ed703e6f347f8c9326",
+            "33e0ada1fe173ea4af8fbe357cf886dd9ae3b9632cfa7628605d77dff75c0fa9"
+        ]
+    },
+    {
+        "question": "Although smoke-free legislation is highly developed within public transit networks across most Member States, which specific countries maintain limited exemptions for long-distance maritime travel?",
+        "gold_answer": "The vast majority of Member States enforce a total smoking ban within public transport systems; however, Finland, Latvia, and Denmark maintain limited exemptions that permit smoking in designated rooms or specific areas aboard long-distance passenger ships.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "2619b881dfe7b705012355ca989b52d09fbdb7fcc077b19e3b340bedc4d122dc",
+            "b2d3988d119caca4af0c0a6fa07bfe26b9824ea83b423c381b34030b73e3024e"
+        ]
+    },
+    {
+        "question": "What measurable reductions in environmental particulate matter and occupational exposure to second-hand smoke have been documented following the implementation of smoke-free legislation, and how did this affect the respiratory health of specific worker demographics?",
+        "gold_answer": "The implementation of smoke-free legislation resulted in a rapid decrease of particulate matter concentration by between eighty-four and ninety-three percent in regions such as Spain, England, Scotland, Wales, and Ireland. Concurrently, the occupational exposure of bar workers in England fell by an average of seventy-three to ninety-one percent, which directly correlated with substantial reductions in respiratory and sensory symptoms among hospitality staff and game center workers in Ireland and Sweden.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "1def975e9902fc75c5ba3dcec7ca35028111dcd6fc055c9c3ac3b6a6d918d660",
+            "47bf0948412942ebc1a3dcd06bd004f8ffe375e66134457427ebe8b524e38f46"
+        ]
+    },
+    {
+        "question": "Despite the Council Recommendation omitting private spaces from its scope, which countries have taken or proposed legislative action to ban smoking in vehicles containing minors, and what complementary restrictions exist regarding the sale of tobacco-imitating products?",
+        "gold_answer": "Although private settings are excluded from the core recommendation, Cyprus has enacted legislation banning smoking in cars when children under the age of sixteen are present, and the Irish Ministry of Health has proposed a similar prohibition. Complementing these protective measures, approximately half of the Member States strictly prohibit the sale of sweets and toys that resemble tobacco products to prevent youth initiation and indirect advertising.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "0ef9bf7178061e120245f9a2f2780610a2e03d071f759e280b123dbb5004299b",
+            "9bf15b11301f8c6e11729d8927ff5cc571243530b812daa850bbe6dc6009f0d7"
+        ]
+    },
+    {
+        "question": "How does the Council Recommendation's call for a multi-sectorial approach to tobacco control align with the broader frameworks provided by the World Health Organization, and which specific Member States have openly modeled their national strategies on the MPOWER initiative?",
+        "gold_answer": "The Council Recommendation expands upon the World Health Organization Framework Convention on Tobacco Control Article eight by urging Member States to extend tobacco control efforts beyond traditional health departments to encompass comprehensive, multi-sectorial strategies such as taxation. Aligning with this international guidance, Portugal and Cyprus explicitly reported that their national tobacco control strategies are based on the World Health Organization MPOWER framework to promote inter-sectorial collaboration.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "87153b7112bce3c51a148015acd0e5d12d14d421aa9e7b7bdb95c64bfaedad9b",
+            "01a85cdba7fa47d5a1c3cf54bc90ecf1bc8e2e885a5415f64665071c0a206d95"
+        ]
+    },
+    {
+        "question": "How do Member States fulfill the Recommendation's mandate to protect children by regulating the availability of tobacco through minimum packaging size mandates and vending machine restrictions?",
+        "gold_answer": "To limit the accessibility of small packaging and protect minors, fourteen Member States mandate a minimum pack size of twenty cigarettes, four require nineteen, and the United Kingdom specifies a minimum of ten cigarettes. Furthermore, youth access is restricted by thirteen Member States completely banning the sale of tobacco from vending machines, a prohibition that Finland is scheduled to implement by the year two thousand and fifteen.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "428f4730140d0dab5298efe28c8c709c7743b2862a67c7f020213904b848b391",
+            "9bf15b11301f8c6e11729d8927ff5cc571243530b812daa850bbe6dc6009f0d7"
+        ]
+    },
+    {
+        "question": "What contrasting short-term impacts did comprehensive smoke-free legislation have on acute medical admissions in England compared to the immediate financial performance of the hospitality sector in Ireland?",
+        "gold_answer": "Following the introduction of comprehensive smoke-free legislation, England experienced a rapid public health benefit characterized by twelve hundred fewer emergency hospital admissions for myocardial infarction within the first year. Conversely, the immediate economic impact on the hospitality sector in Ireland manifested as a four point six percent decline in bar sales, though international analyses consistently indicate that such policies exert no significant negative long-term effect on hospitality revenues.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "1def975e9902fc75c5ba3dcec7ca35028111dcd6fc055c9c3ac3b6a6d918d660",
+            "80f7977dd8ca090c99528557e6bc5ae254ac380a8baa6951532cdf946a03c867"
+        ]
+    },
+    {
+        "question": "How does the comprehensiveness of a smoke-free policy influence longitudinal public support among citizens, and what statistical shifts were observed in Italy and Norway following the enforcement of such laws?",
+        "gold_answer": "Research indicates that comprehensive smoke-free policies garner significantly more public support than partial regulations, with approval ratings consistently rising after the successful implementation of the legislation. This dynamic was statistically demonstrated in Italy, where public support increased from eighty-three percent to ninety-three percent, and in Norway, where support dramatically surged from fifty-four percent to ninety percent following the introduction of smoking bans in bars and restaurants.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "8c260dc62e954751d7ec87f4358faa289e8cd6b06312831d541d785ed5633e4c",
+            "48a11766ed9003edb9e52a2e7dd3135e818b83f8393330fb984945245852e1ad"
+        ]
+    },
+    {
+        "question": "While enforcing smoke-free legislation incurs direct governmental costs, how did the implementation of these policies subsequently affect the trajectory of tobacco tax revenues across different Member States?",
+        "gold_answer": "Enforcing smoke-free laws requires dedicated governmental funding, such as the estimated four to five million euros spent annually by the Netherlands, yet the subsequent impact on tobacco tax revenues exhibits significant regional variation. For instance, Italy experienced a twenty-five percent increase in tobacco tax revenues between two thousand and four and two thousand and eleven despite a decrease in overall sales, whereas Latvia and Spain documented slight revenue reductions of eight percent and two percent, respectively.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "80f7977dd8ca090c99528557e6bc5ae254ac380a8baa6951532cdf946a03c867",
+            "ea708e7062176cce5b60ddaf51be9c96f9a8f9c76edd400058e67163a0980393"
+        ]
+    },
+    {
+        "question": "In accordance with Article fourteen of the Framework Convention on Tobacco Control, what specific infrastructure and pharmacological support systems have Member States established to facilitate tobacco cessation and treat dependence?",
+        "gold_answer": "To facilitate tobacco cessation, twenty-one Member States have established specialized centers for the treatment of tobacco dependence, and twelve have integrated these programs directly into rehabilitation facilities. To further support these clinical interventions, seven Member States provide financial assistance through low-cost dispensing or reimbursement schemes for Nicotine Replacement Therapy.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "4d0e0ea57d9ec95b97953f876163e987863aea202a1d41ed135575fd8e881e7e",
+            "c4d0c7dec1692118e3f7416e1e1e70b174df4531a7e517b42f8007e9be9783d7"
+        ]
+    },
+    {
+        "question": "In pursuit of complementary tobacco control policies designed to protect young demographics, by what distinct regulatory mechanisms do various Member States govern the inclusion of specific flavorings and additives within tobacco products?",
+        "gold_answer": "Member States employ a variety of regulatory mechanisms to control tobacco ingredients, such as Lithuania utilizing a negative list to ban specific additives like vanilla root and clove, and Poland outright prohibiting ingredients that enhance addictive properties. Alternatively, France enforces laws establishing maximum allowable levels for ingredients that impart sweet or fruity tastes, while Sweden retains the flexibility to regulate product ingredients on a purely ad-hoc basis.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "428f4730140d0dab5298efe28c8c709c7743b2862a67c7f020213904b848b391",
+            "9bf15b11301f8c6e11729d8927ff5cc571243530b812daa850bbe6dc6009f0d7"
+        ]
+    },
+    {
+        "question": "How do legislative exemptions regarding combustible tobacco use differ between higher educational institutions and specialized residential care units across the European Union?",
+        "gold_answer": "While institutions of lower education strictly prohibit smoking, several Member States allow limited exemptions in higher educational facilities by permitting smoking in designated rooms for staff or students. In contrast, residential care units are subject to total smoking bans in countries like Greece, Hungary, Bulgaria, and Malta, whereas Spain enforces a targeted ban that forbids smoking among staff and visitors but permits residents to smoke under specific conditions.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "d3f84495778eb85c4cdec71d3dd229427e5f2f471091cfce2e48dfa9e0ecaeb1",
+            "d4a179935b1bffc895b55a03c5db1a9d36c89df29593347828b0329b6d7900c5"
+        ]
+    },
+    {
+        "question": "How do national regulations contrast when addressing the permissibility of smoking within temporary or long-term private accommodations, specifically regarding prison cells and hotel bedrooms?",
+        "gold_answer": "The permissibility of smoking in private living quarters varies widely, as prison cells are subject to absolute smoking bans in Spain, Malta, Sweden, Bulgaria, and Wales. Conversely, the majority of Member States allow smoking in hotel bedrooms at the discretion of the proprietor or mandate a specific quota, such as Finland reserving ten percent of rooms for smokers, while only a minority like Cyprus, Austria, and Bulgaria strictly prohibit smoking in hotel accommodations.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "63bd8049f3dee3353ab08a79a189bbc5f110793d14fbb9ed703e6f347f8c9326",
+            "33e0ada1fe173ea4af8fbe357cf886dd9ae3b9632cfa7628605d77dff75c0fa9"
+        ]
+    },
+    {
+        "question": "Beyond targeted proposals to restrict exposure in private vehicles, what contrasting strategies are employed across European nations regarding the legal purchasing age for tobacco and the physical visibility of these products at retail locations?",
+        "gold_answer": "Across the European Union, the legal threshold to purchase tobacco is set at eighteen years of age in twenty-two Member States, while the remaining five permit sales to individuals aged sixteen. To further curtail consumption beyond private vehicles, three Member States, alongside Iceland and Norway, enforce strict laws prohibiting the visible display of tobacco products at the point of sale, and fourteen additional Member States enforce specific restrictions on promotional activities within retail environments.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "0ef9bf7178061e120245f9a2f2780610a2e03d071f759e280b123dbb5004299b",
+            "9bf15b11301f8c6e11729d8927ff5cc571243530b812daa850bbe6dc6009f0d7"
+        ]
+    },
+    {
+        "question": "What specific epidemiological data and international treaties served as the foundational inspiration for the Council Recommendation adopted in November two thousand and nine regarding smoke-free environments?",
+        "gold_answer": "The Council Recommendation was catalyzed by conservative estimates indicating that over seventy-nine thousand adults in the European Union died in two thousand and two as a direct result of exposure to second-hand smoke at home and work. This alarming mortality data prompted the adoption of a framework inspired directly by Article eight of the World Health Organization Framework Convention on Tobacco Control and its subsequent two thousand and seven implementation guidelines.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "87153b7112bce3c51a148015acd0e5d12d14d421aa9e7b7bdb95c64bfaedad9b",
+            "428f4730140d0dab5298efe28c8c709c7743b2862a67c7f020213904b848b391"
+        ]
+    },
+    {
+        "question": "What distinct categories of quantitative indicators and methodological surveys are utilized by Member States to monitor and evaluate the effectiveness of their national smoke-free legislation?",
+        "gold_answer": "To evaluate legislative effectiveness, Member States like Belgium and the United Kingdom utilize direct compliance data, whereas countries such as Denmark and Spain measure actual population exposure to tobacco smoke. Additionally, monitoring frameworks frequently incorporate national surveys to gauge smoking habits and indoor air quality, alongside clinical indicators tracking annual smoking prevalence, specialized quit rates, and the consumption volume of Nicotine Replacement Therapies.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "93400a8411051e4031a90d3a88973f80539e6d0f5d0ffce1a49bfcbcc99222d0",
+            "c0489ce8e349c531f73a433a97eae27e14bfffc07bb6bfd17a53bbf1a659609d"
+        ]
+    },
+    {
+        "question": "Why do certain Member States exhibit exceedingly high rates of public exposure to second-hand smoke despite having formal smoke-free legislation actively in place?",
+        "gold_answer": "High exposure rates to second-hand smoke in certain Member States often stem from a combination of inadequate enforcement resources and overly complex legislation that includes numerous venue exemptions. Furthermore, environments characterized by high overall smoking prevalence levels render effective enforcement significantly more challenging, as smoking is perceived as more socially acceptable, resulting in exposure rates as high as seventy-one percent in drinking establishments in Greece.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "f2072f0781518fed650eb07459739947c4545c6ca087a1f144c8ef84b1de1890",
+            "8c260dc62e954751d7ec87f4358faa289e8cd6b06312831d541d785ed5633e4c"
+        ]
+    },
+    {
+        "question": "How does the elimination of occupational exposure to second-hand smoke translate into measurable economic advantages for employers and long-term healthcare savings for national systems?",
+        "gold_answer": "Eliminating occupational exposure to second-hand smoke directly decreases non-medical expenses for employers by reducing worker absenteeism and increasing overall productivity, as comprehensive arrangements eliminate the need to construct and maintain designated smoking areas. On a macroeconomic scale, fostering an environment that encourages smoking cessation significantly reduces national medical burdens, with a Finnish study calculating that eighty-five percent of lifelong health care costs could be saved if every smoker successfully quit.",
+        "document": "smoke-free_implementation_report_en.pdf",
+        "supporting_chunks": [
+            "1def975e9902fc75c5ba3dcec7ca35028111dcd6fc055c9c3ac3b6a6d918d660",
+            "80f7977dd8ca090c99528557e6bc5ae254ac380a8baa6951532cdf946a03c867",
+            "ea708e7062176cce5b60ddaf51be9c96f9a8f9c76edd400058e67163a0980393"
+        ]
+    }
+]

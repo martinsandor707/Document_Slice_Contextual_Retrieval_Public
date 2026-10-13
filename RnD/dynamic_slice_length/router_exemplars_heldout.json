@@ -1,0 +1,52 @@
+[
+ {
+  "text": "Alysa Ziying Tan , Han Yu , Member, IEEE , Lizhen Cui , Member, IEEE , and Qiang Yang , Fellow, IEEE\nAbstract -In parallel with the rapid adoption of artificial intelligence (AI) empowered by advances in AI research, there has been growing awareness and concerns of data privacy. Recent significant developments in the data regulation landscape have prompted a seismic shift in interest toward privacy-preserving AI. This has contributed to the popularity of Federated Learning (FL), the leading paradigm for the training of machine learning models on data silos in a privacy-preserving manner. In this survey, we explore the domain of personalized FL (PFL) to address the fundamental challenges of FL on heterogeneous data, a universal characteristic inherent in all real-world datasets. We analyze the key motivations for PFL and present a unique taxonomy of PFL techniques categorized according to [...]",
+  "k": 0,
+  "note": "author line + Abstract"
+ },
+ {
+  "text": "Learning the end-to-end mapping function F requires the estimation of network parameters Q 1⁄4 f W 1 ; W 2 ; W 3 ; B 1 ; B 2 ; B 3 g . This is achieved through minimizing the loss between the reconstructed images F ð Y ; Q Þ and the corresponding ground truth high-resolution images X . Given a set of high-resolution images X i f g and their corresponding low-resolution images Y i f g , we use mean squared error (MSE) as the loss function:\n<!-- formula-not-decoded -->\nwhere n is the number of training samples. Using MSE as the loss function favors a high PSNR. The PSNR is a widely-used metric for quantitatively evaluating image restoration quality, and is at least partially related to the per [...]",
+  "k": 2,
+  "note": "MSE loss formula with 'where n is ...'"
+ },
+ {
+  "text": "There have been a few studies of using deep learning techniques for image restoration. The multi-layer perceptron (MLP), whose all layers are fully-connected (in contrast to convolutional), is applied for natural image denoising [3] and post-deblurring denoising [35]. More closely related to our work, the convolutional neural network is applied for natural image denoising [21] and removing noisy patterns (dirt/rain) [12]. These restoration problems are more or less denoising-driven. Cui et al. [5] propose to embed autoencoder networks in their super-resolution pipeline under the notion internal example-based approach [16]. The deep model is n [...]",
+  "k": 1,
+  "note": "related work, methods named (MLP, CNN denoising, Cui et al.)"
+ },
+ {
+  "text": "Learning rate used during reinforcement learning and supervised learning experiments, measured in thousands of steps (mini-batch updates).\nre SeArCh",
+  "k": 3,
+  "note": "dangling figure caption with layout junk (148 chars)"
+ },
+ {
+  "text": "- [1] M. Aharon, M. Elad, and A. Bruckstein, 'K-SVD: An algorithm for designing overcomplete dictionaries for sparse representation,' IEEE Trans. Signal Process. , vol. 54, no. 11, pp. 4311-4322, Nov. 2006.\n- [2] M. Bevilacqua, A. Roumy, C. Guillemot, and M. L. A. Morel, 'Low-complexity single-image super-resolution based on nonnegative neighbor embedding,' in Proc. Brit. Mach. Vis. Conf. , 2012, pp. 1-10.\n- [3] H. C. Burger, C. J. Schuler, and S. Harmeling, 'Image denoising: Can plain neural networks compete with BM3D?' in Proc. IEEE Conf. Comput. Vis. Pattern Recog. , 2012, pp. 2392-2399.",
+  "k": 0,
+  "note": "reference list excerpt"
+ },
+ {
+  "text": "Fig. 12 shows the running time comparisons of several state-of-the-art methods, along with their restoration performance on Set14 . All baseline methods are obtained from the corresponding authors' MATLAB+MEX implementation, whereas ours are in pure C++. We profile the running time of all the algorithms using the same machine (Intel CPU 3.10 GHz and 16 GB memory). Note that the processing time of our approach is highly linear to the test image resolution, since all images go through the same number of convolutions. Our method is always a trade-off between performance and speed. To show this, w [...]",
+  "k": 2,
+  "note": "results pointing to Fig. 12, running-time comparison"
+ },
+ {
+  "text": "We designed a quantum processor named 'Sycamore' which consists of a two-dimensional array of 54 transmon qubits, where each qubit is tunably coupled to four nearest neighbours, in a rectangular lattice. The\nFig. 1 | The Sycamore processor. a , Layout of processor, showing a rectangular array of 54 qubits (grey), each connected to its four nearest neighbours with couplers (blue). The inoperable qubit is outlined. b , Photograph of the Sycamore chip.\nconnectivity was chosen to be forward-compatible with error correction using the surface code 26 . A key systems engineering advance of this device is achieving high-fidelity single- and two-qubit [...]",
+  "k": 1,
+  "note": "device description: the Sycamore processor"
+ },
+ {
+  "text": "We have presented a novel deep learning approach for single image SR. We show that conventional sparse-codingbased SR methods can be reformulated into a deep convolutional neural network. The proposed approach, SRCNN, learns an end-to-end mapping between low- and high-resolution images, with little extra pre/post-processing beyond the optimization. With a lightweight structure, the SRCNN has achieved superior performance than the state-of-the-art methods. We conjecture that additional performance can be further gained by exploring more filters and different training strategies. Besides, the proposed structure, with its advantages of simplicity and robustness, could be applied to other low-le [...]",
+  "k": 0,
+  "note": "conclusion 'We have presented ...'"
+ },
+ {
+  "text": "As shown in the literature, deep learning generally benefits from big data training. For comparison, we use a relatively small training set [39], [48] that consists of 91 images, and a large training set that consists of 395,909 images from the ILSVRC 2013 ImageNet detection training partition. The size of training sub-images is fsub 1⁄4 33 . Thus the 91-image dataset can be decomposed into 24,800 sub-images, which are extracted from original images with a stride of 14. Whereas the ImageNet provides over 5 million sub-images even using a stride of 33. We use the basic network settings, i.e., f [...]",
+  "k": 1,
+  "note": "experimental setup: training sets, network settings"
+ },
+ {
+  "text": "The authors wish to thank Dr. S. Winograd and Dr. L. Shepp for many helpful discussions.",
+  "k": 0,
+  "note": "acknowledgement (88 chars)"
+ }
+]
